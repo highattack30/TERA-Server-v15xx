@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="803">
+  <Template id="101" scale="1.6" size="large" shapeId="301530" gender="female" race="Arkus" resourceSize="100" resourceType="large" parentId="30153002" basicActionId="3015300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="True" villager="False">
+    <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="14487254" />
+  </Template>
+  <Template id="201" scale="1.2" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="145" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="4960389" />
+  </Template>
+  <Template id="202" scale="1.2" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="large" parentId="30081002" basicActionId="3008100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="130" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="4960389" />
+  </Template>
+  <Template id="203" scale="1.2" size="large" shapeId="301720" gender="male" race="Armadillo" resourceSize="100" resourceType="large" parentId="30172000" basicActionId="3017200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="4960389" />
+  </Template>
+  <Template id="205" scale="1.2" size="large" shapeId="300350" gender="male" race="BloodGolem" resourceSize="100" resourceType="large" parentId="30035002" basicActionId="3003500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="4960389" />
+  </Template>
+  <Template id="301" scale="1.5" size="medium" shapeId="300110" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011000" basicActionId="3001100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="302" scale="1.4" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014000" basicActionId="3001400" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="303" scale="1.4" size="medium" shapeId="300630" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063000" basicActionId="3006300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="304" scale="1.4" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="305" scale="1.5" size="medium" shapeId="300780" gender="male" race="Arctus" resourceSize="0" resourceType="" parentId="30078000" basicActionId="3007800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="75" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="306" scale="1.3" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="401" scale="0.8" size="small" shapeId="300400" gender="male" race="KoboldRaider" resourceSize="100" resourceType="small" parentId="30040000" basicActionId="3004000" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="run01" />
+    </AltAnimation>
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="127367" />
+  </Template>
+  <Template id="402" scale="0.8" size="small" shapeId="300550" gender="male" race="DwarfMadman" resourceSize="100" resourceType="small" parentId="30055000" basicActionId="3005500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="127367" />
+  </Template>
+  <Template id="404" scale="0.7" size="small" shapeId="301080" gender="male" race="UndeadEscort" resourceSize="100" resourceType="small" parentId="30108000" basicActionId="3010800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="127367" />
+  </Template>
+  <Template id="501" scale="0.8" size="medium" shapeId="611450" gender="male" race="NPC_T4_Battle_Door" resourceSize="100" resourceType="medium" parentId="61145000" basicActionId="6114500" cannotPassThrough="True" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="601" scale="1.0" size="medium" shapeId="720520" gender="male" race="T4_Stone" resourceSize="100" resourceType="medium" parentId="72052000" basicActionId="7205200" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="602" scale="1.0" size="small" shapeId="720521" gender="male" race="T4_Stone" resourceSize="100" resourceType="medium" parentId="72053000" basicActionId="7205200" cannotPassThrough="False" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="9" />
+  </Template>
+  <Template id="701" scale="1.2" size="large" shapeId="301720" gender="male" race="Armadillo" resourceSize="100" resourceType="large" parentId="30172000" basicActionId="3017200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="4960389" />
+  </Template>
+  <Template id="702" scale="1.4" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014000" basicActionId="3001400" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="703" scale="1.4" size="medium" shapeId="300630" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063000" basicActionId="3006300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="704" scale="1.4" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="705" scale="1.5" size="medium" shapeId="300110" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011000" basicActionId="3001100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="706" scale="1.3" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="432760" />
+  </Template>
+  <Template id="707" scale="0.8" size="small" shapeId="300550" gender="male" race="DwarfMadman" resourceSize="100" resourceType="small" parentId="30055000" basicActionId="3005500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="127367" />
+  </Template>
+  <Template id="708" scale="0.8" size="small" shapeId="300400" gender="male" race="KoboldRaider" resourceSize="100" resourceType="small" parentId="30040000" basicActionId="3004000" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="run01" />
+    </AltAnimation>
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="127367" />
+  </Template>
+  <Template id="1501" class="" scale="1.25" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="False" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

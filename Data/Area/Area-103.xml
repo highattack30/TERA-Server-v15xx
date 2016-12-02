@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9032" areaName="SD_GOLDMAZE_P" nameId="9032001" ride="True" worldMapGuardId="6" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="9032001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="1000.0" subtractMinZ="1000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9032">
+    <Fence pos="16264.85156250,182034.92187500,-2142.12915039" />
+    <Fence pos="16345.91601563,169768.37500000,-2205.91943359" />
+    <Fence pos="29973.60351563,169659.81250000,-2197.93554688" />
+    <Fence pos="29906.54687500,182581.25000000,-2240.40258789" />
+    <Fence pos="16408.34375000,182555.01562500,-2238.81420898" />
+  </Section>
+</Area>

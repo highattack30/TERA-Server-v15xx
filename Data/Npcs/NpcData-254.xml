@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="490">
+  <Template id="1" scale="0.8" size="small" shapeId="300250" gender="male" race="RedCap" resourceSize="100" resourceType="medium" parentId="30025000" basicActionId="3002500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="12" maxHp="223" />
+  </Template>
+  <Template id="2" scale="0.9" size="small" shapeId="300240" gender="female" race="Pixie" resourceSize="100" resourceType="medium" parentId="30024000" basicActionId="3002400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="13" maxHp="239" />
+  </Template>
+  <Template id="3" scale="1.35" size="medium" shapeId="300340" gender="male" race="YoungCentaurs" resourceSize="100" resourceType="medium" parentId="30034000" basicActionId="3003400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="14" maxHp="1819" />
+  </Template>
+  <Template id="4" scale="1.15" size="medium" shapeId="300260" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026000" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="12" maxHp="946" />
+  </Template>
+  <Template id="5" scale="1.15" size="medium" shapeId="300261" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026100" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="1089" />
+  </Template>
+  <Template id="6" scale="1.35" size="medium" shapeId="300080" gender="male" race="PollutedUnicorn" resourceSize="100" resourceType="medium" parentId="30008001" basicActionId="3000800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="54" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="2164" />
+  </Template>
+  <Template id="7" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005003" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1164" />
+  </Template>
+  <Template id="8" scale="1.35" size="medium" shapeId="300700" gender="male" race="Pigling" resourceSize="100" resourceType="small" parentId="30070001" basicActionId="3007000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="36" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="1089" />
+  </Template>
+  <Template id="1001" class="" scale="1.0" size="medium" shapeId="300240" gender="female" race="monster" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="3002400" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" size="medium" shapeId="300240" gender="female" race="Pixie" resourceSize="100" resourceType="medium" basicActionId="3002400" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="19" maxHp="9912" />
+  </Template>
+  <Template id="1003" class="" scale="1.0" size="medium" shapeId="203107" gender="female" race="Human" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5001200" collideOnMove="False" dontTurn="False" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="19" maxHp="2726" />
+  </Template>
+  <Template id="1004" scale="1.0" size="medium" shapeId="300240" gender="male" race="monster" resourceSize="100" resourceType="medium" basicActionId="3002400" dontTurn="False" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="19" maxHp="1908" />
+  </Template>
+  <Template id="1005" class="" scale="1.0" size="small" shapeId="600032" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="6000320" collideOnMove="True" deathShapeId="600035" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="12" maxHp="892" />
+  </Template>
+  <Template id="1006" size="small" shapeId="600032" resourceSize="100" resourceType="medium" basicActionId="6000320" deathShapeId="600035" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="12" maxHp="892" />
+  </Template>
+  <Template id="1007" size="small" shapeId="600010" resourceSize="100" resourceType="medium" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="12" maxHp="624" />
+  </Template>
+</NpcData>

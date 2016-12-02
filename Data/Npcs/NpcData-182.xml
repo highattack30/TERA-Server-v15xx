@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="405">
+  <Template id="5001" scale="1.4" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="107006" />
+  </Template>
+  <Template id="5002" scale="1.4" size="medium" shapeId="300041" gender="female" race="DevilJailer" resourceSize="100" resourceType="medium" parentId="30004100" basicActionId="3000400" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="107006" />
+  </Template>
+  <Template id="5003" scale="1.4" size="medium" shapeId="300621" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062100" basicActionId="3006200" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="129642" />
+  </Template>
+  <Template id="5005" scale="1.4" size="medium" shapeId="300631" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063100" basicActionId="3006300" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="129642" />
+  </Template>
+  <Template id="5006" scale="1.4" size="large" shapeId="301530" gender="female" race="Arkus" resourceSize="100" resourceType="large" parentId="30153000" basicActionId="3015300" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="54" maxHp="1854218" />
+  </Template>
+  <Template id="5007" scale="1.8" size="medium" shapeId="300041" gender="female" race="DevilJailer" resourceSize="100" resourceType="medium" parentId="30004100" basicActionId="3000400" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="160509" />
+  </Template>
+  <Template id="5008" scale="1.8" size="medium" shapeId="300621" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062100" basicActionId="3006200" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="194463" />
+  </Template>
+  <Template id="5009" scale="1.8" size="medium" shapeId="300631" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063100" basicActionId="3006300" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="194463" />
+  </Template>
+  <Template id="9001" scale="2.0" size="small" shapeId="600010" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="11072" />
+  </Template>
+  <Template id="9002" size="small" shapeId="600040" parentId="60004000" basicActionId="6000400" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="11072" />
+  </Template>
+  <Template id="9003" size="small" shapeId="600032" parentId="60003002" basicActionId="6000320" deathShapeId="600035" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="79090" />
+  </Template>
+</NpcData>

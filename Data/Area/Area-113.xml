@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9046" areaName="EX_HSC_A_T42_03_P" nameId="9046001" ride="True" worldMapGuardId="18" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" nameId="9046001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="2000.0" subtractMinZ="2000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9046">
+    <Fence pos="-60495.8828,119932.8359,2796.6738" />
+    <Fence pos="-61613.2031,118408.2031,3582.7349" />
+    <Fence pos="-61670.5703,116191.7734,3774.7805" />
+    <Fence pos="-59269.8398,114291.6406,3981.5134" />
+    <Fence pos="-51140.7305,114661.4688,3313.3501" />
+    <Fence pos="-49360.9531,121229.0156,2679.4263" />
+    <Fence pos="-53676.3125,121027.7500,2777.0630" />
+  </Section>
+</Area>

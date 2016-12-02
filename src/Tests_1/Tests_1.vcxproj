@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A0F5D5A9-1BE4-4562-B740-17081547F0AE}</ProjectGuid>
+    <RootNamespace>Tests_1</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>C:\boost;C:\Users\Narcis\Documents\Visual Studio 2015\Projects\Tests_1\Tests_1\mysql\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Narcis\Documents\Visual Studio 2015\Projects\Tests_1\Tests_1\mysql\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>C:\boost;C:\Users\Narcis\Documents\Visual Studio 2015\Projects\Tests_1\Tests_1\mysql\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Narcis\Documents\Visual Studio 2015\Projects\Tests_1\Tests_1\mysql\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <DisableSpecificWarnings>4251</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>mysqlcppconn.lib;ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>mysqlcppconn-static.lib;mysqlcppconn.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="account.cpp" />
+    <ClCompile Include="area.cpp" />
+    <ClCompile Include="config.cpp" />
+    <ClCompile Include="connexion.cpp" />
+    <ClCompile Include="creature.cpp" />
+    <ClCompile Include="Crypt.cpp" />
+    <ClCompile Include="Cryptor.cpp" />
+    <ClCompile Include="CryptorKey.cpp" />
+    <ClCompile Include="dataservice.cpp" />
+    <ClCompile Include="dbHandler.cpp" />
+    <ClCompile Include="inventory.cpp" />
+    <ClCompile Include="job.cpp" />
+    <ClCompile Include="linkList.cpp" />
+    <ClCompile Include="logService.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="mathUtils.cpp" />
+    <ClCompile Include="MySqlDriver.cpp" />
+    <ClCompile Include="npc.cpp" />
+    <ClCompile Include="OpCodes.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="server.cpp" />
+    <ClCompile Include="servertime.cpp" />
+    <ClCompile Include="Session.cpp" />
+    <ClCompile Include="Sha.cpp" />
+    <ClCompile Include="spawn.cpp" />
+    <ClCompile Include="Stream.cpp" />
+    <ClCompile Include="stringUtils.cpp" />
+    <ClCompile Include="World.cpp" />
+    <ClCompile Include="worldposition.cpp" />
+    <ClCompile Include="XMLDocumentParser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="abnormalitytemplate.h" />
+    <ClInclude Include="account.h" />
+    <ClInclude Include="area.h" />
+    <ClInclude Include="areatemplate.h" />
+    <ClInclude Include="connexion.h" />
+    <ClInclude Include="connexionEnums.h" />
+    <ClInclude Include="creature.h" />
+    <ClInclude Include="creatureEnums.h" />
+    <ClInclude Include="Crypt.hpp" />
+    <ClInclude Include="customizingitemtemplate.h" />
+    <ClInclude Include="dataservice.h" />
+    <ClInclude Include="DBHandler.h" />
+    <ClInclude Include="enchantdatatemplate.h" />
+    <ClInclude Include="equipmentdatatemplate.h" />
+    <ClInclude Include="equipmentEnums.h" />
+    <ClInclude Include="equipmentsettemplate.h" />
+    <ClInclude Include="inventory.h" />
+    <ClInclude Include="itemEnums.h" />
+    <ClInclude Include="itemtemplate.h" />
+    <ClInclude Include="job.h" />
+    <ClInclude Include="jobEnums.h" />
+    <ClInclude Include="linkList.h" />
+    <ClInclude Include="logService.h" />
+    <ClInclude Include="mathUtils.h" />
+    <ClInclude Include="MySqlDriver.h" />
+    <ClInclude Include="npc.h" />
+    <ClInclude Include="npctemplate.h" />
+    <ClInclude Include="opcodeEnum.h" />
+    <ClInclude Include="OpCodes.h" />
+    <ClInclude Include="passivitycategorytemplate.h" />
+    <ClInclude Include="passivitytemplate.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="playerEnums.h" />
+    <ClInclude Include="server.h" />
+    <ClInclude Include="config.h" />
+    <ClInclude Include="serverEnums.h" />
+    <ClInclude Include="servertime.h" />
+    <ClInclude Include="SkillEnums.h" />
+    <ClInclude Include="skilltemplate.h" />
+    <ClInclude Include="socket.h" />
+    <ClInclude Include="spawn.h" />
+    <ClInclude Include="Stream.h" />
+    <ClInclude Include="stringUtils.h" />
+    <ClInclude Include="typeDefs.h" />
+    <ClInclude Include="World.h" />
+    <ClInclude Include="worldposition.h" />
+    <ClInclude Include="XMLDocumentParser.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

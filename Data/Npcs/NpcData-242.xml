@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="475">
+  <Template id="1000" scale="1.6" size="large" shapeId="301850" gender="male" race="GreatGriffin" resourceSize="100" resourceType="large" isWideBroadcaster="True" parentId="30185000" despawnScriptId="0" basicActionId="3018500" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" showTargetInfo="False" spawnScriptId="0">
+    <Stat level="59" maxHp="5000000" />
+  </Template>
+  <Template id="1001" scale="0.6" size="medium" shapeId="611150" isWideBroadcaster="True" parentId="61115000" despawnScriptId="0" basicActionId="9999999" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475100101">
+    <Stat level="58" maxHp="42950" />
+  </Template>
+  <Template id="1002" scale="0.6" size="medium" shapeId="611150" isWideBroadcaster="True" parentId="61115000" despawnScriptId="0" basicActionId="6111500" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475100201">
+    <Stat level="58" maxHp="644252" />
+  </Template>
+  <Template id="1003" scale="1.0" size="small" shapeId="301190" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="small" isWideBroadcaster="True" parentId="30119000" despawnScriptId="0" basicActionId="3011900" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475100301">
+    <Stat level="58" maxHp="28964" />
+  </Template>
+  <Template id="1004" scale="1.0" size="small" shapeId="301191" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="small" isWideBroadcaster="True" parentId="30119100" despawnScriptId="0" basicActionId="3011900" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475100401">
+    <Stat level="58" maxHp="21065" />
+  </Template>
+  <Template id="2000" scale="2.0" size="large" shapeId="301483" gender="male" race="Dark_Knight" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30148200" despawnScriptId="0" basicActionId="3014800" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="475200001">
+    <Stat level="58" maxHp="1312057" />
+  </Template>
+  <Template id="2001" scale="2.5" size="large" shapeId="301453" gender="male" race="Dark_Rook_Slayer" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30145200" despawnScriptId="0" basicActionId="3014500" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="475200001">
+    <Stat level="58" maxHp="1124620" />
+  </Template>
+  <Template id="2002" scale="3.0" size="large" shapeId="301493" gender="male" race="Dark_Pawn_Archer" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30149200" despawnScriptId="0" basicActionId="3014900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="475200001">
+    <Stat level="58" maxHp="999662" />
+  </Template>
+  <Template id="2003" scale="3.0" size="large" shapeId="301473" gender="male" race="Dark_Queen" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30147200" despawnScriptId="0" basicActionId="3014700" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="475200001">
+    <Stat level="58" maxHp="749746" />
+  </Template>
+  <Template id="2004" scale="3.0" size="large" shapeId="301513" gender="male" race="Dark_Bishop" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30151200" despawnScriptId="0" basicActionId="3015100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="475200001">
+    <Stat level="58" maxHp="749746" />
+  </Template>
+  <Template id="3000" scale="1.0" size="medium" shapeId="611310" isWideBroadcaster="True" parentId="61131000" despawnScriptId="475300002" basicActionId="6113100" deathShapeId="611311" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475300001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="3001" scale="1.0" size="medium" shapeId="611290" isWideBroadcaster="True" parentId="61129000" despawnScriptId="475300002" basicActionId="6112900" deathShapeId="611291" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475300001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="3002" scale="1.0" size="medium" shapeId="611320" isWideBroadcaster="True" parentId="61132000" despawnScriptId="475300002" basicActionId="6113200" deathShapeId="611321" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475300001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="3003" scale="1.0" size="medium" shapeId="611300" isWideBroadcaster="True" parentId="61130000" despawnScriptId="475300002" basicActionId="6113000" deathShapeId="611301" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475300001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="3004" scale="1.0" size="medium" shapeId="600950" isWideBroadcaster="True" parentId="60095000" despawnScriptId="475300002" basicActionId="6009500" deathShapeId="600951" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475300001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="5001" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="5002" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="5005" class="" scale="1.0" size="medium" shapeId="600070" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="6001" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="60096000" despawnScriptId="0" basicActionId="6009600" deathShapeId="600961" elite="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0">
+    <Stat level="58" maxHp="429" />
+  </Template>
+  <Template id="6002" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="60096000" despawnScriptId="475000000" basicActionId="6009600" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="6003" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="60096000" despawnScriptId="475000000" basicActionId="6009600" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="6004" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="60096000" despawnScriptId="475000000" basicActionId="6009600" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="7000" scale="1.0" size="medium" shapeId="600970" isWideBroadcaster="True" parentId="60097000" despawnScriptId="475700002" basicActionId="6009700" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475700001">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="7001" scale="1.0" size="medium" shapeId="600970" isWideBroadcaster="True" parentId="60097000" despawnScriptId="475700102" basicActionId="6009700" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475700101">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="8000" scale="1.0" size="medium" shapeId="611282" isWideBroadcaster="True" parentId="61128100" despawnScriptId="475800002" basicActionId="6112810" cannotPassThrough="True" elite="True" invincible="True" isObjectNpc="True" spawnScriptId="475800001">
+    <Stat level="58" maxHp="13038" />
+  </Template>
+  <Template id="8001" scale="1.0" size="medium" shapeId="611280" isWideBroadcaster="True" parentId="61128000" despawnScriptId="475800102" basicActionId="6112800" cannotPassThrough="True" elite="True" invincible="True" isObjectNpc="True">
+    <Stat level="58" maxHp="13038" />
+  </Template>
+  <Template id="9000" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="6009600" despawnScriptId="475000000" basicActionId="9999999" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="9001" scale="1.0" size="medium" shapeId="600960" parentId="60096000" despawnScriptId="475000000" basicActionId="9999999" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475900100">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="9002" scale="0.6" size="large" shapeId="611150" isWideBroadcaster="True" parentId="61115000" despawnScriptId="475000000" basicActionId="6111500" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475900201">
+    <Stat level="58" maxHp="3123" />
+  </Template>
+  <Template id="9003" scale="0.6" size="large" shapeId="611150" isWideBroadcaster="True" parentId="61115000" despawnScriptId="475000000" basicActionId="6111500" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475900201">
+    <Stat level="58" maxHp="3123" />
+  </Template>
+  <Template id="9004" scale="0.6" size="large" shapeId="611150" isWideBroadcaster="True" parentId="61115000" despawnScriptId="475000000" basicActionId="6111500" elite="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475900201">
+    <Stat level="58" maxHp="3123" />
+  </Template>
+  <Template id="9998" scale="1.0" size="medium" shapeId="600960" parentId="60096000" despawnScriptId="475000000" basicActionId="9999999" deathShapeId="600961" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="429501" />
+  </Template>
+  <Template id="9999" scale="1.0" size="medium" shapeId="600960" isWideBroadcaster="True" parentId="61115000" despawnScriptId="475000000" basicActionId="6009600" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="475000000">
+    <Stat level="58" maxHp="644252" />
+  </Template>
+  <Template id="11111" class="" scale="1.0" size="medium" shapeId="90870001" gender="male" race="Popori" resourceSize="100" resourceType="medium" parentId="51038000" despawnScriptId="0" basicActionId="5103800" collideOnMove="False" dontTurn="False" elite="False" invincible="True" isObjectNpc="False" spawnScriptId="0" unionElite="False" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

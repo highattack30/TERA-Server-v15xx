@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9070" areaName="Liar_P" nameId="9070" ride="True" worldMapGuardId="4" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9070" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9070">
+    <Fence pos="-131942.85937500,-52074.92187500,5325.61962891" />
+    <Fence pos="-132027.51562500,-52588.46484375,5494.68066406" />
+    <Fence pos="-131292.85937500,-53682.21875000,4416.65478516" />
+    <Fence pos="-131077.54687500,-54193.13281250,4485.88671875" />
+    <Fence pos="-130693.74218750,-54432.50000000,4465.37353516" />
+    <Fence pos="-130279.18750000,-54380.14453125,4433.89208984" />
+    <Fence pos="-130014.95312500,-54207.76562500,4433.85351563" />
+    <Fence pos="-129914.41406250,-53768.42968750,5513.41308594" />
+    <Fence pos="-129968.03125000,-53424.35546875,4505.26367188" />
+    <Fence pos="-130404.69531250,-52899.38281250,5534.97802734" />
+    <Fence pos="-130428.26562500,-52093.42968750,5887.67431641" />
+    <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="907002" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9070">
+      <Fence pos="-129531.66406250,-52704.06640625,4433.45800781" />
+      <Fence pos="-131496.92187500,-52684.46093750,4433.45361328" />
+      <Fence pos="-131427.67187500,-54824.28906250,4433.45214844" />
+      <Fence pos="-129687.73437500,-54826.12890625,4433.44287109" />
+    </Section>
+    <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="907001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9070">
+      <Fence pos="-131929.89062500,-52084.57812500,5512.39257813" />
+      <Fence pos="-131935.40625000,-52582.83984375,5516.03125000" />
+      <Fence pos="-130693.29687500,-52558.54687500,5578.17138672" />
+      <Fence pos="-130737.22656250,-53014.45703125,5576.45214844" />
+      <Fence pos="-130695.37500000,-53110.85937500,5528.07031250" />
+      <Fence pos="-130556.25781250,-53174.98828125,5513.54736328" />
+      <Fence pos="-130427.00781250,-53110.76953125,5576.45800781" />
+      <Fence pos="-130382.27343750,-53001.81640625,5576.45947266" />
+      <Fence pos="-130431.39062500,-52096.02343750,5526.84033203" />
+    </Section>
+  </Section>
+</Area>

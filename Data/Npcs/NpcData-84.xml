@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="103">
+  <Template id="1004" class="" scale="2.0" size="large" shapeId="720610" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="7206100" collideOnMove="True" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <BattleFieldOnly addPoint="5000" isLastHit="True" />
+    <Stat level="1" maxHp="55000000" />
+  </Template>
+  <Template id="2001" scale="0.5" size="medium" shapeId="600960" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="True">
+    <AltAnimation />
+    <Stat level="1" maxHp="13038" />
+  </Template>
+  <Template id="2002" scale="2.0" size="small" shapeId="600031" race="" resourceSize="0" resourceType="" parentId="60003001" basicActionId="6000310" collideOnMove="True" deathShapeId="600034" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="1" maxHp="9999" />
+  </Template>
+  <Template id="2003" scale="1.0" size="small" shapeId="600031" race="" resourceSize="0" resourceType="" parentId="60003001" basicActionId="6000310" collideOnMove="True" deathShapeId="600034" elite="False" invincible="False" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="1" maxHp="100000" />
+  </Template>
+  <Template id="5000" scale="1.0" size="medium" shapeId="611410" gender="" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" elite="False" invincible="True" isObjectNpc="True" showTargetInfo="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="6000" scale="1.0" size="medium" shapeId="710031" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60025200" basicActionId="7100301" cannotPassThrough="True" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="30000" />
+  </Template>
+  <Template id="6001" scale="0.5" size="medium" shapeId="611390" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61139000" basicActionId="6113900" cannotPassThrough="True" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="100000" />
+  </Template>
+  <Template id="8001" class="" scale="1.0" size="medium" shapeId="302280" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="3022800" collideOnMove="True" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <BattleFieldOnly abnormalId="0" addPoint="1000" applyTarget="me" bossMarker="True" isLastHit="True" />
+    <Stat level="1" maxHp="1500000" />
+  </Template>
+  <Template id="8002" class="" scale="1.0" size="medium" shapeId="302280" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="3022800" collideOnMove="True" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <BattleFieldOnly abnormalId="0" addPoint="1000" applyTarget="me" bossMarker="True" isLastHit="True" />
+    <Stat level="1" maxHp="1500000" />
+  </Template>
+  <Template id="8003" class="" scale="2.0" size="medium" shapeId="302290" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="3022900" collideOnMove="True" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <BattleFieldOnly abnormalId="0" addPoint="1000" applyTarget="me" bossMarker="True" isLastHit="True" />
+    <Stat level="1" maxHp="1500000" />
+  </Template>
+  <Template id="8004" class="" scale="2.0" size="medium" shapeId="302290" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="3022900" collideOnMove="True" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <BattleFieldOnly abnormalId="0" addPoint="1000" applyTarget="me" bossMarker="True" isLastHit="True" />
+    <Stat level="1" maxHp="1500000" />
+  </Template>
+  <Template id="9001" class="" scale="1.0" size="medium" shapeId="700281" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="9999999" collideOnMove="True" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="9002" class="" scale="1.0" size="medium" shapeId="700282" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="9999999" collideOnMove="True" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="9003" class="" scale="0.5" size="medium" shapeId="700300" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="9999999" collideOnMove="True" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

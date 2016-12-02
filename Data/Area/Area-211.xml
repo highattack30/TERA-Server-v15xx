@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9830" areaName="Roundup_Hunting_P" nameId="9830" ride="True" worldMapGuardId="24" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="9001" desTex="False" ignoreObstacleShortTel="False" nameId="9830" pcMoveCylinder="True" pk="safe" ride="True" vender="False" addMaxZ="1000.0" subtractMinZ="1000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9830">
+    <Fence pos="22636.43554688,-129360.66406250,13420.15039063" />
+    <Fence pos="22153.27734375,-129813.73437500,13420.14843750" />
+    <Fence pos="21974.05078125,-130275.97656250,13420.14941406" />
+    <Fence pos="22095.09765625,-130804.96875000,13420.14941406" />
+    <Fence pos="22554.33984375,-131311.09375000,12446.15039063" />
+    <Fence pos="23391.75781250,-131231.07812500,13420.15039063" />
+    <Fence pos="23883.89257813,-130824.25781250,13420.14941406" />
+    <Fence pos="24009.77734375,-129903.60156250,12439.55957031" />
+    <Fence pos="23396.76953125,-129323.70312500,12450.52539063" />
+  </Section>
+</Area>

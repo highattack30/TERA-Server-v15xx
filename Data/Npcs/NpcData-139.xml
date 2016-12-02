@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="243">
+  <Template id="1001" class="" scale="1.0" size="medium" shapeId="203301" gender="male" race="Aman" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5001700" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" class="" scale="1.0" size="medium" shapeId="510000" gender="female" race="Human" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5100000" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1003" class="" scale="1.0" size="medium" shapeId="203501" gender="male" race="Highelf" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5001300" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1004" class="" scale="1.0" size="medium" shapeId="510020" gender="female" race="Castanic" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5100200" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1005" class="" scale="1.0" size="medium" shapeId="203304" gender="female" race="Aman" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5002800" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1006" class="" scale="1.0" size="medium" shapeId="510010" gender="female" race="Highelf" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5100100" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1007" class="" scale="1.0" size="medium" shapeId="203101" gender="male" race="Human" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5000800" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1700" class="" scale="1.0" size="medium" shapeId="510591" gender="female" race="Highelf" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5105900" collideOnMove="False" dontTurn="False" invincible="False" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="65" maxHp="807599" />
+  </Template>
+</NpcData>

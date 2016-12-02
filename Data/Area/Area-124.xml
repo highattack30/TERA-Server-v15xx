@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9060" areaName="Caliban_ShipWreck_P" nameId="9060004" ride="True" worldMapGuardId="6" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9060004" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+    <Fence pos="-134452.48437500,53296.83203125,4219.36425781" />
+    <Fence pos="-134859.90625000,50623.10937500,3616.85595703" />
+    <Fence pos="-134759.90625000,47796.23046875,3535.73681641" />
+    <Fence pos="-134258.96875000,45698.33203125,3569.99511719" />
+    <Fence pos="-132847.14062500,43306.42187500,3480.05322266" />
+    <Fence pos="-130398.65625000,39359.92578125,6081.83398438" />
+    <Fence pos="-128366.21875000,38778.39062500,6076.24414063" />
+    <Fence pos="-127713.34375000,39541.79296875,5171.61474609" />
+    <Fence pos="-126463.44531250,42549.44921875,4956.60791016" />
+    <Fence pos="-125890.52343750,44134.39062500,4488.59228516" />
+    <Fence pos="-125298.72656250,46743.52734375,4319.28173828" />
+    <Fence pos="-124961.16406250,49085.81250000,4411.74414063" />
+    <Fence pos="-125020.60937500,50862.42968750,4844.09863281" />
+    <Fence pos="-126771.10937500,51368.55078125,4846.00976563" />
+    <Fence pos="-131751.57812500,55873.92187500,5450.35107422" />
+    <Fence pos="-132728.12500000,55892.11718750,5456.89355469" />
+    <Fence pos="-133741.93750000,55890.48437500,5459.25927734" />
+    <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="9060003" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="1000.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+      <Fence pos="-131085.93750000,48617.58203125,3730.64965820" />
+      <Fence pos="-131363.98437500,46062.01953125,4009.61425781" />
+      <Fence pos="-129695.92187500,45326.25390625,3504.15576172" />
+      <Fence pos="-128657.92968750,48268.71875000,3411.05737305" />
+    </Section>
+    <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="9060001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+      <Fence pos="-133534.56250000,44627.23046875,4160.77001953" />
+      <Fence pos="-132168.95312500,44603.57421875,4173.59570313" />
+      <Fence pos="-131469.04687500,46089.92968750,3939.90502930" />
+      <Fence pos="-131083.32812500,48402.70703125,2861.08740234" />
+      <Fence pos="-131093.45312500,51614.64062500,2959.04003906" />
+      <Fence pos="-131855.15625000,55620.89062500,4708.67822266" />
+      <Fence pos="-133685.89062500,55719.47656250,4903.70654297" />
+      <Fence pos="-134051.32812500,54907.52343750,4468.67871094" />
+      <Fence pos="-134521.78125000,52303.78906250,3810.88671875" />
+      <Fence pos="-134716.60937500,49975.67187500,3592.31054688" />
+      <Fence pos="-134596.15625000,47765.75781250,3537.77319336" />
+      <Fence pos="-134250.51562500,46066.81250000,3570.44165039" />
+      <Section huntingZoneId="-1" priority="2" desTex="False" ignoreObstacleShortTel="False" nameId="9060005" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+        <Fence pos="-133785.10937500,52079.78906250,3010.08740234" />
+        <Fence pos="-133855.85937500,51645.25390625,2980.02124023" />
+        <Fence pos="-133943.68750000,50792.95312500,2932.33618164" />
+        <Fence pos="-133852.57812500,50060.77734375,3069.85009766" />
+        <Fence pos="-131774.25000000,50086.55078125,2952.51611328" />
+        <Fence pos="-131637.18750000,50560.01953125,2926.15209961" />
+        <Fence pos="-131712.73437500,51297.32812500,2960.45312500" />
+        <Fence pos="-131875.70312500,52170.16015625,3019.51586914" />
+        <Fence pos="-132038.40625000,52518.95312500,3031.39990234" />
+        <Fence pos="-133730.73437500,52340.84765625,3035.73413086" />
+      </Section>
+      <Section huntingZoneId="-1" priority="3" desTex="False" ignoreObstacleShortTel="False" nameId="9060006" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+        <Fence pos="-133413.10937500,45884.78125000,3786.45263672" />
+        <Fence pos="-132393.85937500,45838.28125000,3755.32348633" />
+        <Fence pos="-132432.39062500,46186.20703125,3777.68481445" />
+        <Fence pos="-132156.56250000,47011.37500000,4140.25292969" />
+        <Fence pos="-131994.20312500,48297.73828125,4046.09106445" />
+        <Fence pos="-131581.28125000,49993.16796875,3775.69848633" />
+        <Fence pos="-134074.62500000,50010.95312500,3776.58813477" />
+        <Fence pos="-133986.59375000,48279.33593750,3733.93041992" />
+        <Fence pos="-133513.01562500,46203.63281250,3771.22216797" />
+      </Section>
+    </Section>
+    <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="9060002" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9060">
+      <Fence pos="-128317.39062500,43146.00000000,4795.98046875" />
+      <Fence pos="-126779.32812500,43338.47265625,4462.63525391" />
+      <Fence pos="-125860.31250000,45010.91796875,4359.95312500" />
+      <Fence pos="-125094.38281250,49211.04687500,4409.80859375" />
+      <Fence pos="-127328.75000000,50558.56250000,3811.66748047" />
+      <Fence pos="-128262.95312500,49016.91406250,3433.63867188" />
+      <Fence pos="-129387.52343750,46622.71875000,4293.36035156" />
+      <Fence pos="-130624.47656250,42439.77343750,4201.62890625" />
+    </Section>
+  </Section>
+</Area>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9014" areaName="SWN_SD_P" nameId="9014001" ride="True" worldMapGuardId="22" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" nameId="9014001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="200.0" subtractMinZ="1000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9014">
+    <Fence pos="21559.6211,-7590.6318,496.3804" />
+    <Fence pos="18396.2109,-9998.4053,382.5923" />
+    <Fence pos="17517.5527,-12315.9160,380.6841" />
+    <Fence pos="18357.0371,-15891.3730,320.9175" />
+    <Fence pos="21871.7578,-21572.5664,-472.7938" />
+    <Fence pos="31667.6973,-23454.8301,-868.3008" />
+    <Fence pos="33761.2578,-19323.1543,1544.7864" />
+    <Fence pos="33341.5742,-13264.6113,725.9801" />
+    <Fence pos="28214.2734,-7170.2563,2266.4670" />
+    <Fence pos="27804.8613,-7039.0630,2266.4636" />
+    <Fence pos="25088.5410,-7365.2378,1079.3741" />
+  </Section>
+</Area>

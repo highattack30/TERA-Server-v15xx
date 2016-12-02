@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="112">
+  <Template id="1000" scale="1.0" size="large" shapeId="300680" gender="male" race="YuantiPirateRaider" resourceSize="100" resourceType="large" parentId="30068000" basicActionId="3006800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="65" />
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="0" addPoint="400" applyTarget="me" bossMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="17871700" />
+  </Template>
+  <Template id="2000" scale="1.5" size="large" shapeId="300351" gender="male" race="BloodGolem" resourceSize="100" resourceType="large" parentId="30035100" basicActionId="3003500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="2070" addPoint="50" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="17871700" />
+  </Template>
+  <Template id="3000" scale="2.0" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043200" basicActionId="3004300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="2050" addPoint="10" applyTarget="me" isLastHit="True" />
+    <Stat level="65" maxHp="151921" />
+  </Template>
+  <Template id="3001" scale="1.5" size="medium" shapeId="300563" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056300" basicActionId="3005600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="36811" />
+  </Template>
+  <Template id="4000" scale="0.4" size="medium" shapeId="300651" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065100" basicActionId="3006500" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="2060" addPoint="10" applyTarget="me" isLastHit="True" />
+    <Stat level="65" maxHp="151921" />
+  </Template>
+  <Template id="4001" scale="1.5" size="medium" shapeId="300710" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071000" basicActionId="3007100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="36811" />
+  </Template>
+  <Template id="5000" scale="1.0" size="medium" shapeId="600960" gender="" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="16643" />
+  </Template>
+  <Template id="5001" scale="0.5" size="medium" shapeId="600960" gender="" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="16643" />
+  </Template>
+</NpcData>

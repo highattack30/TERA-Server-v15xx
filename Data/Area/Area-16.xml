@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="2" areaName="AL_CommandCenter_P" nameId="210" ride="False" worldMapGuardId="10" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="2" desTex="False" ignoreObstacleShortTel="False" nameId="72099" pcMoveCylinder="False" pk="safe" ride="True" vender="False" addMaxZ="500.0" subtractMinZ="200.0" campId="0" floor="1" maze="False" restBonus="True" worldMapSectionId="202">
+    <Fence pos="23194.06640625,-178176.79687500,186.35369873" />
+    <Fence pos="23456.96484375,-177962.93750000,186.35549927" />
+    <Fence pos="23682.90039063,-175933.15625000,58.15200043" />
+    <Fence pos="23620.27734375,-175441.73437500,236.65220642" />
+    <Fence pos="23239.85156250,-175130.64062500,249.99620056" />
+    <Fence pos="22893.08984375,-175130.68750000,238.77630615" />
+    <Fence pos="22509.74023438,-175434.01562500,236.54589844" />
+    <Fence pos="22454.70703125,-175932.42187500,58.17129898" />
+    <Fence pos="22675.00390625,-177974.31250000,195.22729492" />
+    <Fence pos="22947.72070313,-178178.28125000,186.32119751" />
+  </Section>
+</Area>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="111">
+  <Template id="1000" scale="0.5" size="medium" shapeId="630100" gender="male" race="NPC_T4_Mion_Kanovia" guideEffectId="13" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="630100" basicActionId="6301000" deathShapeId="630101" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="400.0">
+    <NamePlate nameplateHeight="65" />
+    <SeatList>
+      <Seat id="11101" />
+    </SeatList>
+    <Stat level="65" maxHp="180000" />
+    <VehicleEx kind="tank" battleType="keyboard" enemyTeamEffectId="17022,17023,17024,17025" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="17018,17019,17020,17021" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="2000" scale="0.5" size="medium" shapeId="630100" gender="male" race="NPC_T4_Mion_Kanovia" guideEffectId="13" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="630100" basicActionId="6301000" deathShapeId="630101" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="400.0">
+    <NamePlate nameplateHeight="65" />
+    <SeatList>
+      <Seat id="11102" />
+    </SeatList>
+    <Stat level="65" maxHp="180000" />
+    <VehicleEx kind="tank" battleType="keyboard" enemyTeamEffectId="17022,17023,17024,17025" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="17018,17019,17020,17021" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="3000" scale="0.5" size="medium" shapeId="630100" gender="male" race="NPC_T4_Mion_Kanovia" guideEffectId="13" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="630100" basicActionId="6301000" deathShapeId="630101" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="400.0">
+    <NamePlate nameplateHeight="65" />
+    <SeatList>
+      <Seat id="11103" />
+    </SeatList>
+    <Stat level="65" maxHp="180000" />
+    <VehicleEx kind="tank" battleType="keyboard" enemyTeamEffectId="17022,17023,17024,17025" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="17018,17019,17020,17021" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="4002" scale="1.0" size="small" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" elite="False" invincible="True" isObjectNpc="True" showTargetInfo="False" villager="True">
+    <AltAnimation />
+    <Stat level="65" maxHp="21904" />
+  </Template>
+  <Template id="4003" scale="1.0" size="medium" shapeId="600962" race="" guideEffectId="1" resourceSize="0" resourceType="" isWideBroadcaster="True" parentId="60096000" basicActionId="6009600" deathShapeId="600965" elite="False" isObjectNpc="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000717" addPoint="0" applyTarget="cannon" isLastHit="True" />
+    <Stat level="65" maxHp="1" />
+  </Template>
+  <Template id="5002" scale="2.3" size="medium" shapeId="600032" isWideBroadcaster="True" parentId="60003000" basicActionId="6000320" deathShapeId="600033" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="50000" />
+  </Template>
+  <Template id="5003" scale="0.5" size="medium" shapeId="720510" gender="male" race="NPC_Tuto_CrashStone" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="72051000" basicActionId="7205100" cannotPassThrough="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="99" maxHp="2000000000" />
+  </Template>
+  <Template id="5004" scale="0.5" size="medium" shapeId="720511" gender="male" race="NPC_Tuto_CrashStone" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="72051000" basicActionId="7205100" cannotPassThrough="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="99" maxHp="2000000000" />
+  </Template>
+  <Template id="5005" scale="1.3" size="small" shapeId="611000" isWideBroadcaster="True" parentId="61100000" basicActionId="6110000" deathShapeId="611001" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="27805" />
+  </Template>
+  <Template id="5006" scale="1.3" size="small" shapeId="611010" isWideBroadcaster="True" parentId="61101000" basicActionId="6110100" deathShapeId="611011" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="27805" />
+  </Template>
+  <Template id="5007" scale="1.3" size="small" shapeId="611020" isWideBroadcaster="True" parentId="61102000" basicActionId="6110200" deathShapeId="611021" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="27805" />
+  </Template>
+  <Template id="5010" size="small" shapeId="600010" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="5561" />
+  </Template>
+  <Template id="6000" scale="1.0" size="medium" shapeId="710000" gender="male" race="NPC_T4_Mion_Kanovia" guideEffectId="1" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="71000000" basicActionId="7100000" deathShapeId="710001" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="400.0">
+    <NamePlate nameplateHeight="-200" />
+    <SeatList>
+      <Seat id="11105" />
+    </SeatList>
+    <Stat level="65" maxHp="360000" />
+    <VehicleEx kind="cannon" battleType="keyboard" enemyTeamEffectId="7034,7035" firstTaskId="10" fixable="True" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="7032,7033" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="7000" scale="0.7" size="medium" shapeId="6301001" gender="male" race="NPC_T4_Mion_Kanovia" guideEffectId="14" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="63010010" basicActionId="6301000" deathShapeId="6301011" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="400.0">
+    <NamePlate nameplateHeight="65" />
+    <SeatList>
+      <Seat id="11106" />
+    </SeatList>
+    <Stat level="65" maxHp="360000" />
+    <VehicleEx kind="tank" battleType="keyboard" enemyTeamEffectId="17022,17023,17024,17025" firstTaskId="10" fixable="True" headToCameraDir="True" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="17018,17019,17020,17021" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+</NpcData>

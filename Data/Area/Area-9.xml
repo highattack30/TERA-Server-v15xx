@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="117" areaName="BF_KumasWorld_P" nameId="117001" ride="False" worldMapGuardId="60" worldMapWorldId="8888">
+  <Section huntingZoneId="117" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="117001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="2000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="907">
+    <Fence pos="518.7734,137488.4844,16108.0449" />
+    <Fence pos="912.5552,123560.5625,16598.3906" />
+    <Fence pos="16857.1934,123276.0781,13542.7637" />
+    <Fence pos="15888.1631,137638.3125,14569.6836" />
+  </Section>
+  <Section huntingZoneId="117" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="117002" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="2000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="907">
+    <Fence pos="16608.6738,123404.4063,13555.7686" />
+    <Fence pos="15567.7813,137484.3906,14541.1475" />
+    <Fence pos="9873.0391,136044.5313,17319.4199" />
+    <Fence pos="9517.0313,123639.3203,13898.9141" />
+  </Section>
+  <Section huntingZoneId="117" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="117003" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="4000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="907">
+    <Fence pos="8331.4756,124791.0781,16139.3564" />
+    <Fence pos="8756.6748,136453.8594,16282.0137" />
+    <Fence pos="1197.4119,136155.0313,17878.3164" />
+    <Fence pos="1332.0847,124523.5313,17878.3086" />
+  </Section>
+</Area>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9062" areaName="HSC_A_Quest_P" nameId="211" ride="True" worldMapGuardId="11" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="852" desTex="False" nameId="8000052" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9062">
+    <Fence pos="68996.9297,-143555.6875,540.5487" />
+    <Fence pos="69428.1719,-143579.1406,739.8491" />
+    <Fence pos="69428.9688,-144764.4063,797.2476" />
+    <Fence pos="70298.3203,-146315.4375,681.4888" />
+    <Fence pos="70934.7813,-146980.6406,787.2874" />
+    <Fence pos="70999.4453,-147546.6719,925.4114" />
+    <Fence pos="70403.1016,-148324.0781,683.9162" />
+    <Fence pos="69634.1563,-148500.5469,777.4381" />
+    <Fence pos="68877.6250,-148737.0469,832.8225" />
+    <Fence pos="68269.6719,-148154.1250,910.5870" />
+    <Fence pos="67803.2344,-147723.2969,634.5181" />
+    <Fence pos="67501.3281,-145912.8906,516.5310" />
+    <Fence pos="66571.8906,-145767.7500,894.1725" />
+    <Fence pos="66416.3203,-143876.0625,711.5314" />
+    <Section huntingZoneId="-1" priority="853" desTex="False" nameId="8000076" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="1000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="0">
+      <Fence pos="68193.6875,-146038.5156,581.1028" />
+      <Fence pos="69336.5781,-145752.5313,1050.2336" />
+      <Fence pos="69217.8828,-143965.7813,1119.6860" />
+      <Fence pos="68860.5625,-143607.5781,1134.1393" />
+      <Fence pos="66573.6094,-143951.0938,1118.9622" />
+      <Fence pos="66703.9375,-145488.5156,1134.1387" />
+      <Fence pos="66902.5781,-145687.0781,1134.1396" />
+    </Section>
+  </Section>
+</Area>

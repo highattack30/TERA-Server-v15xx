@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="3" areaName="KA_CommandCenter_P" nameId="218" ride="True" worldMapGuardId="18" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="8000082" pcMoveCylinder="False" pk="safe" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="True" worldMapSectionId="203">
+    <Fence pos="20630.1523,-160036.8906,378.7349" />
+    <Fence pos="20602.7090,-161678.4375,328.0402" />
+    <Fence pos="22434.7051,-162186.8906,305.8110" />
+    <Fence pos="23655.8242,-162186.9063,299.8296" />
+    <Fence pos="24715.0371,-161834.1875,297.4070" />
+    <Fence pos="24955.3945,-161558.6719,297.3992" />
+    <Fence pos="24954.4375,-161140.2188,297.3976" />
+    <Fence pos="24716.0449,-160867.1719,297.3718" />
+    <Fence pos="23655.2344,-160516.2656,300.5694" />
+    <Fence pos="22431.5703,-160516.3281,307.1848" />
+    <Fence pos="21572.0703,-159677.5625,768.3149" />
+    <Fence pos="20780.1855,-159535.0625,936.6174" />
+  </Section>
+</Area>

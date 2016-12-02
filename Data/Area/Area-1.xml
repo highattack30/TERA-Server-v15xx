@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="103" areaName="BF_SnowBattleEveryDay_P" nameId="103001" ride="False" worldMapGuardId="60" worldMapWorldId="8888">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="103002" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="911">
+    <Fence pos="2285.2747,-97638.1797,2542.7261" />
+    <Fence pos="3603.8506,-96882.7188,2542.7305" />
+    <Fence pos="3662.0059,-94312.7891,2542.7295" />
+    <Fence pos="2358.3618,-93772.2734,2542.7329" />
+    <Fence pos="841.9883,-94256.9922,2542.7441" />
+    <Fence pos="968.6389,-96841.8438,2542.7441" />
+  </Section>
+</Area>

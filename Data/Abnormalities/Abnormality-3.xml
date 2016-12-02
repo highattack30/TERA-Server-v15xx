@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Abnormality>
+  <Abnormal id="25" bySkillCategory="9999" infinity="True" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3225" level="98" notCareDeath="False" priority="8" property="4" time="100000">
+    <AbnormalityEffect type="208" value="0.2" method="3" tickInterval="0" />
+    <AbnormalityEffect type="52" value="0.5" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="28" bySkillCategory="9999" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3225" level="98" notCareDeath="False" priority="8" property="4" time="7200000">
+    <AbnormalityEffect type="208" value="0.2" method="3" tickInterval="0" />
+    <AbnormalityEffect type="52" value="0.5" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="29" bySkillCategory="9999" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="False" kind="3225" level="99" notCareDeath="False" priority="8" property="4" time="1000">
+    <AbnormalityEffect type="3" value="1.0" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="31" bySkillCategory="9999" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3227" level="1" notCareDeath="True" priority="8" property="4" time="7200000">
+    <AbnormalityEffect type="3" value="1.2" method="3" tickInterval="0" />
+    <AbnormalityEffect type="24" value="1.12" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="32" bySkillCategory="9999" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="False" kind="3227" level="99" notCareDeath="False" priority="8" property="4" time="1000">
+    <AbnormalityEffect type="3" value="1.0" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="35" bySkillCategory="9999" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="False" kind="48001" level="99" notCareDeath="False" priority="8" property="4" time="1000">
+    <AbnormalityEffect type="3" value="1.0" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="39" bySkillCategory="9999" infinity="True" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3231" level="98" notCareDeath="True" priority="8" property="4" time="100000">
+    <AbnormalityEffect type="3" value="1.02" method="3" tickInterval="0" />
+    <AbnormalityEffect type="24" value="1.02" method="3" tickInterval="0" />
+    <AbnormalityEffect type="105" value="1.02" method="3" tickInterval="0" />
+    <AbnormalityEffect type="164" value="1.02" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="40" bySkillCategory="9999" infinity="True" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3233" level="1" notCareDeath="True" priority="8" property="4" time="100000">
+    <AbnormalityEffect type="35" value="0.6" method="3" tickInterval="0" />
+    <AbnormalityEffect type="31" value="30.0" method="2" tickInterval="0" />
+    <AbnormalityEffect type="26" value="0.6" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="41" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="94" notCareDeath="False" priority="15" property="4" time="300000">
+    <AbnormalityEffect type="291" value="1.05" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="42" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="95" notCareDeath="False" priority="15" property="4" time="300000">
+    <AbnormalityEffect type="291" value="1.1" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="43" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="96" notCareDeath="False" priority="15" property="4" time="300000">
+    <AbnormalityEffect type="291" value="1.2" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="44" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="97" notCareDeath="False" priority="15" property="4" time="600000">
+    <AbnormalityEffect type="291" value="1.05" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="45" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="98" notCareDeath="False" priority="15" property="4" time="600000">
+    <AbnormalityEffect type="291" value="1.1" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="46" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="3234" level="99" notCareDeath="False" priority="15" property="4" time="600000">
+    <AbnormalityEffect type="291" value="1.2" method="3" tickInterval="1" />
+  </Abnormal>
+  <Abnormal id="1101" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="9601" level="95" notCareDeath="True" priority="7" property="4" time="3600000">
+    <AbnormalityEffect type="23" value="1.2" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="1102" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="9601" level="94" notCareDeath="True" priority="7" property="4" time="1800000">
+    <AbnormalityEffect type="23" value="1.1" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="1103" bySkillCategory="0" infinity="False" isBuff="True" isHideOnRefresh="False" isShow="True" kind="9601" level="98" notCareDeath="True" priority="7" property="4" time="10800000">
+    <AbnormalityEffect type="23" value="2.0" method="3" tickInterval="0" />
+  </Abnormal>
+  <Abnormal id="1104" bySkillCategory="0" infinity="True" isBuff="True" isHideOnRefresh="False" isShow="onlyIcon" kind="9601" level="97" notCareDeath="True" priority="7" property="4" time="1000">
+    <AbnormalityEffect type="23" value="1.5" method="3" tickInterval="0" />
+  </Abnormal>
+</Abnormality>

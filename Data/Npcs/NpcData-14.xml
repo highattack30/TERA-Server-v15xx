@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="17">
+  <Template id="101" scale="1.35" size="medium" shapeId="300442" gender="male" race="VampirHandyman" parentId="30044002" basicActionId="3004400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="8863" />
+  </Template>
+  <Template id="102" scale="0.7" size="small" shapeId="300580" gender="male" race="CreationWorkman" resourceSize="100" resourceType="medium" parentId="30058001" basicActionId="3005800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="1173" />
+  </Template>
+  <Template id="103" scale="1.35" size="medium" shapeId="300470" gender="male" race="Creationfarmer" resourceSize="100" resourceType="medium" parentId="30047000" basicActionId="3004700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="8348" />
+  </Template>
+  <Template id="104" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005002" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="26" maxHp="3422" />
+  </Template>
+  <Template id="201" scale="1.35" size="medium" shapeId="300442" gender="male" race="VampirHandyman" parentId="30044001" basicActionId="3004400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="7494" />
+  </Template>
+  <Template id="202" scale="0.6" size="small" shapeId="300552" gender="male" race="DwarfMadman" parentId="30055002" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="860" />
+  </Template>
+  <Template id="203" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005001" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="5894" />
+  </Template>
+  <Template id="204" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005002" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="5464" />
+  </Template>
+  <Template id="205" scale="1.45" size="medium" shapeId="301201" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120100" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="7840" />
+  </Template>
+  <Template id="206" scale="1.15" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095001" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="7270" />
+  </Template>
+  <Template id="207" scale="1.15" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095000" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="5861" />
+  </Template>
+  <Template id="208" scale="1.15" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-2" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="5861" />
+  </Template>
+  <Template id="301" scale="1.2" size="medium" shapeId="300010" gender="male" race="FierceDoberman" parentId="30001000" basicActionId="3000100" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="4978" />
+  </Template>
+  <Template id="302" scale="1.5" size="medium" shapeId="300112" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011100" basicActionId="3001100" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="29" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="7326" />
+  </Template>
+  <Template id="303" scale="1.3" size="medium" shapeId="301426" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="4978" />
+  </Template>
+  <Template id="304" scale="1.3" size="medium" shapeId="301405" gender="male" race="Elementalist_Darker" resourceSize="100" resourceType="medium" parentId="30140000" basicActionId="3014000" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="4978" />
+  </Template>
+  <Template id="305" scale="1.45" size="medium" shapeId="301201" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120100" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="3692" />
+  </Template>
+  <Template id="1000" scale="1.1" size="medium" shapeId="521010" gender="female" race="Castanic" resourceSize="100" resourceType="medium" basicActionId="5210100" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="7270" />
+  </Template>
+  <Template id="1001" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005001" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="6956" />
+  </Template>
+  <Template id="300050" scale="1.15" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005001" basicActionId="3000500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="26" maxHp="3422" />
+  </Template>
+  <Template id="300442" scale="1.35" size="medium" shapeId="300442" gender="male" race="VampirHandyman" parentId="30044001" basicActionId="3004400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-1" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="7985" />
+  </Template>
+  <Template id="300443" scale="1.35" size="medium" shapeId="300443" gender="male" race="VampirHandyman" parentId="30044001" basicActionId="3004400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="5861" />
+  </Template>
+  <Template id="300470" scale="1.35" size="medium" shapeId="300470" gender="male" race="Creationfarmer" resourceSize="100" resourceType="medium" parentId="30047000" basicActionId="3004700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="26" maxHp="7747" />
+  </Template>
+  <Template id="300551" scale="0.6" size="small" shapeId="300552" gender="male" race="DwarfMadman" parentId="30055001" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="1346" />
+  </Template>
+  <Template id="300552" scale="0.6" size="small" shapeId="300552" gender="male" race="DwarfMadman" parentId="30055002" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="490" />
+  </Template>
+  <Template id="300580" scale="0.7" size="small" shapeId="300580" gender="male" race="CreationWorkman" resourceSize="100" resourceType="medium" parentId="30058000" basicActionId="3005800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="26" maxHp="1279" />
+  </Template>
+  <Template id="301201" scale="1.45" size="medium" shapeId="301201" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120100" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="3146" />
+  </Template>
+  <Template id="301220" scale="0.8" size="small" shapeId="301220" gender="male" race="TownMilitia" resourceSize="100" resourceType="medium" parentId="30122001" basicActionId="3012200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="27" maxHp="1122" />
+  </Template>
+</NpcData>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="51">
+  <Template id="1011" scale="0.85" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131000" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="57" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="115087" />
+  </Template>
+  <Template id="1021" scale="0.85" size="medium" shapeId="301311" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131100" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="57" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="115087" />
+  </Template>
+  <Template id="1031" scale="0.85" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="70" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="82282" />
+  </Template>
+  <Template id="1032" scale="0.7" size="small" shapeId="300711" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071100" basicActionId="3007100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="6171" />
+  </Template>
+  <Template id="1033" scale="1.0" size="small" shapeId="300193" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019300" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="6171" />
+  </Template>
+  <Template id="1041" scale="0.85" size="medium" shapeId="301311" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131100" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="57" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="94486" />
+  </Template>
+  <Template id="1051" scale="1.45" size="medium" shapeId="300020" gender="male" race="ShadowCougar" resourceSize="100" resourceType="medium" parentId="30002000" basicActionId="3000200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="94486" />
+  </Template>
+  <Template id="1501" class="" scale="0.625" size="medium" shapeId="600920" gender="" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2011" scale="1.15" size="large" shapeId="300720" gender="male" race="AlpinePredator" resourceSize="100" resourceType="large" parentId="30072001" basicActionId="3007200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="180" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="650822" />
+  </Template>
+  <Template id="2021" scale="1.15" size="medium" shapeId="300072" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007200" basicActionId="3000700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="128502" />
+  </Template>
+  <Template id="2031" scale="1.45" size="medium" shapeId="300020" gender="male" race="ShadowCougar" resourceSize="100" resourceType="medium" parentId="30002000" basicActionId="3000200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="137006" />
+  </Template>
+  <Template id="3011" scale="1.35" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="125667" />
+  </Template>
+  <Template id="3021" scale="1.15" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069001" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="155" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="701373" />
+  </Template>
+  <Template id="5011" scale="1.0" size="medium" shapeId="510531" gender="male" race="Aman" resourceSize="100" resourceType="medium" parentId="51053100" basicActionId="5105300" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="58" maxHp="94486" />
+  </Template>
+  <Template id="5021" scale="1.0" size="medium" shapeId="510541" gender="male" race="Aman" resourceSize="100" resourceType="medium" parentId="51054100" basicActionId="5105400" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="58" maxHp="94486" />
+  </Template>
+  <Template id="6011" scale="1.0" size="small" shapeId="301640" gender="male" race="Goral" parentId="30164000" basicActionId="3016400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="27674" />
+  </Template>
+  <Template id="6021" scale="1.0" size="small" shapeId="301640" gender="male" race="Goral" parentId="30164000" basicActionId="3016400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="29764" />
+  </Template>
+  <Template id="6031" scale="1.0" size="small" shapeId="301640" gender="male" race="Goral" parentId="30164000" basicActionId="3016400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="32007" />
+  </Template>
+  <Template id="7011" scale="1.0" size="large" shapeId="300880" gender="male" race="CraftyArachne" resourceSize="100" resourceType="large" parentId="30088003" basicActionId="3008800" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="170" deathNameplateHeight="0" />
+    <Stat level="60" maxHp="1139795" />
+  </Template>
+  <Template id="8011" scale="0.85" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="70" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="65032" />
+  </Template>
+  <Template id="8012" scale="0.85" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131000" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="65032" />
+  </Template>
+  <Template id="8021" scale="1.15" size="large" shapeId="300692" gender="male" race="LastemoerorBelten" resourceSize="100" resourceType="large" parentId="90021002" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="780986" />
+  </Template>
+  <Template id="8031" scale="1.15" size="large" shapeId="300692" gender="male" race="LastemoerorBelten" resourceSize="100" resourceType="large" parentId="90021002" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="780986" />
+  </Template>
+  <Template id="9011" scale="1.0" size="medium" shapeId="600840" parentId="60084000" basicActionId="6008400" deathShapeId="600841" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="57" maxHp="87852" />
+  </Template>
+  <Template id="9012" scale="1.35" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="122115" />
+  </Template>
+  <Template id="9021" scale="1.0" size="medium" shapeId="600840" parentId="60084000" basicActionId="6008400" deathShapeId="600841" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="94486" />
+  </Template>
+  <Template id="9022" scale="1.35" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="115965" />
+  </Template>
+  <Template id="9031" scale="1.0" size="medium" shapeId="600840" parentId="60084000" basicActionId="6008400" deathShapeId="600841" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="9032" scale="1.35" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="124978" />
+  </Template>
+  <Template id="9041" scale="1.0" size="medium" shapeId="700060" parentId="70006000" basicActionId="7000600" cannotPassThrough="True" deathShapeId="700061" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="78741" />
+  </Template>
+</NpcData>

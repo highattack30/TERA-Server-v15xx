@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="9">
+  <Template id="100" scale="1.25" size="medium" shapeId="300260" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026001" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="10999" />
+  </Template>
+  <Template id="200" scale="1.45" size="medium" shapeId="300780" gender="male" race="Arctus" parentId="30078103" basicActionId="3007800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="69" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="10999" />
+  </Template>
+  <Template id="300" scale="1.25" size="medium" shapeId="300201" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020001" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-2" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="8315" />
+  </Template>
+  <Template id="310" scale="1.25" size="medium" shapeId="300201" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020004" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-1" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="400" scale="1.25" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037002" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7898" />
+  </Template>
+  <Template id="410" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037002" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7968" />
+  </Template>
+  <Template id="420" scale="1.25" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037002" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="1237" />
+  </Template>
+  <Template id="430" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037001" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="8315" />
+  </Template>
+  <Template id="440" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="450" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="49" />
+    <Stat level="32" maxHp="6829" />
+  </Template>
+  <Template id="500" scale="0.8" size="small" shapeId="300500" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050000" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="32" maxHp="952" />
+  </Template>
+  <Template id="600" scale="0.8" size="small" shapeId="300121" gender="male" race="Zombie" resourceSize="100" resourceType="small" parentId="30012002" basicActionId="3001200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="925" />
+  </Template>
+  <Template id="700" scale="1.74" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003001" basicActionId="3000300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="8315" />
+  </Template>
+  <Template id="710" scale="1.74" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003002" basicActionId="3000300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="8315" />
+  </Template>
+  <Template id="800" scale="1.5" size="medium" shapeId="300370" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037002" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7898" />
+  </Template>
+  <Template id="810" scale="1.5" size="medium" shapeId="300370" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7898" />
+  </Template>
+  <Template id="900" scale="0.7" size="small" shapeId="300380" gender="male" race="animal" parentId="30038002" basicActionId="3003800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="888" />
+  </Template>
+  <Template id="910" scale="0.7" size="small" shapeId="300381" gender="male" race="animal" parentId="30038002" basicActionId="3003800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="814" />
+  </Template>
+  <Template id="1000" scale="1.3" size="medium" shapeId="301381" gender="male" race="Slayer_Darker" resourceSize="100" resourceType="medium" parentId="30138100" basicActionId="3013800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-14" deathNameplateHeight="41" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="1100" scale="1.3" size="medium" shapeId="301371" gender="male" race="Archer_Darker" resourceSize="100" resourceType="medium" parentId="30137100" basicActionId="3013700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="1200" scale="1.3" size="medium" shapeId="301361" gender="male" race="Lance_Darker" resourceSize="100" resourceType="medium" parentId="30136100" basicActionId="3013600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-5" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="1300" scale="1.3" size="medium" shapeId="301423" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142300" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="6929" />
+  </Template>
+  <Template id="1400" scale="2.55" size="large" shapeId="301341" gender="male" race="Volcanus" resourceSize="100" resourceType="medium" parentId="30134000" basicActionId="3013400" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="96" deathNameplateHeight="71" />
+    <Stat level="32" maxHp="97135" />
+  </Template>
+  <Template id="1410" scale="2.55" size="large" shapeId="301340" gender="male" race="Volcanus" resourceSize="100" resourceType="medium" parentId="30134000" basicActionId="3013400" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="94" deathNameplateHeight="110" />
+    <Stat level="32" maxHp="97135" />
+  </Template>
+  <Template id="2100" scale="1.5" size="medium" shapeId="301362" gender="male" race="Lance_Darker" resourceSize="100" resourceType="medium" parentId="30136100" basicActionId="3013600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-5" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7483" />
+  </Template>
+  <Template id="2200" scale="1.5" size="medium" shapeId="301422" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142300" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7483" />
+  </Template>
+  <Template id="5000" scale="1.45" size="medium" shapeId="300780" gender="male" race="Arctus" parentId="30078102" basicActionId="3007800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="62" deathNameplateHeight="76" />
+    <Stat level="32" maxHp="12649" />
+  </Template>
+  <Template id="5001" scale="1.74" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003003" basicActionId="3000300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="26" />
+    <Stat level="32" maxHp="7968" />
+  </Template>
+  <Template id="5002" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7968" />
+  </Template>
+  <Template id="5003" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="9083" />
+  </Template>
+  <Template id="5004" scale="0.8" size="small" shapeId="300500" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050000" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="1216" />
+  </Template>
+  <Template id="5005" scale="1.5" size="medium" shapeId="300374" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="12649" />
+  </Template>
+  <Template id="5006" scale="2.85" size="large" shapeId="301342" gender="male" race="Volcanus" resourceSize="100" resourceType="medium" parentId="30134002" basicActionId="3013400" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="118" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="161095" />
+  </Template>
+  <Template id="7000" scale="1.0" size="medium" shapeId="523020" gender="male" race="Castanic" resourceSize="100" resourceType="medium" parentId="52302000" basicActionId="5230200" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="10999" />
+  </Template>
+  <Template id="7001" scale="1.0" size="medium" shapeId="521011" gender="female" race="Castanic" resourceSize="100" resourceType="medium" parentId="52101100" basicActionId="5210100" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="32" maxHp="10999" />
+  </Template>
+  <Template id="9000" scale="1.0" size="medium" shapeId="600530" isWideBroadcaster="True" parentId="60053000" basicActionId="6005300" deathShapeId="600531" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="32" maxHp="3299" />
+  </Template>
+</NpcData>

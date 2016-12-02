@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="2" areaName="HX2_P" nameId="215" ride="True" worldMapGuardId="15" worldMapWorldId="1">
+  <FlySection priority="100" addMaxZ="6000.0" flyHeightLimit="3700.0" flyType="CanFly" subtractMinZ="6000.0">
+    <Fence pos="-15355.37695313,30720.15429688,6096.98242188" />
+    <Fence pos="15361.01660156,30722.63867188,3212.71093750" />
+    <Fence pos="15359.37109375,46079.18750000,7835.03076172" />
+    <Fence pos="-15358.28417969,46074.57031250,5050.58251953" />
+    <FlySection priority="1000" addMaxZ="6000.0" flyHeightLimit="5500.0" flyType="CanFly" subtractMinZ="3000.0">
+      <Fence pos="-558.66015625,30719.44921875,6799.60107422" />
+      <Fence pos="2292.25927734,33692.86328125,7297.48486328" />
+      <Fence pos="1623.34912109,38007.75390625,7676.44531250" />
+      <Fence pos="-2488.50024414,38221.24609375,2757.03222656" />
+      <Fence pos="-5751.36474609,38801.61718750,1737.21777344" />
+      <Fence pos="-7251.48388672,37240.26562500,858.52734375" />
+      <Fence pos="-8007.13085938,34510.55078125,5251.98486328" />
+      <Fence pos="-9120.79687500,30722.75195313,6737.34228516" />
+    </FlySection>
+  </FlySection>
+  <Section huntingZoneId="30" priority="86" desTex="False" nameId="86001" pcMoveCylinder="True" pk="true" ride="True" vender="False" addMaxZ="1024.0" subtractMinZ="4096.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="177">
+    <Fence pos="15357.8125,46080.1211,7836.5288" />
+    <Fence pos="-15360.8203,46076.6602,5047.5010" />
+    <Fence pos="-15355.9570,30719.5527,6096.7510" />
+    <Fence pos="15341.5625,30718.9063,3191.1472" />
+  </Section>
+</Area>

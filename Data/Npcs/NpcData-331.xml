@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="998">
+  <Template id="50" scale="1.5" size="medium" shapeId="300931" gender="male" race="DyingGhillieDhu" resourceSize="100" resourceType="medium" parentId="30093100" basicActionId="3009300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="69" deathNameplateHeight="0" />
+    <Stat level="50" maxHp="42555" />
+  </Template>
+  <Template id="1000" scale="1.5" size="large" shapeId="301920" gender="male" race="Baphomet" resourceSize="100" resourceType="large" parentId="30192000" basicActionId="3019200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="60" maxHp="11233822" />
+  </Template>
+  <Template id="2000" scale="1.0" size="large" shapeId="300675" gender="male" race="LesserElementalKumas" resourceSize="100" resourceType="large" isWideBroadcaster="True" parentId="30067000" basicActionId="3006701" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <NamePlate nameplateHeight="150" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="9483097" />
+  </Template>
+  <Template id="3000" scale="2.0" size="large" shapeId="301930" gender="male" race="GiantMonkey" resourceSize="100" resourceType="large" isWideBroadcaster="True" parentId="30193000" basicActionId="3019300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="60" maxHp="7294690" />
+  </Template>
+</NpcData>

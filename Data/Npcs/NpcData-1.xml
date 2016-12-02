@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="3">
+  <Template id="1" scale="0.7" size="small" shapeId="301190" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="medium" parentId="30119000" basicActionId="3011900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="469" />
+  </Template>
+  <Template id="2" scale="1.3" size="medium" shapeId="300230" gender="male" race="PollutedEarthSpirit" resourceSize="100" resourceType="medium" parentId="30023002" basicActionId="3002300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1848" />
+  </Template>
+  <Template id="3" scale="1.05" size="medium" shapeId="300930" gender="male" race="DyingGhillieDhu" resourceSize="100" resourceType="medium" parentId="30093000" basicActionId="3009300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <Stat level="19" maxHp="2726" />
+  </Template>
+  <Template id="4" scale="1.05" size="medium" shapeId="300610" gender="male" race="Undeadcavalry" resourceSize="100" resourceType="medium" parentId="30061000" basicActionId="3006100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="10009">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="5000" />
+  </Template>
+  <Template id="5" scale="0.5" size="small" shapeId="301080" gender="male" race="UndeadEscort" resourceSize="100" resourceType="medium" parentId="30108000" basicActionId="3010800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="10009">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="152" />
+  </Template>
+  <Template id="6" scale="0.5" size="small" shapeId="301081" gender="male" race="UndeadEscort" resourceSize="100" resourceType="medium" parentId="30108001" basicActionId="3010800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="10009">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="17" maxHp="208" />
+  </Template>
+  <Template id="7" scale="1.8" size="medium" shapeId="300152" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015001" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="100300071">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="17" maxHp="6857" />
+  </Template>
+  <Template id="8" scale="1.45" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015001" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="17" maxHp="3040" />
+  </Template>
+  <Template id="9" scale="1.8" size="medium" shapeId="300160" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016001" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="18" maxHp="7737" />
+  </Template>
+  <Template id="10" scale="0.85" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081001" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="90" />
+    <Stat level="21" maxHp="38315" />
+  </Template>
+  <Template id="11" scale="1.4" size="medium" shapeId="300230" gender="male" race="PollutedEarthSpirit" resourceSize="100" resourceType="medium" parentId="30023002" basicActionId="3002300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="18" maxHp="3430" />
+  </Template>
+  <Template id="12" scale="1.8" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015001" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="15" maxHp="5000" />
+  </Template>
+  <Template id="13" scale="1.32" size="medium" shapeId="300141" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014001" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1848" />
+  </Template>
+  <Template id="14" scale="1.3" size="medium" shapeId="301423" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="17" maxHp="2204" />
+  </Template>
+  <Template id="15" scale="1.3" size="medium" shapeId="301433" gender="male" race="Sorcerer_Darker" resourceSize="100" resourceType="medium" parentId="30143300" basicActionId="3014300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="17" maxHp="2204" />
+  </Template>
+  <Template id="16" scale="0.5" size="small" shapeId="301080" gender="male" race="UndeadEscort" resourceSize="100" resourceType="medium" parentId="30108000" basicActionId="3010800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="677" />
+  </Template>
+  <Template id="17" scale="1.32" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014001" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="2638" />
+  </Template>
+  <Template id="18" scale="1.32" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014001" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1848" />
+  </Template>
+  <Template id="19" scale="1.37" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015001" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="2063" />
+  </Template>
+  <Template id="20" scale="2.0" size="medium" shapeId="300160" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016000" basicActionId="3001600" elite="False" invincible="False" isFreeNamed="True" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="18" maxHp="11190" />
+  </Template>
+  <Template id="21" scale="1.45" size="medium" shapeId="300300" gender="male" race="UndeadBeast" resourceSize="100" resourceType="medium" parentId="30030001" basicActionId="3003000" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+    <Stat level="18" maxHp="5221" />
+  </Template>
+  <Template id="22" scale="0.75" size="large" shapeId="300693" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069000" basicActionId="3006900" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="102" deathNameplateHeight="0" />
+    <Stat level="21" maxHp="53216" />
+  </Template>
+  <Template id="23" scale="1.3" size="medium" shapeId="300230" gender="male" race="PollutedEarthSpirit" resourceSize="100" resourceType="medium" parentId="30023001" basicActionId="3002300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="2063" />
+  </Template>
+  <Template id="24" scale="1.0" size="medium" shapeId="523010" gender="male" race="Human" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="52301200" despawnScriptId="0" basicActionId="5230100" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation>
+      <AltAnim type="Walk" altAnimName="unarmedrun" />
+    </AltAnimation>
+    <Stat level="16" maxHp="2475" />
+  </Template>
+  <Template id="25" scale="1.0" size="medium" shapeId="523010" gender="male" race="Human" resourceSize="100" resourceType="medium" parentId="52301200" despawnScriptId="2131111" basicActionId="5230100" elite="False" invincible="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation>
+      <AltAnim type="Walk" altAnimName="unarmedrun" />
+    </AltAnimation>
+    <Stat level="16" maxHp="2475" />
+  </Template>
+  <Template id="26" scale="1.0" size="medium" shapeId="523010" gender="male" race="Human" resourceSize="100" resourceType="medium" parentId="52301200" despawnScriptId="2131114" basicActionId="5230100" elite="False" invincible="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation>
+      <AltAnim type="Walk" altAnimName="unarmedrun" />
+    </AltAnimation>
+    <Stat level="16" maxHp="2475" />
+  </Template>
+  <Template id="30" scale="1.0" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015000" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="16" maxHp="2063" />
+  </Template>
+  <Template id="31" scale="1.0" size="medium" shapeId="300160" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016000" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="16" maxHp="2063" />
+  </Template>
+  <Template id="32" scale="1.0" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014000" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="14" maxHp="1569" />
+  </Template>
+  <Template id="101" scale="0.7" size="small" shapeId="301190" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="medium" parentId="30119000" basicActionId="3011900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="13" maxHp="412" />
+  </Template>
+  <Template id="1000" class="" scale="0.625" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1001" scale="1.5" size="medium" shapeId="301190" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="medium" parentId="30119000" basicActionId="3011900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="13" maxHp="1706" />
+  </Template>
+  <Template id="1049" class="" scale="1.0" size="medium" shapeId="600310" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2001" scale="1.15" size="medium" shapeId="300260" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026000" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="12" maxHp="1502" />
+  </Template>
+  <Template id="7000" scale="1.0" size="small" shapeId="301670" gender="male" race="Eatingplant" parentId="30167000" basicActionId="3016700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="780" />
+  </Template>
+  <Template id="8000" scale="1.0" size="medium" shapeId="53183023" gender="female" race="Human" resourceSize="100" resourceType="medium" parentId="52601000" basicActionId="5260100" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="True">
+    <AltAnimation />
+    <Stat level="32" maxHp="945" />
+  </Template>
+  <Template id="300140" scale="1.32" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014001" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1848" />
+  </Template>
+  <Template id="300141" scale="1.32" size="medium" shapeId="300141" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014001" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="17" maxHp="2204" />
+  </Template>
+  <Template id="300142" scale="1.1" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014000" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="1729" />
+  </Template>
+  <Template id="300143" scale="1.1" size="medium" shapeId="300141" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014100" basicActionId="3001400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="1729" />
+  </Template>
+  <Template id="300150" scale="1.37" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015001" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="16" maxHp="1559" />
+  </Template>
+  <Template id="300151" scale="1.1" size="medium" shapeId="300150" gender="male" race="DevaHunter" resourceSize="100" resourceType="medium" parentId="30015000" basicActionId="3001500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="14" maxHp="1729" />
+  </Template>
+  <Template id="300160" scale="1.26" size="medium" shapeId="300160" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016001" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="2" deathNameplateHeight="0" />
+    <Stat level="16" maxHp="2063" />
+  </Template>
+  <Template id="300161" scale="1.1" size="medium" shapeId="300160" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016000" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1164" />
+  </Template>
+  <Template id="300611" scale="1.05" size="medium" shapeId="300610" gender="male" race="Undeadcavalry" resourceSize="100" resourceType="medium" parentId="30061000" basicActionId="3006100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="1848" />
+  </Template>
+  <Template id="300811" scale="0.85" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081000" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="20" maxHp="32252" />
+  </Template>
+  <Template id="301080" scale="0.5" size="small" shapeId="301080" gender="male" race="UndeadEscort" resourceSize="100" resourceType="medium" parentId="30108000" basicActionId="3010800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="15" maxHp="469" />
+  </Template>
+  <Template id="301081" scale="0.5" size="small" shapeId="301081" gender="male" race="UndeadEscort" resourceSize="100" resourceType="medium" parentId="30108001" basicActionId="3010800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="13" maxHp="75" />
+  </Template>
+</NpcData>

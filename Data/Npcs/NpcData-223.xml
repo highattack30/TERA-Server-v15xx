@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="454">
+  <Template id="10" scale="1.0" size="large" shapeId="700060" gender="" race="" resourceSize="0" resourceType="" parentId="70006000" basicActionId="7000600" deathShapeId="700061" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="93" scale="1.0" size="large" shapeId="650010" gender="" race="" resourceSize="0" resourceType="" parentId="65001000" despawnScriptId="905413" basicActionId="6500100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="11250000" />
+  </Template>
+  <Template id="94" scale="1.0" size="large" shapeId="650010" gender="" race="" resourceSize="0" resourceType="" parentId="65001000" despawnScriptId="905413" basicActionId="6500100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="11250000" />
+  </Template>
+  <Template id="95" scale="1.0" size="medium" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" isWideBroadcaster="True" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" showTargetInfo="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="2000" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="96" scale="0.75" size="large" shapeId="650010" gender="" race="" resourceSize="0" resourceType="" parentId="65001000" basicActionId="6500100" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="97" scale="1.0" size="large" shapeId="650010" gender="" race="" resourceSize="0" resourceType="" parentId="65001000" despawnScriptId="905413" basicActionId="6500100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="11250000" />
+  </Template>
+  <Template id="98" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="9339" />
+  </Template>
+  <Template id="99" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="10000000" />
+  </Template>
+  <Template id="100" scale="1.3" size="large" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="90" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="800000" />
+  </Template>
+  <Template id="101" scale="1.0" size="large" shapeId="904520" gender="" race="" resourceSize="0" resourceType="" parentId="90452000" basicActionId="9045200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="13038" />
+  </Template>
+  <Template id="102" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="106" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="107" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="108" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="109" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="110" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="111" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="112" scale="1.2" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2636236" />
+  </Template>
+  <Template id="200" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="13038" />
+  </Template>
+  <Template id="201" scale="1.0" size="medium" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="13038" />
+  </Template>
+  <Template id="202" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="203" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="301" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="302" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="303" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="304" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="305" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="306" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="307" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="400" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="99999" />
+  </Template>
+  <Template id="401" scale="1.0" size="medium" shapeId="904510" gender="" race="" resourceSize="0" resourceType="" parentId="90451000" basicActionId="9045100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="90" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="26" maxHp="28001" />
+  </Template>
+  <Template id="402" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1000000" />
+  </Template>
+  <Template id="403" scale="1.0" size="large" shapeId="904540" gender="" race="" resourceSize="0" resourceType="" parentId="90454000" despawnScriptId="248009999" basicActionId="9045400" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="248009998" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="150" />
+    <AltAnimation />
+    <Stat level="65" maxHp="3000000" />
+  </Template>
+  <Template id="404" scale="0.5" size="large" shapeId="720511" gender="male" race="NPC_Tuto_CrashStone" resourceSize="100" resourceType="large" parentId="72051000" basicActionId="7205100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" showTargetInfo="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1" />
+  </Template>
+  <Template id="405" scale="0.5" size="large" shapeId="720511" gender="male" race="NPC_Tuto_CrashStone" resourceSize="100" resourceType="large" parentId="72051000" basicActionId="7205100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" showTargetInfo="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1" />
+  </Template>
+  <Template id="406" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="407" scale="1.0" size="large" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1890675" />
+  </Template>
+  <Template id="408" scale="2.0" size="medium" shapeId="300101" gender="male" race="Qamara" resourceSize="100" resourceType="medium" parentId="30010000" basicActionId="3001000" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="500" scale="1.2" size="medium" shapeId="302440" gender="male" race="jellyfish" resourceSize="0" resourceType="" parentId="30244000" basicActionId="3024400" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="501" scale="1.0" size="medium" shapeId="302460" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30246000" basicActionId="3024600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="UnarmedWait" altAnimName="UnarmedWait02" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="502" scale="1.5" size="medium" shapeId="301830" gender="male" race="SpreadMind" resourceSize="0" resourceType="" parentId="30183000" basicActionId="3018300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="503" scale="1.2" size="large" shapeId="300840" gender="male" race="YuantiShaman" resourceSize="100" resourceType="large" parentId="30084000" basicActionId="3008400" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="11000000" />
+  </Template>
+  <Template id="504" scale="1.2" size="large" shapeId="300840" gender="male" race="YuantiShaman" resourceSize="100" resourceType="large" parentId="30084000" basicActionId="3008400" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="11000000" />
+  </Template>
+  <Template id="600" scale="2.0" size="large" shapeId="301970" gender="male" race="RelicOfGuardian" resourceSize="100" resourceType="large" parentId="30197000" basicActionId="3019700" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="15000000" />
+  </Template>
+  <Template id="601" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="602" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="603" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="604" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="605" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="606" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="607" scale="2.5" size="medium" shapeId="302430" gender="male" race="Waterspirit" resourceSize="0" resourceType="" parentId="30243000" basicActionId="3024300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="700" scale="1.5" size="small" shapeId="301260" gender="male" race="BronzeGolemFighter" resourceSize="100" resourceType="small" parentId="30126000" basicActionId="3012600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="701" scale="1.5" size="small" shapeId="301193" gender="male" race="DumperkanFignther" resourceSize="100" resourceType="small" parentId="30119000" basicActionId="3011900" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2184781" />
+  </Template>
+  <Template id="702" scale="2.0" size="large" shapeId="300353" gender="male" race="BloodGolem" resourceSize="100" resourceType="large" parentId="30035000" basicActionId="3003500" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="15000000" />
+  </Template>
+  <Template id="901" scale="1.0" size="large" shapeId="650020" gender="" race="" resourceSize="0" resourceType="" isWideBroadcaster="True" parentId="65002000" despawnScriptId="905412" basicActionId="6500200" cannotPassThrough="True" dontTurn="True" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="905411" unionElite="False" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="902" scale="1.0" size="large" shapeId="650030" gender="" race="" resourceSize="0" resourceType="" isWideBroadcaster="True" parentId="65003000" despawnScriptId="905412" basicActionId="6500300" cannotPassThrough="True" dontTurn="True" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="905411" unionElite="False" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="903" scale="5.0" size="large" shapeId="300193" gender="male" race="HookaFootman" resourceSize="100" resourceType="large" parentId="30019000" basicActionId="3001900" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="3500000" />
+  </Template>
+  <Template id="904" scale="1.5" size="medium" shapeId="600252" gender="male" race="NPC_T4Battle_Golem02" resourceSize="100" resourceType="medium" parentId="60025200" basicActionId="7100300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="905" scale="2.0" size="medium" shapeId="710031" gender="male" race="NPC_TreasureBox02" resourceSize="100" resourceType="medium" parentId="71003100" basicActionId="7100300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="906" scale="2.0" size="medium" shapeId="710030" gender="male" race="NPC_TreasureBox01" resourceSize="100" resourceType="medium" parentId="71003000" basicActionId="7100300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="907" scale="2.0" size="medium" shapeId="710030" gender="male" race="NPC_Article" resourceSize="100" resourceType="medium" parentId="71003000" basicActionId="7100300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="999" class="" scale="1.0" size="medium" shapeId="510340" gender="female" race="Aman" resourceSize="100" resourceType="medium" parentId="51034000" despawnScriptId="0" basicActionId="5103400" collideOnMove="False" dontTurn="False" elite="False" invincible="True" isObjectNpc="False" spawnScriptId="0" unionElite="False" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1000" scale="1.5" size="large" shapeId="302491" gender="male" race="BloodGolem" resourceSize="100" resourceType="large" parentId="30249000" basicActionId="3024900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" showTargetInfo="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="68" maxHp="147000000" />
+  </Template>
+  <Template id="1001" scale="1.2" size="large" shapeId="302500" gender="male" race="jellyfish" resourceSize="100" resourceType="large" parentId="30250000" basicActionId="3025000" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" showTargetInfo="False" spawnScriptId="248009998" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="68" maxHp="115500000" />
+  </Template>
+  <Template id="1002" scale="1.5" size="large" shapeId="302510" gender="male" race="argon" resourceSize="100" resourceType="large" parentId="30251000" basicActionId="3025100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" showTargetInfo="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="55" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="Walk" />
+    </AltAnimation>
+    <Stat level="68" maxHp="136500000" />
+  </Template>
+  <Template id="4000" class="" scale="0.625" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="4001" class="" scale="0.625" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="4002" class="" scale="0.625" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="4010" scale="1.0" size="medium" shapeId="904530" gender="" race="" resourceSize="0" resourceType="" parentId="90453000" basicActionId="9045300" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" showTargetInfo="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="13038" />
+  </Template>
+</NpcData>

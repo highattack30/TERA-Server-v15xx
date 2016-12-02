@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="23">
+  <Template id="1" scale="1.75" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="9007" />
+  </Template>
+  <Template id="2" scale="1.15" size="medium" shapeId="300930" gender="male" race="DyingGhillieDhu" resourceSize="100" resourceType="medium" basicActionId="3009300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="21799" />
+  </Template>
+  <Template id="3" scale="1.25" size="medium" shapeId="301090" gender="male" race="PoporiBrute" resourceSize="100" resourceType="medium" basicActionId="3010900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="13314" />
+  </Template>
+  <Template id="4" scale="0.9" size="small" shapeId="300700" gender="male" race="Pigling" resourceSize="100" resourceType="small" parentId="30070000" basicActionId="3007000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="28" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="3224" />
+  </Template>
+  <Template id="5" scale="1.25" size="medium" shapeId="300260" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026000" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="23215" />
+  </Template>
+  <Template id="7" scale="0.8" size="small" shapeId="300500" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050000" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="2238" />
+  </Template>
+  <Template id="8" scale="1.15" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095001" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="26" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="28169" />
+  </Template>
+  <Template id="9" scale="0.7" size="large" shapeId="300660" gender="male" race="DestroyerOfFire" resourceSize="100" resourceType="medium" parentId="30066000" basicActionId="3006600" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="104" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="126352" />
+  </Template>
+  <Template id="10" scale="1.5" size="medium" shapeId="300260" gender="male" race="SaberToothCougar" resourceSize="100" resourceType="medium" parentId="30026000" basicActionId="3002600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="6777" />
+  </Template>
+  <Template id="11" scale="1.14" size="medium" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107000" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="13314" />
+  </Template>
+  <Template id="12" scale="0.8" size="small" shapeId="300402" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040200" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="1831" />
+  </Template>
+  <Template id="13" scale="0.7" size="large" shapeId="300660" gender="male" race="DestroyerOfFire" resourceSize="100" resourceType="medium" parentId="30066000" basicActionId="3006600" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="101" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="116101" />
+  </Template>
+  <Template id="14" scale="1.0" size="large" shapeId="300350" gender="male" race="BloodGolem" resourceSize="100" resourceType="medium" parentId="30035000" basicActionId="3003500" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="34" maxHp="116101" />
+  </Template>
+  <Template id="15" scale="1.05" size="medium" shapeId="300921" gender="male" race="DecayingArgass" resourceSize="100" resourceType="medium" parentId="30092100" basicActionId="3009200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="24539" />
+  </Template>
+  <Template id="16" scale="1.3" size="medium" shapeId="301363" gender="male" race="Lance_Darker" resourceSize="100" resourceType="medium" parentId="30136300" basicActionId="3013600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="7360" />
+  </Template>
+  <Template id="17" scale="1.3" size="medium" shapeId="301434" gender="male" race="Sorcerer_Darker" resourceSize="100" resourceType="medium" parentId="30143400" basicActionId="3014300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="7360" />
+  </Template>
+  <Template id="18" scale="1.86" size="medium" shapeId="300320" gender="female" race="VampirLady" resourceSize="100" resourceType="medium" parentId="30032002" basicActionId="3003200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="9618" />
+  </Template>
+  <Template id="19" scale="0.55" size="small" shapeId="301090" gender="male" race="PoporiBrute" resourceSize="100" resourceType="medium" basicActionId="3010900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="1766" />
+  </Template>
+  <Template id="20" scale="1.74" size="medium" shapeId="300590" gender="male" race="FollowersOfLida" resourceSize="100" resourceType="medium" parentId="30059000" basicActionId="3005900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="12012" />
+  </Template>
+  <Template id="21" scale="1.14" size="medium" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107000" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="69" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="10019" />
+  </Template>
+  <Template id="22" scale="0.8" size="small" shapeId="300402" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040200" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="3058" />
+  </Template>
+  <Template id="23" scale="0.9" size="small" shapeId="300701" gender="male" race="Pigling" resourceSize="100" resourceType="small" parentId="30070100" basicActionId="3007000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="24" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="2008" />
+  </Template>
+  <Template id="24" scale="0.55" size="small" shapeId="301090" gender="male" race="PoporiBrute" resourceSize="100" resourceType="medium" basicActionId="3010900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="1665" />
+  </Template>
+  <Template id="25" scale="1.74" size="medium" shapeId="300590" gender="male" race="FollowersOfLida" resourceSize="100" resourceType="medium" parentId="30059000" basicActionId="3005900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="10687" />
+  </Template>
+  <Template id="101" scale="1.14" size="medium" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107000" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="61" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="15565" />
+  </Template>
+  <Template id="102" scale="0.8" size="small" shapeId="300402" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040200" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="1459" />
+  </Template>
+  <Template id="103" scale="1.74" size="medium" shapeId="300590" gender="male" race="FollowersOfLida" resourceSize="100" resourceType="medium" parentId="30059000" basicActionId="3005900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="25955" />
+  </Template>
+  <Template id="104" scale="0.55" size="small" shapeId="301090" gender="male" race="PoporiBrute" resourceSize="100" resourceType="medium" basicActionId="3010900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="2433" />
+  </Template>
+  <Template id="105" scale="1.0" size="large" shapeId="300830" gender="male" race="GiantStormDrake" resourceSize="100" resourceType="medium" parentId="30083000" basicActionId="3008300" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="599" deathNameplateHeight="0" />
+    <Stat level="37" maxHp="331718" />
+  </Template>
+  <Template id="201" scale="1.0" size="small" shapeId="301550" gender="male" race="Toad" parentId="30155000" basicActionId="3015500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="34" maxHp="10" />
+  </Template>
+  <Template id="202" scale="1.0" size="small" shapeId="301620" gender="male" race="Honeybee" parentId="30162000" basicActionId="3016200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="34" maxHp="10" />
+  </Template>
+  <Template id="5007" scale="1.0" size="medium" shapeId="600460" gender="male" race="T4_Stone" resourceSize="100" resourceType="medium" parentId="60046000" basicActionId="6004600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="15644" />
+  </Template>
+</NpcData>

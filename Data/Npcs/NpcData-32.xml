@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="35">
+  <Template id="1" scale="0.9" size="small" shapeId="300501" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050100" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="11261" />
+  </Template>
+  <Template id="2" scale="0.9" size="small" shapeId="300401" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040100" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="11261" />
+  </Template>
+  <Template id="3" scale="0.9" size="small" shapeId="300401" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040100" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="5561" />
+  </Template>
+  <Template id="4" scale="0.9" size="small" shapeId="300402" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040200" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="11261" />
+  </Template>
+  <Template id="5" scale="1.98" size="medium" shapeId="300113" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011000" basicActionId="3001100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="53386" />
+  </Template>
+  <Template id="6" scale="1.98" size="medium" shapeId="300110" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011000" basicActionId="3001100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="48937" />
+  </Template>
+  <Template id="7" scale="1.05" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081002" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="104" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="463554" />
+  </Template>
+  <Template id="8" scale="1.62" size="medium" shapeId="300510" gender="male" race="HoundMaligoth" resourceSize="100" resourceType="medium" parentId="30051000" basicActionId="3005100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="29" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="77577" />
+  </Template>
+  <Template id="9" scale="1.38" size="medium" shapeId="300070" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007003" basicActionId="3000700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="24" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="81213" />
+  </Template>
+  <Template id="10" scale="1.5" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095002" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="88621" />
+  </Template>
+  <Template id="11" scale="2.65" size="large" shapeId="301340" gender="male" race="Volcanus" resourceSize="100" resourceType="medium" parentId="30134003" basicActionId="3013400" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="102" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="497607" />
+  </Template>
+  <Template id="12" scale="1.86" size="medium" shapeId="300420" gender="male" race="FuryMaligoth" resourceSize="100" resourceType="medium" parentId="30042000" basicActionId="3004200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="31" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="99949" />
+  </Template>
+  <Template id="13" scale="1.5" size="medium" shapeId="301350" gender="male" race="Volcan" resourceSize="100" resourceType="medium" parentId="30135000" basicActionId="3013500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="88621" />
+  </Template>
+  <Template id="14" scale="1.5" size="medium" shapeId="301350" gender="male" race="Volcan" resourceSize="100" resourceType="medium" parentId="30135000" basicActionId="3013500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="87170" />
+  </Template>
+  <Template id="15" scale="1.25" size="large" shapeId="301540" gender="male" race="Pandurus" resourceSize="100" resourceType="large" parentId="30154000" basicActionId="3015400" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="78" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="497607" />
+  </Template>
+  <Template id="16" scale="0.8" size="small" shapeId="300960" gender="male" race="BlackMarauder" resourceSize="100" resourceType="medium" parentId="30096000" basicActionId="3009600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="3268" />
+  </Template>
+  <Template id="17" scale="1.56" size="medium" shapeId="301402" gender="male" race="Elementalist_Darker" resourceSize="100" resourceType="medium" parentId="30140200" basicActionId="3014000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="53043" />
+  </Template>
+  <Template id="18" scale="1.56" size="medium" shapeId="301422" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142200" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="53043" />
+  </Template>
+  <Template id="19" scale="1.26" size="medium" shapeId="301102" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" parentId="30110000" basicActionId="3011000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="41" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="41978" />
+  </Template>
+  <Template id="20" scale="1.26" size="medium" shapeId="301100" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" parentId="30110000" basicActionId="3011000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="41" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="99949" />
+  </Template>
+  <Template id="21" scale="1.25" size="large" shapeId="301541" gender="male" race="Pandurus" resourceSize="100" resourceType="large" parentId="30154000" basicActionId="3015400" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="905713" />
+  </Template>
+  <Template id="22" scale="1.26" size="medium" shapeId="301100" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" parentId="30110000" basicActionId="3011000" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="46" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="180390" />
+  </Template>
+  <Template id="23" scale="1.26" size="medium" shapeId="301110" gender="male" race="DruggedShurianSummoner" resourceSize="100" resourceType="medium" parentId="30111000" basicActionId="3011100" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="37" deathNameplateHeight="0" />
+    <Stat level="58" maxHp="180390" />
+  </Template>
+  <Template id="100" scale="1.0" size="small" shapeId="301690" gender="male" race="Scorpion" parentId="30169000" basicActionId="3016900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="56" />
+  </Template>
+  <Template id="1000" scale="0.8" size="large" shapeId="301540" gender="male" race="Pandurus" resourceSize="100" resourceType="large" parentId="30154000" basicActionId="3015400" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="78" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="74641" />
+  </Template>
+  <Template id="1501" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

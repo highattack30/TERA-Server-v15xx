@@ -1,0 +1,36 @@
+##########~Sky Lake~ Config v[1.0]############
+
+server.name=~Sky-Lake~
+server.id=1
+
+server.number_of_threads_per_cpu=1
+server.job_pull_count=4
+
+server.localhost=False
+server.ip=192.168.45
+server.port=10000
+
+server.mysql.ip=127.0.0.1
+server.mysql.port=3306
+server.mysql.db_name=tera_q
+server.mysql.username=root
+server.mysql.password=root
+
+server.dir.npc=              .//Data//Npcs
+server.dir.skills.npc=       .//Data//Skills//NpcSkills
+server.dir.skills.player=    .//Data//Skills//PlayerSkills	
+server.dir.items=            .//Data//Items
+server.dir.abnormalities=    .//Data//Abnormalities
+server.dir.passivities=      .//Data//Passivities
+server.dir.equipment=        .//Data//EquipmentData
+
+area.start_positon= 2.34 5.0 23.45
+area.start_heading= 0
+area.start_continent= 5
+area.start_world_map_world_id= 0
+area.start_world_map_guard_id= 0
+area.start_world_map_section_id= 0
+
+
+player.additional_start_items=0
+player.start_inventory_slot_cout=24

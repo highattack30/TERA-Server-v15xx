@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Passivity>
+  <Passive id="6000001" prob="1.0" type="152" value="1.001" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="25" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="3" />
+  <Passive id="6000002" prob="1.0" type="102" value="0.999" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="15" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="3" />
+  <Passive id="6000003" prob="1.0" type="1" value="100" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="2" tickInterval="0" condition="0" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="0" />
+  <Passive id="6000004" prob="1.0" type="102" value="0.998" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="11" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="2" />
+  <Passive id="6000005" prob="1.0" type="102" value="0.998" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="10" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="0" />
+  <Passive id="6000006" prob="1.0" type="102" value="0.998" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="9" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="4" />
+  <Passive id="6000007" prob="1.0" type="152" value="1.0015" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="29" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="6" />
+  <Passive id="6000008" prob="1.0" type="204" value="0.95" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="3" tickInterval="0" condition="0" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="0" />
+  <Passive id="6000009" prob="1.0" type="64" value="5" balancedByTargetCount="False" judgmentOnce="False" kind="0" mobSize="all" method="2" tickInterval="0" condition="0" abnormalityCategory="0" abnormalityKind="0" conditionCategory="0" conditionValue="0" />
+</Passivity>

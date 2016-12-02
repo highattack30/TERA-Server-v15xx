@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="461">
+  <Template id="1001" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" class="" scale="1.0" size="medium" shapeId="611170" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="3006300" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1003" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="5001" scale="1.0" size="large" shapeId="300692" gender="male" race="LastemoerorBelten" resourceSize="100" resourceType="large" parentId="90021002" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="140" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="2631926" />
+  </Template>
+  <Template id="5002" scale="1.2" size="medium" shapeId="300621" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062100" basicActionId="3006200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="15741" />
+  </Template>
+  <Template id="5003" scale="1.2" size="medium" shapeId="300631" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063100" basicActionId="3006300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="43" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="15741" />
+  </Template>
+  <Template id="5004" scale="1.2" size="medium" shapeId="300633" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063100" basicActionId="3006300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="41" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="33732" />
+  </Template>
+</NpcData>

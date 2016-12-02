@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9826" areaName="RNC_Durion_Room_P" nameId="826001" ride="True" worldMapGuardId="24" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="826001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9826">
+    <Fence pos="-6142.1226,-127985.1797,-346.7205" />
+    <Fence pos="-7866.1304,-126975.0313,-1236.8242" />
+    <Fence pos="-8566.4561,-128242.4766,1216.4635" />
+    <Fence pos="-8957.2363,-129515.0234,-94.0846" />
+    <Fence pos="-10000.0947,-131019.7656,-1327.1494" />
+    <Fence pos="-8246.3760,-132987.9219,220.4160" />
+    <Fence pos="-7446.4517,-133698.3281,656.2740" />
+    <Fence pos="-4757.1816,-133350.8594,266.6565" />
+    <Fence pos="-4745.5996,-132274.0313,266.5664" />
+  </Section>
+</Area>

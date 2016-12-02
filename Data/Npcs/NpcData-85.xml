@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="110">
+  <Template id="2000" scale="0.2" size="large" shapeId="611290" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61129000" basicActionId="6112901" cannotPassThrough="True" deathShapeId="611291" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009720" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="2001" scale="0.2" size="large" shapeId="611300" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61130000" basicActionId="6113001" cannotPassThrough="True" deathShapeId="611301" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009740" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="2002" scale="0.2" size="large" shapeId="611310" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61131000" basicActionId="6113101" cannotPassThrough="True" deathShapeId="611311" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009790" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="2003" scale="0.2" size="large" shapeId="611320" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61132000" basicActionId="6113201" cannotPassThrough="True" deathShapeId="611321" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009730" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="2004" scale="0.2" size="large" shapeId="600950" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60095000" basicActionId="6009501" cannotPassThrough="True" deathShapeId="600951" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009710" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="2005" scale="0.2" size="large" shapeId="720120" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="72012000" basicActionId="7201200" cannotPassThrough="True" deathShapeId="720121" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009700" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="84400" />
+  </Template>
+  <Template id="3000" scale="1.8" size="large" shapeId="600962" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096200" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600965" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009750" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="3001" scale="1.8" size="large" shapeId="600963" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096300" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600966" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009810" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="3002" scale="1.8" size="large" shapeId="600964" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096400" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600967" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009820" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="3010" scale="1.8" size="large" shapeId="600962" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096200" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600965" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009750" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="3011" scale="1.8" size="large" shapeId="600963" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096300" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600966" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009810" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="3012" scale="1.8" size="large" shapeId="600964" gender="male" race="MysteryBox_Event" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60096400" basicActionId="6009600" cannotPassThrough="True" deathShapeId="600967" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="999009820" addPoint="0" applyTarget="me" bossMarker="False" hideMarker="True" isLastHit="True" />
+    <Stat level="65" maxHp="168800" />
+  </Template>
+  <Template id="5001" scale="0.5" size="medium" shapeId="600960" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13755" />
+  </Template>
+</NpcData>

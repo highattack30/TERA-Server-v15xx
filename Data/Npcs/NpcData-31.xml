@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="34">
+  <Template id="100" scale="1.74" size="medium" shapeId="300420" gender="male" race="FuryMaligoth" resourceSize="100" resourceType="medium" parentId="30042000" basicActionId="3004200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="29" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="24086" />
+  </Template>
+  <Template id="200" scale="0.8" size="small" shapeId="300401" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040001" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="15" />
+    <Stat level="44" maxHp="1896" />
+  </Template>
+  <Template id="300" scale="1.86" size="medium" shapeId="301201" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120001" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="17223" />
+  </Template>
+  <Template id="310" scale="1.86" size="medium" shapeId="301201" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120100" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="27338" />
+  </Template>
+  <Template id="400" scale="1.86" size="medium" shapeId="301200" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120001" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="17223" />
+  </Template>
+  <Template id="410" scale="1.86" size="medium" shapeId="301200" gender="male" race="SalvaGangBurglar" resourceSize="100" resourceType="medium" parentId="30120000" basicActionId="3012000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="27338" />
+  </Template>
+  <Template id="500" scale="0.9" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="70" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="12056" />
+  </Template>
+  <Template id="510" scale="0.9" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130001" basicActionId="3013000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="27338" />
+  </Template>
+  <Template id="600" scale="0.9" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131003" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="12056" />
+  </Template>
+  <Template id="610" scale="0.9" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131000" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="14216" />
+  </Template>
+  <Template id="700" scale="0.9" size="medium" shapeId="301311" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131100" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="51" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="20323" />
+  </Template>
+  <Template id="710" scale="0.9" size="medium" shapeId="301311" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131100" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="55" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="16490" />
+  </Template>
+  <Template id="800" scale="1.26" size="medium" shapeId="300071" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007100" basicActionId="3000700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="20323" />
+  </Template>
+  <Template id="900" scale="1.74" size="medium" shapeId="300781" gender="male" race="Arctus" parentId="30078102" basicActionId="3007800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="17223" />
+  </Template>
+  <Template id="910" scale="1.3" size="medium" shapeId="300781" gender="male" race="Arctus" parentId="30078103" basicActionId="3007800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="66" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="17223" />
+  </Template>
+  <Template id="920" scale="1.74" size="medium" shapeId="300781" gender="male" race="Arctus" parentId="30078100" basicActionId="3007800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="29560" />
+  </Template>
+  <Template id="1000" scale="1.05" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069001" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="110" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="236663" />
+  </Template>
+  <Template id="1010" scale="1.05" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069001" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="105" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="236663" />
+  </Template>
+  <Template id="1100" scale="1.05" size="large" shapeId="300720" gender="male" race="AlpinePredator" resourceSize="100" resourceType="large" parentId="30072000" basicActionId="3007200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="132" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="236663" />
+  </Template>
+  <Template id="1110" scale="1.05" size="large" shapeId="300720" gender="male" race="AlpinePredator" resourceSize="100" resourceType="large" parentId="30072000" basicActionId="3007200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="140" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="218263" />
+  </Template>
+  <Template id="5000" scale="0.9" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="33994" />
+  </Template>
+  <Template id="5001" scale="0.9" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131003" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="45212" />
+  </Template>
+  <Template id="5002" scale="1.15" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069001" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="140" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="306041" />
+  </Template>
+  <Template id="5007" scale="1.4" size="medium" shapeId="300781" gender="male" race="Arctus" resourceSize="0" resourceType="" parentId="30078100" basicActionId="3007800" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="5008" scale="1.3" size="medium" shapeId="300420" gender="male" race="FuryMaligoth" resourceSize="100" resourceType="medium" parentId="30042000" basicActionId="3004200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="5009" scale="1.2" size="medium" shapeId="300071" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007100" basicActionId="3000700" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="7000" scale="1.0" size="medium" shapeId="510510" gender="male" race="Highelf" resourceSize="100" resourceType="medium" parentId="51051000" basicActionId="5105100" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="27338" />
+  </Template>
+  <Template id="7001" scale="1.0" size="medium" shapeId="510591" gender="female" race="Highelf" resourceSize="100" resourceType="medium" parentId="51059100" basicActionId="5105900" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="44" maxHp="27338" />
+  </Template>
+  <Template id="8000" scale="1.0" size="small" shapeId="301640" gender="male" race="Goral" parentId="30164000" basicActionId="3016400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="42" maxHp="23" />
+  </Template>
+  <Template id="9000" scale="1.05" size="medium" shapeId="301301" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="75" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="79924" />
+  </Template>
+  <Template id="9001" scale="1.25" size="medium" shapeId="301313" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131000" basicActionId="3013100" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="55" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="79924" />
+  </Template>
+  <Template id="9002" scale="1.25" size="large" shapeId="300694" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="120" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="382551" />
+  </Template>
+  <Template id="9003" scale="1.25" size="large" shapeId="301530" gender="female" race="Arkus" resourceSize="100" resourceType="large" parentId="30153000" basicActionId="3015300" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="52" maxHp="599910" />
+  </Template>
+  <Template id="9004" scale="1.25" size="large" shapeId="301540" gender="male" race="Pandurus" resourceSize="100" resourceType="large" parentId="30154000" basicActionId="3015400" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+    <Stat level="52" maxHp="599910" />
+  </Template>
+</NpcData>

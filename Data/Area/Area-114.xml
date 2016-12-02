@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9047" areaName="EX_Halloween_T42_P" nameId="9047001" ride="True" worldMapGuardId="4" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" nameId="9047001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="1000.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9047">
+    <Fence pos="9576.9229,149516.1875,-537.1763" />
+    <Fence pos="4368.2119,146507.9688,-536.9872" />
+    <Fence pos="6553.9819,144565.3281,-536.8830" />
+    <Fence pos="8361.0771,143736.2500,-539.6030" />
+    <Fence pos="9485.0078,143360.8281,-536.8860" />
+    <Fence pos="11708.0273,144484.5469,-468.4867" />
+    <Fence pos="13120.2861,146352.8906,-506.1818" />
+  </Section>
+</Area>

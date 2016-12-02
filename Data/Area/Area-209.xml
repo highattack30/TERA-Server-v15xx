@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9828" areaName="A_Island_SD_P" nameId="828001" ride="False" worldMapGuardId="25" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="828001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="7000.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9828">
+    <Fence pos="15396.87695313,6.05700684,-7044.25585938" />
+    <Fence pos="23605.43945313,41.75903320,-7044.25683594" />
+    <Fence pos="24927.56250000,15359.13574219,-7044.25097656" />
+    <Fence pos="15408.36132813,15295.79101563,-7044.25195313" />
+    <Section huntingZoneId="-1" priority="2" desTex="False" ignoreObstacleShortTel="False" nameId="828001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="7000.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9828">
+      <Fence pos="15396.87695313,6.05700684,-7044.25585938" />
+      <Fence pos="23605.43945313,41.75903320,-7044.25683594" />
+      <Fence pos="24927.56250000,15359.13574219,-7044.25097656" />
+      <Fence pos="15408.36132813,15295.79101563,-7044.25195313" />
+    </Section>
+    <Section huntingZoneId="-1" priority="3" desTex="False" ignoreObstacleShortTel="False" nameId="828002" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9828">
+      <Fence pos="19078.33398438,4589.88769531,-3462.94433594" />
+      <Fence pos="21619.43164063,4429.71777344,-3051.65771484" />
+      <Fence pos="22134.23828125,5549.57958984,-2647.03027344" />
+      <Fence pos="21297.46679688,6155.23779297,-2324.62695313" />
+      <Fence pos="20286.40625000,6170.08300781,-2631.87451172" />
+      <Fence pos="19371.04296875,7070.16748047,-2819.21435547" />
+      <Fence pos="18657.88671875,6879.96142578,-2940.15722656" />
+    </Section>
+  </Section>
+</Area>

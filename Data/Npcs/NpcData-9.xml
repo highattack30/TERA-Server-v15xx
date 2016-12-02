@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="11">
+  <Template id="1001" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089002" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="48" />
+    <Stat level="33" maxHp="9416" />
+  </Template>
+  <Template id="1002" scale="1.2" size="medium" shapeId="301010" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101000" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6361" />
+  </Template>
+  <Template id="1003" scale="1.4" size="medium" shapeId="301011" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101001" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6361" />
+  </Template>
+  <Template id="1004" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="1047" />
+  </Template>
+  <Template id="1005" scale="0.6" size="small" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103100" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="931" />
+  </Template>
+  <Template id="1006" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="small" parentId="30103001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="1059" />
+  </Template>
+  <Template id="1007" scale="1.5" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037001" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="10347" />
+  </Template>
+  <Template id="1008" scale="0.228" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065001" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="10347" />
+  </Template>
+  <Template id="1009" scale="1.3" size="medium" shapeId="301410" gender="male" race="Warrior_Darker" resourceSize="100" resourceType="medium" parentId="30141000" basicActionId="3014100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6361" />
+  </Template>
+  <Template id="1010" scale="1.3" size="medium" shapeId="301370" gender="male" race="Archer_Darker" resourceSize="100" resourceType="medium" parentId="30137000" basicActionId="3013700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6361" />
+  </Template>
+  <Template id="1011" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089002" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6998" />
+  </Template>
+  <Template id="2001" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089001" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="10347" />
+  </Template>
+  <Template id="2002" scale="1.2" size="medium" shapeId="301010" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101000" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="10011311">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6361" />
+  </Template>
+  <Template id="2003" scale="1.4" size="medium" shapeId="301011" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101001" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6998" />
+  </Template>
+  <Template id="2004" scale="0.6" size="small" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103000" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="942" />
+  </Template>
+  <Template id="2005" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="931" />
+  </Template>
+  <Template id="2006" scale="0.228" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065200" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="29" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6208" />
+  </Template>
+  <Template id="2007" scale="1.3" size="medium" shapeId="301380" gender="male" race="Slayer_Darker" resourceSize="100" resourceType="medium" parentId="30138000" basicActionId="3013800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6998" />
+  </Template>
+  <Template id="2008" scale="1.2" size="medium" shapeId="301010" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101000" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6998" />
+  </Template>
+  <Template id="3003" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="small" parentId="30105001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="931" />
+  </Template>
+  <Template id="3006" scale="1.3" size="medium" shapeId="301420" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-7" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="6743" />
+  </Template>
+  <Template id="4001" scale="0.19" size="medium" shapeId="300650" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065001" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="7243" />
+  </Template>
+  <Template id="4002" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="931" />
+  </Template>
+  <Template id="4003" scale="1.2" size="medium" shapeId="301011" gender="male" race="PirateDeva" resourceSize="100" resourceType="medium" parentId="30101100" basicActionId="3010100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="9088" />
+  </Template>
+  <Template id="4004" scale="1.45" size="medium" shapeId="300100" gender="male" race="Qamara" resourceSize="100" resourceType="medium" parentId="30010001" basicActionId="3001000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="10098" />
+  </Template>
+  <Template id="4005" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089001" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="46" />
+    <Stat level="33" maxHp="10098" />
+  </Template>
+  <Template id="4006" scale="0.7" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="small" parentId="30105001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="1940" />
+  </Template>
+  <Template id="5001" scale="1.3" size="medium" shapeId="301420" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-7" deathNameplateHeight="-46" />
+    <Stat level="33" maxHp="11613" />
+  </Template>
+  <Template id="5002" scale="1.3" size="medium" shapeId="301383" gender="male" race="Slayer_Darker" resourceSize="100" resourceType="medium" parentId="30138000" basicActionId="3013800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="11613" />
+  </Template>
+  <Template id="5003" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089002" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="43" />
+    <Stat level="33" maxHp="11900" />
+  </Template>
+  <Template id="5004" scale="0.6" size="small" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103000" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="937" />
+  </Template>
+  <Template id="5006" scale="1.62" size="medium" shapeId="300891" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089001" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="11900" />
+  </Template>
+  <Template id="5007" scale="0.6" size="small" shapeId="301031" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103001" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="937" />
+  </Template>
+  <Template id="6001" scale="0.7" size="small" shapeId="301137" gender="male" race="DrownedSailor" resourceSize="100" resourceType="medium" parentId="30113000" basicActionId="3011300" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="1402" />
+  </Template>
+  <Template id="6002" scale="1.2" size="medium" shapeId="301136" gender="male" race="DrownedSailor" resourceSize="100" resourceType="medium" parentId="30113100" basicActionId="3011300" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="38" deathNameplateHeight="54" />
+    <Stat level="34" maxHp="20876" />
+  </Template>
+  <Template id="6003" scale="1.3" size="medium" shapeId="301425" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142100" basicActionId="3014200" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-7" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="17355" />
+  </Template>
+  <Template id="6004" scale="1.3" size="medium" shapeId="301404" gender="male" race="Elementalist_Darker" resourceSize="100" resourceType="medium" parentId="30140100" basicActionId="3014000" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="17355" />
+  </Template>
+  <Template id="6005" scale="1.3" size="medium" shapeId="301381" gender="male" race="Slayer_Darker" resourceSize="100" resourceType="medium" parentId="30138100" basicActionId="3013800" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="17355" />
+  </Template>
+</NpcData>

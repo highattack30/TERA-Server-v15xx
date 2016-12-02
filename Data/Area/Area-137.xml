@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9074" areaName="SWC_Quest_P" nameId="220" ride="False" worldMapGuardId="20" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="9074" desTex="False" nameId="9074001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="1024.0" subtractMinZ="2048.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9074">
+    <Fence pos="70759.6641,-103901.9063,-9556.3984" />
+    <Fence pos="72853.3047,-102344.9063,-10362.9229" />
+    <Fence pos="72732.9688,-99205.4844,-10478.0156" />
+    <Fence pos="72395.2578,-97925.8672,-9907.2305" />
+    <Fence pos="71489.8672,-97010.2422,-10240.1143" />
+    <Fence pos="70498.0703,-95925.2266,-9441.4443" />
+    <Fence pos="67228.0703,-97041.2344,-9876.8242" />
+    <Fence pos="62622.7266,-98301.8438,-8773.9111" />
+    <Fence pos="61717.8242,-101909.4609,-8882.9316" />
+    <Fence pos="62350.2344,-103072.5469,-8858.7578" />
+  </Section>
+</Area>

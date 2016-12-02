@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="492">
+  <Template id="1" scale="1.45" size="medium" shapeId="300890" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="medium" parentId="30089000" basicActionId="3008900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="48" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="31403" />
+  </Template>
+  <Template id="2" scale="1.65" size="medium" shapeId="300291" gender="male" race="SikandariOracle" resourceSize="100" resourceType="medium" parentId="30029100" basicActionId="3002900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="17203" />
+  </Template>
+  <Template id="3" scale="1.65" size="medium" shapeId="300281" gender="male" race="SikandariEliteSoldier" resourceSize="100" resourceType="medium" parentId="30028100" basicActionId="3002800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="17203" />
+  </Template>
+  <Template id="1001" class="" scale="1.0" size="medium" shapeId="203503" gender="female" race="highelf" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="5001400" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2001" size="medium" shapeId="600032" parentId="60003002" basicActionId="6000320" deathShapeId="600035" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="47" maxHp="1706" />
+  </Template>
+  <Template id="2002" size="medium" shapeId="600032" parentId="60003002" basicActionId="6000320" deathShapeId="600035" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="47" maxHp="1075" />
+  </Template>
+</NpcData>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="21">
+  <Template id="1" scale="0.95" size="large" shapeId="300811" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081001" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="95" deathNameplateHeight="0" />
+    <Stat level="31" maxHp="87782" />
+  </Template>
+  <Template id="2" scale="0.85" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081001" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="94" deathNameplateHeight="0" />
+    <Stat level="30" maxHp="79263" />
+  </Template>
+  <Template id="3" scale="0.95" size="large" shapeId="300821" gender="male" race="GiantTula" resourceSize="100" resourceType="medium" parentId="30082000" basicActionId="3008200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="70" deathNameplateHeight="0" />
+    <Stat level="30" maxHp="79263" />
+  </Template>
+  <Template id="4" scale="0.95" size="large" shapeId="300821" gender="male" race="GiantTula" resourceSize="100" resourceType="medium" parentId="30082000" basicActionId="3008200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="70" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="71410" />
+  </Template>
+  <Template id="5" scale="1.25" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043000" basicActionId="3004300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="2" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="9885" />
+  </Template>
+  <Template id="6" scale="1.15" size="medium" shapeId="300563" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056001" basicActionId="3005600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="8423" />
+  </Template>
+  <Template id="7" scale="1.15" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020004" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="11190" />
+  </Template>
+  <Template id="8" scale="1.15" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020001" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="10115" />
+  </Template>
+  <Template id="9" scale="1.15" size="medium" shapeId="300563" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056001" basicActionId="3005600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="10226" />
+  </Template>
+  <Template id="10" scale="1.15" size="medium" shapeId="300572" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057001" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="10022" />
+  </Template>
+  <Template id="11" scale="1.15" size="medium" shapeId="300572" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057000" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="6817" />
+  </Template>
+  <Template id="12" scale="1.25" size="medium" shapeId="301280" gender="male" race="Pygmytula" resourceSize="100" resourceType="medium" parentId="30128000" basicActionId="3012800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="12517" />
+  </Template>
+  <Template id="13" scale="1.25" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129002" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="12644" />
+  </Template>
+  <Template id="14" scale="0.95" size="medium" shapeId="300070" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007000" basicActionId="3000700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="9483" />
+  </Template>
+  <Template id="15" scale="0.7" size="small" shapeId="300500" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050002" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="1066" />
+  </Template>
+  <Template id="16" scale="0.7" size="small" shapeId="300400" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040002" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="1279" />
+  </Template>
+  <Template id="17" scale="1.15" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020004" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="3226" />
+  </Template>
+  <Template id="18" scale="1.15" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020001" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="3226" />
+  </Template>
+  <Template id="19" scale="1.25" size="medium" shapeId="301280" gender="male" race="Pygmytula" resourceSize="100" resourceType="medium" parentId="30128000" basicActionId="3012800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="49" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="4424" />
+  </Template>
+  <Template id="20" scale="1.25" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129002" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="6442" />
+  </Template>
+  <Template id="21" scale="1.25" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129002" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="6322" />
+  </Template>
+  <Template id="22" scale="1.15" size="medium" shapeId="300572" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057001" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="10158" />
+  </Template>
+  <Template id="23" scale="1.15" size="medium" shapeId="300563" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056001" basicActionId="3005600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="9681" />
+  </Template>
+  <Template id="24" scale="1.25" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043000" basicActionId="3004300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="9135" />
+  </Template>
+  <Template id="25" scale="0.7" size="small" shapeId="300500" gender="male" race="KoboldMarauder" resourceSize="100" resourceType="medium" parentId="30050002" basicActionId="3005000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="1066" />
+  </Template>
+  <Template id="26" scale="1.15" size="medium" shapeId="300563" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056001" basicActionId="3005600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="10226" />
+  </Template>
+  <Template id="27" scale="1.15" size="medium" shapeId="300572" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057000" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="4552" />
+  </Template>
+  <Template id="28" scale="1.25" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043000" basicActionId="3004300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="4552" />
+  </Template>
+  <Template id="29" scale="1.15" size="medium" shapeId="300572" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057000" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="4939" />
+  </Template>
+  <Template id="30" scale="1.25" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043000" basicActionId="3004300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="4939" />
+  </Template>
+  <Template id="31" scale="1.25" size="medium" shapeId="301280" gender="male" race="Pygmytula" resourceSize="100" resourceType="medium" parentId="30128000" basicActionId="3012800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="52" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="5974" />
+  </Template>
+  <Template id="32" scale="1.25" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129000" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="5974" />
+  </Template>
+  <Template id="33" scale="1.25" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129000" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="29" maxHp="7022" />
+  </Template>
+  <Template id="5001" scale="1.25" size="medium" shapeId="300432" gender="male" race="KoboldProphet" resourceSize="100" resourceType="medium" parentId="30043000" basicActionId="3004300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="30" maxHp="8913" />
+  </Template>
+  <Template id="5002" scale="0.7" size="small" shapeId="300400" gender="male" race="KoboldRaider" resourceSize="100" resourceType="medium" parentId="30040002" basicActionId="3004000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="30" maxHp="1002" />
+  </Template>
+  <Template id="5003" scale="0.95" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081001" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="91" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="116562" />
+  </Template>
+  <Template id="5004" scale="1.2" size="large" shapeId="300812" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081002" basicActionId="3008100" elite="True" isFreeNamed="True" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="140" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="145702" />
+  </Template>
+  <Template id="7000" scale="1.0" size="small" shapeId="301690" gender="male" race="Scorpion" parentId="30169000" basicActionId="3016900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="28" maxHp="6" />
+  </Template>
+</NpcData>

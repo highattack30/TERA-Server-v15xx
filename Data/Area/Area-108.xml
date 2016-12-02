@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9039" areaName="ASE_A_P" nameId="204" ride="False" worldMapGuardId="4" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9039001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="3000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9039">
+    <Fence pos="-23113.4199,40983.6914,3805.2319" />
+    <Fence pos="-26112.3828,43739.7813,2336.2266" />
+    <Fence pos="-28903.7344,40936.8008,3178.1465" />
+    <Fence pos="-28740.3320,38103.3750,3331.8267" />
+    <Fence pos="-25268.6172,36866.6719,2700.6406" />
+    <Fence pos="-21203.2930,39632.8008,5651.5513" />
+  </Section>
+</Area>

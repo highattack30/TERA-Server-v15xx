@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9808" areaName="RNW_ArcDevaArmory_SD_P" nameId="9808001" ride="True" worldMapGuardId="24" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9808001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="1500.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+    <Fence pos="37910.0898,133653.4219,-404.4180" />
+    <Fence pos="44493.8438,131280.8906,-3037.0605" />
+    <Fence pos="46568.6719,133709.1719,-711.1973" />
+    <Fence pos="41373.2617,153104.1719,0.0000" />
+    <Fence pos="32702.3242,151907.3906,0.0000" />
+    <Fence pos="30153.2070,148794.8438,0.0000" />
+    <Fence pos="32102.8691,144630.1875,0.0000" />
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808002" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="32350.9805,146761.9063,-38.7283" />
+      <Fence pos="32269.4395,146434.8125,-8.5853" />
+      <Fence pos="32140.6133,145836.8125,57.0102" />
+      <Fence pos="32484.8379,145340.6563,-33.6662" />
+      <Fence pos="32877.6523,145294.9219,581.9570" />
+      <Fence pos="33542.4609,145450.2500,-40.6494" />
+      <Fence pos="33873.6836,145736.1563,0.0000" />
+      <Fence pos="33747.0117,146491.1406,0.0000" />
+      <Fence pos="33334.6367,146950.8906,42.8691" />
+      <Fence pos="32687.3848,147022.7969,103.8773" />
+    </Section>
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808003" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="40971.8711,145177.7813,-178.2225" />
+      <Fence pos="41320.3906,145052.1719,-28.2937" />
+      <Fence pos="41997.0664,145182.0938,-95.4167" />
+      <Fence pos="42769.8984,145324.7344,-172.1501" />
+      <Fence pos="42762.5703,146498.4844,-171.1500" />
+      <Fence pos="42630.6172,147226.0625,-171.1500" />
+      <Fence pos="42116.3359,147585.1406,0.0000" />
+      <Fence pos="41347.0195,147503.7031,-85.3521" />
+      <Fence pos="40429.0742,146999.0000,450.7408" />
+      <Fence pos="40419.0391,145922.5469,-170.1500" />
+      <Fence pos="40645.6758,145465.5156,-171.1501" />
+    </Section>
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808004" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="40043.7305,139209.1563,-171.0395" />
+      <Fence pos="40715.0859,138678.1563,450.1406" />
+      <Fence pos="41555.6992,138849.2813,450.1406" />
+      <Fence pos="42126.9883,139555.6094,450.1406" />
+      <Fence pos="41786.7852,140682.1875,-170.7501" />
+      <Fence pos="40941.9961,141043.7656,-170.7501" />
+      <Fence pos="40538.1211,140894.8750,-226.7501" />
+      <Fence pos="39695.4375,140084.5313,479.9102" />
+      <Fence pos="39837.7227,139458.0156,-170.7500" />
+    </Section>
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808007" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="41077.6992,150592.0781,-41.5146" />
+      <Fence pos="40860.8750,150575.5156,-41.6729" />
+      <Fence pos="40277.3711,150427.7813,-39.7855" />
+      <Fence pos="40134.7539,149992.7500,-37.8113" />
+      <Fence pos="40139.9492,149469.2656,-38.0523" />
+      <Fence pos="40484.3008,148978.7188,-41.0478" />
+      <Fence pos="41243.4063,148824.2500,0.0000" />
+      <Fence pos="41614.9492,149202.9844,-43.0394" />
+      <Fence pos="41845.4844,149369.6094,275.6250" />
+      <Fence pos="41845.1758,149913.5938,-30.2693" />
+      <Fence pos="41436.9375,150525.0938,71.1498" />
+      <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9808008" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+        <Fence pos="41052.3867,149460.0625,-47.3173" />
+        <Fence pos="41212.0547,149420.2813,-47.5148" />
+        <Fence pos="41252.2578,149591.0000,-46.6640" />
+        <Fence pos="41101.1914,149637.7031,-40.1173" />
+      </Section>
+    </Section>
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808006" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="39403.3555,136059.8750,322.1406" />
+      <Fence pos="38661.6367,136036.4844,345.8594" />
+      <Fence pos="38270.0039,135916.3750,322.1406" />
+      <Fence pos="37737.8594,135387.2656,430.1836" />
+      <Fence pos="37757.5547,134673.1250,322.1406" />
+      <Fence pos="38008.8867,133888.0000,322.1406" />
+      <Fence pos="38672.5977,133683.1406,322.1406" />
+      <Fence pos="39608.4180,133784.8281,400.9141" />
+      <Fence pos="40160.1641,134147.1094,22.8438" />
+      <Fence pos="40127.3516,135082.0781,345.8594" />
+      <Fence pos="39612.3516,135845.4219,322.1406" />
+      <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9808009" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+        <Fence pos="39064.6055,134661.3125,-298.7501" />
+        <Fence pos="39123.7266,134849.8594,-298.7501" />
+        <Fence pos="38938.5625,134894.3281,-289.6953" />
+        <Fence pos="38851.4453,134728.2500,-298.7501" />
+      </Section>
+    </Section>
+    <Section huntingZoneId="-1" priority="100" desTex="False" ignoreObstacleShortTel="False" nameId="9808005" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9808">
+      <Fence pos="43137.8711,132758.1563,-1607.0625" />
+      <Fence pos="44477.3555,132502.3750,-1539.4641" />
+      <Fence pos="45004.1367,133870.7813,0.0000" />
+      <Fence pos="44616.7773,134710.6094,-1148.4258" />
+      <Fence pos="43719.8047,134991.7969,-962.8359" />
+      <Fence pos="42748.1094,134483.2500,-891.1133" />
+      <Fence pos="42515.7891,133238.2031,-1561.2643" />
+    </Section>
+  </Section>
+</Area>

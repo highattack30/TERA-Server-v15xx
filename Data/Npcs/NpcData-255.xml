@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="491">
+  <Template id="1" scale="0.4" size="small" shapeId="301251" gender="male" race="BisqueDoll" resourceSize="100" resourceType="medium" parentId="30125100" basicActionId="3012500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="759" />
+  </Template>
+  <Template id="2" scale="1.1" size="medium" shapeId="300320" gender="female" race="VampirLady" resourceSize="100" resourceType="medium" parentId="30032000" basicActionId="3003200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="9437" />
+  </Template>
+  <Template id="3" scale="0.9" size="small" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019600" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="759" />
+  </Template>
+  <Template id="4" scale="1.1" size="medium" shapeId="300641" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064100" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="35" maxHp="9437" />
+  </Template>
+  <Template id="5" scale="0.8" size="small" shapeId="301170" gender="male" race="TorturedSouls" resourceSize="100" resourceType="medium" parentId="30117000" basicActionId="3011700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="759" />
+  </Template>
+  <Template id="6" scale="0.55" size="medium" shapeId="300731" gender="male" race="AbandonedAutomatedGuardian" resourceSize="100" resourceType="medium" parentId="30073100" basicActionId="3007300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="9437" />
+  </Template>
+  <Template id="7" scale="0.85" size="medium" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107000" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="48" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="12701" />
+  </Template>
+  <Template id="9" scale="0.95" size="medium" shapeId="301040" gender="female" race="witch" parentId="30104000" basicActionId="3010400" elite="True" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="42897" />
+  </Template>
+  <Template id="10" scale="1.0" size="medium" shapeId="301041" gender="female" race="witch" parentId="30104100" basicActionId="3010400" elite="True" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="35" maxHp="42897" />
+  </Template>
+  <Template id="99" scale="1.0" size="medium" shapeId="300640" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064000" basicActionId="3006400" elite="True" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="92371" />
+  </Template>
+  <Template id="1002" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

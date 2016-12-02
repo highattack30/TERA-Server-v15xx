@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="481">
+  <Template id="101" scale="1.0" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="455918" />
+  </Template>
+  <Template id="102" scale="1.0" size="large" shapeId="300880" gender="male" race="CraftyArachne" resourceSize="100" resourceType="large" parentId="30088001" basicActionId="3008800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="607890" />
+  </Template>
+  <Template id="103" scale="0.8" size="large" shapeId="300760" gender="male" race="ArgoniteGilgashGuardian" resourceSize="100" resourceType="large" parentId="30076003" basicActionId="3007600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="547101" />
+  </Template>
+  <Template id="201" scale="1.0" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="455918" />
+  </Template>
+  <Template id="202" scale="1.0" size="large" shapeId="300880" gender="male" race="CraftyArachne" resourceSize="100" resourceType="large" parentId="30088001" basicActionId="3008800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="6078908" />
+  </Template>
+  <Template id="203" scale="0.8" size="large" shapeId="300760" gender="male" race="ArgoniteGilgashGuardian" resourceSize="100" resourceType="large" parentId="30076003" basicActionId="3007600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="547101" />
+  </Template>
+  <Template id="301" scale="1.0" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="455918" />
+  </Template>
+  <Template id="302" scale="1.0" size="large" shapeId="300880" gender="male" race="CraftyArachne" resourceSize="100" resourceType="large" parentId="30088001" basicActionId="3008800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="6078908" />
+  </Template>
+  <Template id="303" scale="0.8" size="large" shapeId="300760" gender="male" race="ArgoniteGilgashGuardian" resourceSize="100" resourceType="large" parentId="30076003" basicActionId="3007600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="547101" />
+  </Template>
+  <Template id="401" scale="1.0" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="395129" />
+  </Template>
+  <Template id="402" scale="1.0" size="large" shapeId="300880" gender="male" race="CraftyArachne" resourceSize="100" resourceType="large" parentId="30088001" basicActionId="3008800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="547101" />
+  </Template>
+  <Template id="403" scale="0.8" size="large" shapeId="300760" gender="male" race="ArgoniteGilgashGuardian" resourceSize="100" resourceType="large" parentId="30076003" basicActionId="3007600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="455918" />
+  </Template>
+  <Template id="411" scale="1.0" size="medium" shapeId="521012" gender="female" race="Castanic" resourceSize="100" resourceType="medium" parentId="52101200" basicActionId="5210100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation />
+    <Stat level="60" maxHp="183090" />
+  </Template>
+  <Template id="412" scale="1.0" size="medium" shapeId="521012" gender="female" race="Castanic" resourceSize="100" resourceType="medium" parentId="52101200" basicActionId="5210100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation />
+    <Stat level="60" maxHp="183090" />
+  </Template>
+  <Template id="413" scale="1.0" size="medium" shapeId="521012" gender="female" race="Castanic" resourceSize="100" resourceType="medium" parentId="52101200" basicActionId="5210100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <AltAnimation />
+    <Stat level="60" maxHp="183090" />
+  </Template>
+  <Template id="1501" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="True" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

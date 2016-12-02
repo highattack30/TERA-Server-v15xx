@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="830">
+  <Template id="201" scale="1.3" size="medium" shapeId="300780" gender="male" race="Arctus" resourceSize="0" resourceType="" parentId="30078000" basicActionId="3007800" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000649" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="203" scale="1.6" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="204" scale="1.3" size="medium" shapeId="300562" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056200" basicActionId="3005600" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="205" scale="1.3" size="medium" shapeId="300621" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062100" basicActionId="3006200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000657" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="206" scale="1.3" size="medium" shapeId="300934" gender="male" race="DyingGhillieDhu" resourceSize="100" resourceType="medium" parentId="30093400" basicActionId="3009300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="9" />
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000659" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="208" scale="1.3" size="medium" shapeId="302030" gender="male" race="monkey" resourceSize="100" resourceType="medium" parentId="30203000" basicActionId="3020300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000661" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="209" scale="1.2" size="medium" shapeId="302020" gender="male" race="bird" resourceSize="100" resourceType="medium" parentId="30202000" basicActionId="3020200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000663" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="210" scale="1.3" size="medium" shapeId="300935" gender="male" race="FlowerTreespirit" resourceSize="100" resourceType="medium" parentId="30093500" basicActionId="3009300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000665" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="211" scale="2.0" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="400" scale="0.5" size="medium" shapeId="301332" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133200" basicActionId="3013300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <BattleFieldOnly abnormalId="8000655" addPoint="0" applyTarget="team" isLastHit="True" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="401" scale="1.15" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="402" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3000" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" isObjectNpc="False" showTargetInfo="False" villager="True">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3001" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" isObjectNpc="False" showTargetInfo="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3002" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" isObjectNpc="False" showTargetInfo="False" villager="False">
+    <NamePlate nameplateHeight="-36" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3003" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" isObjectNpc="False" showTargetInfo="False" villager="False">
+    <NamePlate nameplateHeight="-36" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="4001" scale="1.0" size="medium" shapeId="301760" gender="male" race="FatHunter" resourceSize="0" resourceType="medium" parentId="30176000" basicActionId="3017600" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="4002" scale="1.2" size="medium" shapeId="300741" gender="male" race="ArgoniteKallashProtector" resourceSize="100" resourceType="medium" parentId="30074100" basicActionId="3007400" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="5001" scale="1.5" size="medium" shapeId="301561" gender="male" race="Ssalissali" parentId="30156000" basicActionId="3015600" cannotPassThrough="False">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="5004" scale="1.2" size="medium" shapeId="301560" gender="male" race="Ssalissali" parentId="30156000" basicActionId="3015600" cannotPassThrough="False">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="6000" scale="1.0" size="medium" shapeId="611500" gender="male" race="NPC_T4_Battle_Kumas" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61150000" basicActionId="6115000" cannotPassThrough="False" invincible="True" isObjectNpc="True" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="6001" scale="1.5" size="medium" shapeId="301952" gender="male" race="HeterotypicMonster" resourceSize="100" resourceType="large" parentId="30195000" basicActionId="3019500" cannotPassThrough="False" invincible="False" isObjectNpc="True" showTargetInfo="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="6002" scale="1.7" size="medium" shapeId="600040" isWideBroadcaster="True" parentId="60004000" basicActionId="6000400" cannotPassThrough="False" invincible="True" isObjectNpc="True">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1000100" scale="1.2" size="medium" shapeId="301561" gender="male" race="Ssalissali" parentId="30156000" basicActionId="3015600">
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="1000200" scale="1.4" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <Stat level="65" maxHp="108000" />
+  </Template>
+  <Template id="1000201" scale="1.4" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000202" scale="1.6" size="medium" shapeId="300220" gender="male" race="EnragedBear" resourceSize="100" resourceType="medium" parentId="30022000" basicActionId="3002200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" />
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000300" scale="1.8" size="medium" shapeId="300120" gender="male" race="Zombie" resourceSize="100" resourceType="medium" parentId="30012000" basicActionId="3001200" cannotPassThrough="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000301" scale="2.0" size="medium" shapeId="300120" gender="male" race="Zombie" resourceSize="100" resourceType="medium" parentId="30012000" basicActionId="3001200" cannotPassThrough="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000400" scale="1.2" size="medium" shapeId="300170" gender="male" race="doll" parentId="30017000" basicActionId="3001700" invincible="False" villager="False">
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="1000500" scale="1.2" size="medium" shapeId="300240" gender="female" race="Pixie" resourceSize="100" resourceType="medium" parentId="30024000" basicActionId="3002400">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="1000600" scale="0.9" size="medium" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="small" isWideBroadcaster="True" parentId="30103000" basicActionId="3010300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1000601" scale="0.7" size="medium" shapeId="300381" gender="male" race="animal" parentId="30038100" basicActionId="3003800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1000700" scale="1.4" size="medium" shapeId="300390" gender="male" race="Zombie" resourceSize="100" resourceType="medium" parentId="30039000" basicActionId="3003900" cannotPassThrough="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000701" scale="1.4" size="medium" shapeId="300390" gender="male" race="Zombie" resourceSize="100" resourceType="medium" parentId="30039000" basicActionId="3003900" cannotPassThrough="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1000800" scale="1.2" size="medium" shapeId="300540" gender="male" race="StoneHead" resourceSize="100" resourceType="medium" parentId="30054003" basicActionId="3005400">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="1000900" scale="0.9" size="medium" shapeId="300700" gender="male" race="Pigling" resourceSize="100" resourceType="small" parentId="30070000" basicActionId="3007000" cannotPassThrough="False">
+    <NamePlate nameplateHeight="28" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001000" scale="0.6" size="medium" shapeId="300710" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="medium" parentId="30071000" basicActionId="3007100" cannotPassThrough="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001100" scale="1.3" size="medium" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103000" basicActionId="3010300" cannotPassThrough="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001101" scale="1.3" size="medium" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103000" basicActionId="3010300" cannotPassThrough="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001200" scale="1.25" size="medium" shapeId="301090" gender="male" race="PoporiBrute" resourceSize="100" resourceType="medium" basicActionId="3010900" cannotPassThrough="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="432000" />
+  </Template>
+  <Template id="1001300" scale="0.6" size="medium" shapeId="301250" gender="male" race="BisqueDoll" resourceSize="100" resourceType="medium" parentId="30125000" basicActionId="3012500" cannotPassThrough="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001301" scale="0.6" size="medium" shapeId="301251" gender="male" race="BisqueDoll" resourceSize="100" resourceType="medium" parentId="30125100" basicActionId="3012500" cannotPassThrough="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001400" scale="1.1" size="medium" shapeId="300010" gender="male" race="FierceDoberman" resourceSize="0" resourceType="" parentId="30001000" basicActionId="3000100" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001401" scale="1.1" size="medium" shapeId="300011" gender="male" race="FierceDoberman" resourceSize="0" resourceType="" parentId="30001100" basicActionId="3000100" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001500" scale="1.2" size="medium" shapeId="300020" gender="male" race="ShadowCougar" resourceSize="100" resourceType="medium" parentId="30002000" basicActionId="3000200" cannotPassThrough="False">
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001501" scale="1.3" size="medium" shapeId="300020" gender="male" race="ShadowCougar" resourceSize="100" resourceType="medium" parentId="30002000" basicActionId="3000200" cannotPassThrough="False">
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001600" scale="1.5" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003002" basicActionId="3000300" cannotPassThrough="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001601" scale="1.74" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003002" basicActionId="3000300" cannotPassThrough="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1001700" scale="1.62" size="medium" shapeId="300050" gender="male" race="LongTusk" resourceSize="100" resourceType="medium" parentId="30005000" basicActionId="3000500">
+    <NamePlate nameplateHeight="-2" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="108000" />
+  </Template>
+  <Template id="1001800" scale="1.25" size="medium" shapeId="300080" gender="male" race="PollutedUnicorn" resourceSize="100" resourceType="medium" parentId="30008001" basicActionId="3000800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="39" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1001900" scale="1.45" size="medium" shapeId="300090" gender="male" race="Pollutedwolf" resourceSize="100" resourceType="medium" parentId="30009000" basicActionId="3000900">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="108000" />
+  </Template>
+  <Template id="1002000" scale="1.6" size="medium" shapeId="300100" gender="male" race="Qamara" resourceSize="100" resourceType="medium" parentId="30010000" basicActionId="3001000" cannotPassThrough="False">
+    <NamePlate nameplateHeight="47" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002100" scale="1.5" size="medium" shapeId="300110" gender="male" race="SlaveManager" resourceSize="100" resourceType="medium" parentId="30011000" basicActionId="3001100" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002200" scale="1.4" size="medium" shapeId="300140" gender="female" race="DevaFemaleRouge" resourceSize="100" resourceType="medium" parentId="30014000" basicActionId="3001400" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002300" scale="1.1" size="medium" shapeId="300630" gender="male" race="PrionWarrior" resourceSize="100230" resourceType="medium" parentId="30063000" basicActionId="3006300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002400" scale="1.1" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002500" scale="1.0" size="medium" shapeId="300780" gender="male" race="Arctus" resourceSize="0" resourceType="" parentId="30078000" basicActionId="3007800" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002600" scale="1.5" size="medium" shapeId="300130" gender="male" race="BloodMagician" resourceSize="0" resourceType="" parentId="30013000" basicActionId="3001300" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="402000" />
+  </Template>
+  <Template id="1002700" scale="1.35" size="medium" shapeId="300180" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="52" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002701" scale="1.35" size="medium" shapeId="300183" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="52" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002702" scale="3.0" size="medium" shapeId="300182" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="130" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002703" scale="2.5" size="medium" shapeId="300182" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="110" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002704" scale="2.0" size="medium" shapeId="300182" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="72" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="120000" />
+  </Template>
+  <Template id="1002705" scale="1.5" size="medium" shapeId="300182" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" cannotPassThrough="False">
+    <NamePlate nameplateHeight="52" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="1002800" scale="1.0" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020300" basicActionId="3002000" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="1002801" scale="1.0" size="medium" shapeId="300201" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020300" basicActionId="3002000" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002802" scale="1.0" size="medium" shapeId="300202" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020300" basicActionId="3002000" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002803" scale="1.0" size="medium" shapeId="300203" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020300" basicActionId="3002000" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1002900" scale="2.5" size="medium" shapeId="301650" gender="male" race="Ghost" resourceType="medium" parentId="30165000" basicActionId="3016500" cannotPassThrough="False">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="1003000" scale="1.3" size="medium" shapeId="301472" gender="male" race="Dark_Queen" resourceSize="100" resourceType="medium" parentId="30147200" basicActionId="3014700" cannotPassThrough="False">
+    <NamePlate nameplateHeight="8" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="288000" />
+  </Template>
+  <Template id="2000100" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000101" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000102" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000103" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" dontTurn="True" invincible="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000104" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" dontTurn="True" invincible="False" showTargetInfo="False" villager="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="2000105" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="2000106" scale="0.9" size="medium" shapeId="611410" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="61141000" basicActionId="6114100" cannotPassThrough="False" dontTurn="True" invincible="False" showTargetInfo="False" villager="False">
+    <NamePlate nameplateHeight="-80" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="100" />
+  </Template>
+  <Template id="2000200" scale="1.0" size="medium" shapeId="611500" gender="male" race="NPC_T4_Battle_Kumas" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="61150000" basicActionId="6115000" cannotPassThrough="False" invincible="True" isObjectNpc="True" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000300" scale="1.0" size="medium" shapeId="301952" gender="male" race="HeterotypicMonster" resourceSize="100" resourceType="large" parentId="30195000" basicActionId="3019500" cannotPassThrough="False" invincible="True" isObjectNpc="True" showTargetInfo="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000400" scale="1.7" size="medium" shapeId="600040" isWideBroadcaster="True" parentId="60004000" basicActionId="6000400" cannotPassThrough="False" invincible="True" isObjectNpc="True">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000500" scale="1.0" size="medium" shapeId="301860" gender="male" race="PoisonousZombie" resourceSize="100" resourceType="small" parentId="30186000" basicActionId="3018600" cannotPassThrough="False" invincible="True" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000501" scale="1.0" size="medium" shapeId="301860" gender="male" race="PoisonousZombie" resourceSize="100" resourceType="small" parentId="30186000" basicActionId="3018600" cannotPassThrough="False" invincible="True" isObjectNpc="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000600" scale="1.0" size="medium" shapeId="301970" gender="male" race="RelicOfGuardian" resourceSize="100" resourceType="large" parentId="30197000" basicActionId="3019700" cannotPassThrough="False" invincible="True" isObjectNpc="True" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000700" scale="2.5" size="medium" shapeId="531040" gender="male" race="Aman" resourceSize="100" resourceType="medium" parentId="53104000" basicActionId="5310400" cannotPassThrough="False" invincible="True" isObjectNpc="True" villager="True">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="2000800" scale="1.5" size="medium" shapeId="600470" parentId="60047000" basicActionId="6004700" deathShapeId="600471" isObjectNpc="True">
+    <Stat level="65" maxHp="30000000" />
+  </Template>
+  <Template id="3000100" scale="1.0" size="medium" shapeId="800321" gender="" race="object" resourceSize="100" resourceType="object" parentId="80032100" basicActionId="8003210" cannotPassThrough="False" invincible="False" isObjectNpc="True" isSpirit="True" villager="False">
+    <Stat level="65" maxHp="390000" />
+  </Template>
+  <Template id="3000101" scale="1.0" size="medium" shapeId="800321" gender="" race="object" resourceSize="100" resourceType="medium" basicActionId="8003210" cannotPassThrough="False" dontTurn="True" invincible="False" isObjectNpc="False" villager="False">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3000102" scale="1.3" size="medium" shapeId="301270" gender="male" race="ShadowMonster" resourceSize="100" resourceType="medium" parentId="30127000" basicActionId="3012700" cannotPassThrough="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3000103" scale="1.0" size="medium" shapeId="800321" gender="" race="object" resourceSize="100" resourceType="medium" basicActionId="8003210" cannotPassThrough="False" dontTurn="True" invincible="False" isObjectNpc="False" villager="True">
+    <Stat level="65" maxHp="240000" />
+  </Template>
+  <Template id="3000200" scale="1.5" size="medium" shapeId="600010" parentId="60001000" basicActionId="6000100" cannotPassThrough="False" deathShapeId="600011" dontTurn="True" isObjectNpc="True">
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000201" scale="1.5" size="medium" shapeId="600010" parentId="60001000" basicActionId="6000100" cannotPassThrough="False" deathShapeId="600011" dontTurn="True" isObjectNpc="True">
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000300" scale="1.0" size="medium" shapeId="700111" gender="male" race="NPC_ArgonCommander" resourceSize="100" resourceType="mediun" parentId="70011000" basicActionId="7001100" dontTurn="True" invincible="True" isObjectNpc="True" showTargetInfo="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="3000301" scale="1.0" size="medium" shapeId="700111" gender="male" race="NPC_ArgonCommander" resourceSize="100" resourceType="mediun" parentId="70011000" basicActionId="7001100" dontTurn="True" invincible="False" isObjectNpc="True" showTargetInfo="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="60000" />
+  </Template>
+  <Template id="3000400" scale="1.2" size="medium" shapeId="640100" resourceSize="100" resourceType="medium" basicActionId="6401000" deathShapeId="640100" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000401" scale="1.2" size="medium" shapeId="640100" resourceSize="100" resourceType="medium" basicActionId="6401000" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000402" scale="1.2" size="medium" shapeId="640100" resourceSize="100" resourceType="medium" basicActionId="6401000" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000403" scale="1.2" size="medium" shapeId="640100" resourceSize="100" resourceType="medium" basicActionId="6401000" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000500" scale="0.35" size="medium" shapeId="611620" resourceSize="100" resourceType="medium" basicActionId="6401000" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="3000600" scale="0.35" size="medium" shapeId="611630" resourceSize="100" resourceType="medium" basicActionId="6116200" elite="False" invincible="False" isObjectNpc="True" villager="False">
+    <Balloon balloonHeightOffset="15" />
+    <AltAnimation />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="4000100" class="" scale="1.0" size="medium" shapeId="510350" gender="male" race="Popori" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5103500" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="4000101" class="" scale="1.0" size="medium" shapeId="510350" gender="male" race="Popori" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5103500" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="4000102" class="" scale="2.0" size="medium" shapeId="510350" gender="male" race="Popori" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5103500" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="4000200" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="65" maxHp="10000" />
+  </Template>
+</NpcData>

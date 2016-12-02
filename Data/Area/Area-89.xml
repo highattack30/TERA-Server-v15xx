@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9017" areaName="HEN_SD_P" nameId="9017001" ride="False" worldMapGuardId="15" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9017001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="4000.0" subtractMinZ="1000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9017">
+    <Fence pos="40034.7969,70707.1172,3590.3271" />
+    <Fence pos="40096.4258,70246.0781,3461.3667" />
+    <Fence pos="40394.3867,68437.7891,2135.3916" />
+    <Fence pos="41864.8281,68381.1563,2293.1245" />
+    <Fence pos="42717.0469,68666.7813,1678.4441" />
+    <Fence pos="42788.5781,70518.6094,1891.1411" />
+    <Fence pos="42120.2930,71279.2266,2722.5513" />
+    <Fence pos="41661.3281,71279.2188,2671.1538" />
+    <Fence pos="40500.1328,71043.6563,2304.8042" />
+  </Section>
+</Area>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="32">
+  <Template id="1" scale="1.25" size="medium" shapeId="301241" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="28" deathNameplateHeight="0" />
+    <Stat level="42" maxHp="33068" />
+  </Template>
+  <Template id="2" scale="0.9" size="small" shapeId="300194" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019400" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="21" />
+    <Stat level="42" maxHp="2935" />
+  </Template>
+  <Template id="3" scale="1.25" size="medium" shapeId="301241" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="29" deathNameplateHeight="0" />
+    <Stat level="42" maxHp="35759" />
+  </Template>
+  <Template id="4" scale="1.25" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="31754" />
+  </Template>
+  <Template id="5" scale="0.9" size="small" shapeId="300194" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019400" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="19" />
+    <Stat level="43" maxHp="3721" />
+  </Template>
+  <Template id="6" scale="1.25" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="32498" />
+  </Template>
+  <Template id="7" scale="1.0" size="medium" shapeId="301380" gender="male" race="Slayer_Darker" resourceSize="100" resourceType="medium" parentId="30138000" basicActionId="3013800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-5" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="33872" />
+  </Template>
+  <Template id="8" scale="1.2" size="medium" shapeId="301420" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-5" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="35245" />
+  </Template>
+  <Template id="9" scale="1.2" size="medium" shapeId="301370" gender="male" race="Archer_Darker" resourceSize="100" resourceType="medium" parentId="30137000" basicActionId="3013700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="30515" />
+  </Template>
+  <Template id="10" scale="1.25" size="medium" shapeId="301230" gender="male" race="KaidunsWizard" resourceSize="100" resourceType="medium" parentId="30123000" basicActionId="3012300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="23452" />
+  </Template>
+  <Template id="11" scale="0.9" size="small" shapeId="301221" gender="male" race="TownMilitia" resourceSize="100" resourceType="medium" parentId="30122100" basicActionId="3012200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="3153" />
+  </Template>
+  <Template id="12" scale="1.25" size="medium" shapeId="301241" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124100" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="27" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="45224" />
+  </Template>
+  <Template id="13" scale="1.25" size="medium" shapeId="301230" gender="male" race="KaidunsWizard" resourceSize="100" resourceType="medium" parentId="30123000" basicActionId="3012300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="19742" />
+  </Template>
+  <Template id="14" scale="0.9" size="small" shapeId="300195" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019500" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="25" />
+    <Stat level="43" maxHp="3453" />
+  </Template>
+  <Template id="15" scale="1.25" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="38449" />
+  </Template>
+  <Template id="16" scale="1.25" size="medium" shapeId="301240" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124000" despawnScriptId="103200161" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="40791" />
+  </Template>
+  <Template id="17" scale="1.35" size="medium" shapeId="301241" gender="male" race="KaidunsEliteWarrior" resourceSize="100" resourceType="medium" parentId="30124100" basicActionId="3012400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="26" deathNameplateHeight="0" />
+    <Stat level="43" maxHp="28839" />
+  </Template>
+  <Template id="18" scale="1.4" size="medium" shapeId="300301" gender="male" race="UndeadBeast" resourceSize="100" resourceType="medium" parentId="30030000" basicActionId="3003000" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="90" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="47649" />
+  </Template>
+  <Template id="19" scale="1.2" size="medium" shapeId="301143" gender="male" race="UndeadCommander" resourceSize="100" resourceType="medium" parentId="30114000" basicActionId="3011400" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="33" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="40025" />
+  </Template>
+  <Template id="20" scale="1.4" size="medium" shapeId="301420" gender="male" race="Berserker_Darker" resourceSize="100" resourceType="medium" parentId="30142000" basicActionId="3014200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-6" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="40791" />
+  </Template>
+  <Template id="21" scale="1.35" size="medium" shapeId="301230" gender="male" race="KaidunsWizard" resourceSize="100" resourceType="medium" parentId="30123000" basicActionId="3012300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="45" maxHp="35905" />
+  </Template>
+  <Template id="22" scale="1.0" size="small" shapeId="300195" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019500" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="30" />
+    <Stat level="45" maxHp="3029" />
+  </Template>
+  <Template id="1049" class="" scale="1.0" size="medium" shapeId="600310" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="5007" class="" scale="0.3" size="medium" shapeId="600460" race="object" resourceSize="200" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="6004600" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9011" areaName="SEC_Forge_P" nameId="9011001" ride="True" worldMapGuardId="19" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9011001" pcMoveCylinder="True" pk="safe" ride="True" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9011">
+    <Fence pos="81598.0703,-5393.8389,462.0750" />
+    <Fence pos="83896.5313,-7513.7578,925.3445" />
+    <Fence pos="84248.2734,-8077.1147,476.3285" />
+    <Fence pos="84805.5469,-8528.6094,803.3044" />
+    <Fence pos="85229.9766,-8456.5352,601.7009" />
+    <Fence pos="85631.0781,-8399.1416,831.5128" />
+    <Fence pos="85926.6250,-7948.5547,589.0601" />
+    <Fence pos="85941.9453,-7272.9629,365.4023" />
+    <Fence pos="85700.7266,-6763.6909,564.1614" />
+    <Fence pos="85112.9063,-6481.1157,498.2351" />
+    <Fence pos="82206.7500,-4395.4263,465.7458" />
+  </Section>
+</Area>

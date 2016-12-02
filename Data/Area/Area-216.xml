@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9885" areaName="IllusionTower_SD_P" nameId="9885001" ride="False" worldMapGuardId="22" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" ignoreObstacleShortTel="False" nameId="9885001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="1000.0" campId="9089" floor="1" maze="False" restBonus="False" worldMapSectionId="9885">
+    <Fence pos="14862.8115,-130439.9141,-8973.6748" />
+    <Fence pos="13615.9980,-130077.2188,-9342.7617" />
+    <Fence pos="13246.2285,-129707.3281,-9353.6143" />
+    <Fence pos="12846.6963,-129499.3828,-9352.8887" />
+    <Fence pos="12212.3223,-129484.7500,-9350.9004" />
+    <Fence pos="7046.2100,-129530.7578,-8571.4971" />
+    <Fence pos="3013.7842,-129390.5000,-8166.9473" />
+    <Fence pos="2284.9705,-129445.6641,-8438.0527" />
+    <Fence pos="1625.5801,-130086.8281,-8479.3301" />
+    <Fence pos="1566.4734,-131107.2031,-8226.1084" />
+    <Fence pos="2186.6079,-131834.0781,-7986.4111" />
+    <Fence pos="6636.8154,-131805.6563,-8865.7754" />
+    <Fence pos="9248.4180,-131803.1875,-8970.5732" />
+    <Fence pos="12102.6152,-131770.3125,-9143.3408" />
+    <Fence pos="13063.7588,-131762.2969,-9129.9199" />
+    <Fence pos="13733.5596,-131099.7656,-9189.6123" />
+    <Fence pos="14897.0898,-130854.0078,-9263.6123" />
+    <Fence pos="14985.6709,-130650.2891,-9342.4189" />
+  </Section>
+</Area>

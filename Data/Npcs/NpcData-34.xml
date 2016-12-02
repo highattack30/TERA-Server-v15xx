@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="37">
+  <Template id="110" scale="1.35" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="67816" />
+  </Template>
+  <Template id="120" scale="1.35" size="medium" shapeId="300203" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="89431" />
+  </Template>
+  <Template id="130" scale="1.35" size="medium" shapeId="300202" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="54" maxHp="67816" />
+  </Template>
+  <Template id="140" scale="1.35" size="medium" shapeId="300201" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="4" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="99753" />
+  </Template>
+  <Template id="150" scale="1.35" size="medium" shapeId="300201" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020000" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="3" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="107765" />
+  </Template>
+  <Template id="160" scale="1.45" size="medium" shapeId="300630" gender="male" race="PrionWarrior" resourceSize="100" resourceType="medium" parentId="30063000" basicActionId="3006300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="49647" />
+  </Template>
+  <Template id="170" scale="1.45" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="100228" />
+  </Template>
+  <Template id="180" scale="1.0" size="small" shapeId="300191" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019000" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="5561" />
+  </Template>
+  <Template id="190" scale="1.0" size="small" shapeId="300192" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019000" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="5561" />
+  </Template>
+  <Template id="200" scale="1.35" size="medium" shapeId="300570" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057000" basicActionId="3005700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="79992" />
+  </Template>
+  <Template id="210" scale="1.35" size="medium" shapeId="300561" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056000" basicActionId="3005600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="54" maxHp="99141" />
+  </Template>
+  <Template id="220" scale="1.85" size="medium" shapeId="300270" gender="male" race="ShadowArmor" resourceSize="100" resourceType="medium" parentId="30027000" basicActionId="3002700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="90906" />
+  </Template>
+  <Template id="230" scale="1.85" size="medium" shapeId="300210" gender="male" race="KilliansServant" resourceSize="100" resourceType="medium" parentId="30021000" basicActionId="3002100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="87271" />
+  </Template>
+  <Template id="240" scale="1.75" size="medium" shapeId="300040" gender="female" race="DevilJailer" resourceSize="100" resourceType="medium" parentId="30004000" basicActionId="3000400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="79345" />
+  </Template>
+  <Template id="250" scale="0.9" size="small" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003000" basicActionId="3000300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="4110" />
+  </Template>
+  <Template id="260" scale="0.7" size="small" shapeId="300551" gender="male" race="DwarfMadman" parentId="30055000" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="3954" />
+  </Template>
+  <Template id="270" scale="0.8" size="small" shapeId="300960" gender="male" race="BlackMarauder" resourceSize="100" resourceType="medium" parentId="30096000" basicActionId="3009600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="22" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="5951" />
+  </Template>
+  <Template id="280" scale="1.55" size="medium" shapeId="300091" gender="male" race="Pollutedwolf" resourceSize="100" resourceType="medium" parentId="30009000" basicActionId="3000900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="32" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="107141" />
+  </Template>
+  <Template id="290" scale="1.35" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133000" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="42" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="119934" />
+  </Template>
+  <Template id="300" scale="1.25" size="medium" shapeId="300791" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" parentId="30079000" basicActionId="3007900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="76172" />
+  </Template>
+  <Template id="310" scale="0.6" size="small" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090000" basicActionId="3009000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="5867" />
+  </Template>
+  <Template id="320" scale="0.6" size="small" shapeId="300752" gender="male" race="TrainedTschodanBeast" resourceSize="100" resourceType="small" parentId="30075000" basicActionId="3007500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="3285" />
+  </Template>
+  <Template id="330" scale="0.6" size="small" shapeId="300750" gender="male" race="TrainedTschodanBeast" resourceSize="100" resourceType="small" parentId="30075000" basicActionId="3007500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="10" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="5713" />
+  </Template>
+  <Template id="340" scale="1.35" size="medium" shapeId="300200" gender="male" race="Hyena" resourceSize="200" resourceType="medium" parentId="30020004" basicActionId="3002000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="55" maxHp="83414" />
+  </Template>
+  <Template id="350" scale="1.85" size="medium" shapeId="300210" gender="male" race="KilliansServant" resourceSize="100" resourceType="medium" parentId="30021001" basicActionId="3002100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="57" maxHp="100230" />
+  </Template>
+  <Template id="360" scale="1.35" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="58" maxHp="107513" />
+  </Template>
+  <Template id="370" scale="1.0" size="small" shapeId="301690" gender="male" race="Scorpion" parentId="30169000" basicActionId="3016900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="55" maxHp="60" />
+  </Template>
+  <Template id="400" scale="1.25" size="medium" shapeId="300791" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" parentId="30079000" basicActionId="3007900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="78711" />
+  </Template>
+  <Template id="420" scale="0.6" size="small" shapeId="300752" gender="male" race="TrainedTschodanBeast" resourceSize="100" resourceType="small" parentId="30075000" basicActionId="3007500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="3285" />
+  </Template>
+  <Template id="500" scale="1.5" size="medium" shapeId="300793" gender="male" race="ArgoniteKallashGuardLeader" resourceSize="100" resourceType="medium" parentId="30079300" basicActionId="3007900" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="79067" />
+  </Template>
+  <Template id="1001" scale="1.35" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="44" deathNameplateHeight="0" />
+    <Stat level="55" maxHp="125452" />
+  </Template>
+  <Template id="1002" scale="1.35" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="44" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="230531" />
+  </Template>
+  <Template id="1003" scale="1.35" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="44" deathNameplateHeight="0" />
+    <Stat level="56" maxHp="137924" />
+  </Template>
+  <Template id="1004" scale="1.45" size="medium" shapeId="300620" gender="male" race="PrionMadman" resourceSize="100" resourceType="medium" parentId="30062000" basicActionId="3006200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="33" deathNameplateHeight="0" />
+    <Stat level="57" maxHp="186429" />
+  </Template>
+</NpcData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="119" areaName="BF_PVEBattle_P" nameId="119001" ride="True" worldMapGuardId="60" worldMapWorldId="8888">
+  <Section huntingZoneId="119" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="119001" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="3000.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="910">
+    <Fence pos="10258.1895,143537.3750,1914.6904" />
+    <Fence pos="3660.8083,143156.7188,2489.2490" />
+    <Fence pos="3821.9761,139259.4063,-1957.7729" />
+    <Fence pos="11702.0469,138656.9688,-3885.0132" />
+    <Fence pos="11156.0264,143340.6094,2489.2485" />
+  </Section>
+</Area>

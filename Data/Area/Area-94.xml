@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9022" areaName="ASW_A_Quest_02_P" nameId="205" ride="False" worldMapGuardId="5" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="9022" desTex="False" nameId="9022001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="1024.0" subtractMinZ="1024.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9022">
+    <Fence pos="67625.2891,-71371.0781,-871.1036" />
+    <Fence pos="69457.3359,-71425.7500,-936.8752" />
+    <Fence pos="70660.6016,-70505.1250,-716.9114" />
+    <Fence pos="70700.2813,-67604.9531,-700.6915" />
+    <Fence pos="67689.9844,-67738.6875,-1092.5719" />
+  </Section>
+</Area>

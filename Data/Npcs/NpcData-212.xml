@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="439">
+  <Template id="1001" class="" scale="0.35" size="medium" shapeId="600490" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="6004900" collideOnMove="True" dontTurn="True" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="25" maxHp="17366" />
+  </Template>
+  <Template id="1002" scale="0.8" size="medium" shapeId="510530" gender="male" race="Aman" resourceSize="100" resourceType="medium" parentId="51053000" basicActionId="5105300" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="25" maxHp="11577" />
+  </Template>
+  <Template id="1003" scale="1.2" size="medium" shapeId="510550" gender="male" race="popori" resourceSize="100" resourceType="medium" parentId="51055000" basicActionId="5105500" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="25" maxHp="8683" />
+  </Template>
+  <Template id="1004" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2000" scale="1.0" size="medium" shapeId="611410" race="" resourceSize="0" resourceType="" parentId="61141000" basicActionId="6114100" elite="False" invincible="True" isObjectNpc="True" showTargetInfo="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="5001" scale="1.05" size="medium" shapeId="300520" gender="male" race="MadmanDuo" parentId="30052000" basicActionId="3005200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="5" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="4284" />
+  </Template>
+  <Template id="5002" scale="0.6" size="small" shapeId="300550" gender="male" race="DwarfMadman" parentId="30055000" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="1036" />
+  </Template>
+  <Template id="5003" scale="0.6" size="small" shapeId="300551" gender="male" race="DwarfMadman" parentId="30055100" basicActionId="3005500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="1036" />
+  </Template>
+  <Template id="5004" scale="1.15" size="medium" shapeId="300480" gender="male" race="FatAmanMadman" parentId="30048000" basicActionId="3004800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="-1" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="2081" />
+  </Template>
+  <Template id="5005" scale="1.35" size="medium" shapeId="300450" gender="male" race="SlimCastanicMadman" parentId="30045000" basicActionId="3004500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="2081" />
+  </Template>
+  <Template id="5006" scale="1.05" size="medium" shapeId="301210" gender="male" race="TownMilitiaOfficier" resourceSize="100" resourceType="medium" parentId="30121000" basicActionId="3012100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="3427" />
+  </Template>
+  <Template id="5007" scale="0.8" size="small" shapeId="301220" gender="male" race="TownMilitia" resourceSize="100" resourceType="medium" parentId="30122000" basicActionId="3012200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="23" maxHp="1036" />
+  </Template>
+</NpcData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="117">
+  <Template id="1000" scale="2.5" size="medium" shapeId="710031" gender="male" race="NPC_T4Battle_Golem02" guideEffectId="6" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60025200" basicActionId="7100301" cannotPassThrough="True" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2000000" />
+  </Template>
+  <Template id="1001" scale="2.5" size="medium" shapeId="710031" gender="male" race="NPC_T4Battle_Golem02" guideEffectId="6" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="60025200" basicActionId="7100300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="2000000" />
+  </Template>
+  <Template id="5000" scale="0.6" size="large" shapeId="302540" gender="male" race="NPC_T4_Mion_Kanovia" resourceSize="100" resourceType="medium" isWideBroadcaster="False" parentId="0" basicActionId="3006703" deathShapeId="302540" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="200.0">
+    <NamePlate nameplateHeight="50" />
+    <SeatList>
+      <Seat id="1301" />
+    </SeatList>
+    <Stat level="65" maxHp="6000000" />
+    <VehicleEx kind="avatar" battleType="keyboard" enemyTeamEffectId="" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="6000" scale="0.5" size="large" shapeId="302520" gender="male" race="NPC_T4_Mion_Kanovia" resourceSize="100" resourceType="medium" isWideBroadcaster="False" parentId="0" basicActionId="3006703" deathShapeId="302520" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="200.0">
+    <NamePlate nameplateHeight="50" />
+    <SeatList>
+      <Seat id="1302" />
+    </SeatList>
+    <Stat level="65" maxHp="6000000" />
+    <VehicleEx kind="avatar" battleType="keyboard" enemyTeamEffectId="" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="7000" scale="0.3" size="large" shapeId="302520" gender="male" race="NPC_T4_Mion_Kanovia" resourceSize="100" resourceType="medium" isWideBroadcaster="False" parentId="0" basicActionId="3006703" deathShapeId="302520" elite="True" invincible="False" isFreeNamed="False" isVehicleEx="True" showAggroTarget="True" showShorttermTarget="True" villager="False" villagerVolumeActiveRange="200.0">
+    <NamePlate nameplateHeight="50" />
+    <SeatList>
+      <Seat id="1303" />
+    </SeatList>
+    <Stat level="65" maxHp="500000" />
+    <VehicleEx kind="avatar" battleType="keyboard" enemyTeamEffectId="" firstTaskId="10" fixable="False" headToCameraDir="True" isForQuestId="0" lastTaskId="11" moveType="player" oneUserRepairPerSec="10" ourTeamEffectId="" repairGage="100" repairTryLimitUser="2" />
+  </Template>
+  <Template id="8000" scale="0.5" size="medium" shapeId="600960" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="8001" scale="0.5" size="medium" shapeId="600960" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+  <Template id="8002" scale="0.5" size="medium" shapeId="600960" race="" resourceSize="0" resourceType="" parentId="60096000" basicActionId="6009600" deathShapeId="600961" elite="False" invincible="True" isObjectNpc="True" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="26" maxHp="13038" />
+  </Template>
+</NpcData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="440">
+  <Template id="1001" scale="1.0" size="medium" shapeId="302090" gender="female" race="ArgoniteFly" resourceSize="100" resourceType="medium" parentId="30209000" basicActionId="3020900" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="58" maxHp="78741" />
+  </Template>
+  <Template id="1002" scale="0.8" size="medium" shapeId="301300" gender="male" race="WendigoShaman" resourceSize="100" resourceType="medium" parentId="30130000" basicActionId="3013000" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="58" maxHp="78741" />
+  </Template>
+  <Template id="1003" scale="0.9" size="medium" shapeId="301310" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131000" basicActionId="3013100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="58" maxHp="78741" />
+  </Template>
+  <Template id="2001" scale="1.0" size="small" shapeId="300904" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090400" basicActionId="3009000" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="144010011" villager="False">
+    <AltAnimation />
+    <Stat level="58" maxHp="10414" />
+  </Template>
+  <Template id="2002" scale="1.0" size="small" shapeId="300711" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071100" basicActionId="3007100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="58" maxHp="10414" />
+  </Template>
+</NpcData>

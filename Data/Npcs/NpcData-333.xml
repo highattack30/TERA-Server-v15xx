@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="1022">
+  <Template id="101" scale="1.4" size="large" shapeId="300350" gender="male" race="BloodGolem" resourceSize="100" resourceType="large" parentId="30035002" despawnScriptId="102202" basicActionId="3003500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="9118362" />
+  </Template>
+  <Template id="102" scale="1.1" size="large" shapeId="300660" gender="male" race="DestroyerOfFire" resourceSize="100" resourceType="large" parentId="30066001" despawnScriptId="102202" basicActionId="3006600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="120" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="9118362" />
+  </Template>
+  <Template id="104" scale="1.3" size="large" shapeId="300862" gender="male" race="MightyDarkreeper" resourceSize="100" resourceType="large" parentId="90051003" despawnScriptId="102202" basicActionId="3008600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" unionElite="True" villager="False">
+    <NamePlate nameplateHeight="60" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="32826105" />
+  </Template>
+  <Template id="105" scale="3.2" size="large" shapeId="301340" gender="male" race="Volcanus" resourceSize="100" resourceType="large" parentId="30134003" despawnScriptId="102202" basicActionId="3013400" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" unionElite="True" villager="False">
+    <NamePlate nameplateHeight="131" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="32826105" />
+  </Template>
+  <Template id="106" scale="1.3" size="large" shapeId="300870" gender="male" race="ViolentArachne" resourceSize="100" resourceType="large" parentId="30087002" despawnScriptId="102202" basicActionId="3008700" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="131" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="9118362" />
+  </Template>
+  <Template id="109" scale="1.8" size="large" shapeId="301730" gender="male" race="MagicianDragon" resourceSize="100" resourceType="large" parentId="30173000" despawnScriptId="102202" basicActionId="3017300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" spawnScriptId="102201" unionElite="True" villager="False">
+    <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="36473450" />
+  </Template>
+  <Template id="201" scale="1.7" size="medium" shapeId="300560" gender="male" race="KoboldFighter" resourceSize="100" resourceType="medium" parentId="30056000" despawnScriptId="102202" basicActionId="3005600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="202" scale="1.7" size="medium" shapeId="300570" gender="male" race="KoboldBeliever" resourceSize="100" resourceType="medium" parentId="30057000" despawnScriptId="102202" basicActionId="3005700" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="203" scale="0.3" size="medium" shapeId="300650" gender="male" race="Orcan" resourceSize="100" resourceType="medium" parentId="30065000" despawnScriptId="102202" basicActionId="3006500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="204" scale="1.6" size="medium" shapeId="300360" gender="male" race="BloodCreature" resourceSize="100" resourceType="medium" parentId="30036000" despawnScriptId="102202" basicActionId="3003600" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="205" scale="1.6" size="medium" shapeId="300934" gender="male" race="DyingGhillieDhu" resourceSize="100" resourceType="medium" parentId="30093400" despawnScriptId="102202" basicActionId="3009300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="207" scale="1.6" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095000" despawnScriptId="102202" basicActionId="3009500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="208" scale="1.6" size="medium" shapeId="300330" gender="male" race="PollutedTreeSpirit" resourceSize="100" resourceType="medium" parentId="30033000" despawnScriptId="102202" basicActionId="3003300" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="210" scale="1.5" size="medium" shapeId="300420" gender="male" race="FuryMaligoth" resourceSize="100" resourceType="medium" parentId="30042000" despawnScriptId="102202" basicActionId="3004200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="211" scale="1.3" size="medium" shapeId="301100" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" parentId="30110000" despawnScriptId="102202" basicActionId="3011000" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="54" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="212" scale="1.3" size="medium" shapeId="301110" gender="male" race="DruggedShurianSummoner" resourceSize="100" resourceType="medium" parentId="30111000" despawnScriptId="102202" basicActionId="3011100" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="213" scale="1.6" size="medium" shapeId="301350" gender="male" race="Volcan" resourceSize="100" resourceType="medium" parentId="30135000" despawnScriptId="102202" basicActionId="3013500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="314583" />
+  </Template>
+  <Template id="301" scale="0.7" size="small" shapeId="301120" gender="male" race="SummonedHellhound" resourceSize="100" resourceType="small" parentId="30112000" despawnScriptId="102202" basicActionId="3011200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="3358" />
+  </Template>
+  <Template id="302" scale="0.8" size="small" shapeId="301050" gender="male" race="UndeadSynuuthSlave" resourceSize="100" resourceType="small" parentId="30105000" despawnScriptId="102202" basicActionId="3010500" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="3358" />
+  </Template>
+  <Template id="303" scale="0.9" size="small" shapeId="300710" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071000" despawnScriptId="102202" basicActionId="3007100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="3358" />
+  </Template>
+  <Template id="304" scale="0.9" size="small" shapeId="300960" gender="male" race="BlackMarauder" resourceSize="100" resourceType="small" parentId="30096000" despawnScriptId="102202" basicActionId="3009600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" villager="False">
+    <NamePlate nameplateHeight="20" />
+    <AltAnimation />
+    <DeathEffect override="65390" />
+    <Shader override="blackcrack" />
+    <Stat level="60" maxHp="3358" />
+  </Template>
+  <Template id="501" scale="1.1" size="medium" shapeId="302250" gender="" race="" resourceSize="100" resourceType="medium" parentId="30225000" despawnScriptId="102202" basicActionId="3022500" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1600572" />
+  </Template>
+  <Template id="502" scale="1.5" size="medium" shapeId="302720" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30272000" despawnScriptId="102202" basicActionId="3024200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="unarmedWait" altAnimName="unarmedWait02" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1760629" />
+  </Template>
+  <Template id="503" scale="1.5" size="medium" shapeId="302601" gender="" race="" resourceSize="100" resourceType="medium" parentId="30260100" despawnScriptId="102202" basicActionId="3026000" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1920686" />
+  </Template>
+  <Template id="504" scale="2.5" size="large" shapeId="302270" gender="" race="" resourceSize="100" resourceType="large" parentId="30227000" despawnScriptId="102202" basicActionId="3022700" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="40000000" />
+  </Template>
+  <Template id="505" scale="1.2" size="large" shapeId="301830" gender="male" race="SpreadMind" resourceSize="0" resourceType="" parentId="30183000" despawnScriptId="102202" basicActionId="3018300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="500000" />
+  </Template>
+  <Template id="506" scale="1.5" size="large" shapeId="302220" gender="male" race="" resourceSize="100" resourceType="large" parentId="30222000" despawnScriptId="102202" basicActionId="3022200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="45000000" />
+  </Template>
+  <Template id="507" scale="1.8" size="large" shapeId="302230" gender="male" race="" resourceSize="100" resourceType="large" parentId="30223000" despawnScriptId="102202" basicActionId="3022300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="50000000" />
+  </Template>
+  <Template id="508" scale="1.5" size="large" shapeId="302210" gender="male" race="" resourceSize="100" resourceType="large" parentId="30221000" basicActionId="3022100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="65" maxHp="40000000" />
+  </Template>
+  <Template id="601" scale="1.6" size="medium" shapeId="302660" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30266000" despawnScriptId="102202" basicActionId="3026600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1333810" />
+  </Template>
+  <Template id="602" scale="1.6" size="medium" shapeId="302630" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30263000" despawnScriptId="102202" basicActionId="3026300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="UnarmedWait" altAnimName="wait" />
+      <AltAnim type="Walk" altAnimName="Run" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1232440" />
+  </Template>
+  <Template id="603" scale="0.8" size="small" shapeId="301860" gender="male" race="PoisonousZombie" resourceSize="100" resourceType="small" parentId="30186000" despawnScriptId="102202" basicActionId="3018600" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1020364" />
+  </Template>
+  <Template id="604" scale="0.8" size="small" shapeId="301870" gender="male" race="WalkingDead" resourceSize="100" resourceType="small" parentId="30187000" despawnScriptId="102202" basicActionId="3018700" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1122401" />
+  </Template>
+  <Template id="701" scale="1.6" size="medium" shapeId="302620" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30262000" despawnScriptId="102202" basicActionId="3026200" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="Wait" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1120400" />
+  </Template>
+  <Template id="702" scale="1.6" size="medium" shapeId="302640" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30264000" despawnScriptId="102202" basicActionId="3026400" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="Wait" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1333810" />
+  </Template>
+  <Template id="703" scale="1.6" size="medium" shapeId="302670" gender="male" race="" resourceSize="100" resourceType="medium" parentId="30267000" despawnScriptId="102202" basicActionId="3026700" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="Wait" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1333810" />
+  </Template>
+  <Template id="704" scale="2.0" size="medium" shapeId="302550" gender="male" race="" resourceSize="100" resourceType="large" parentId="30255000" despawnScriptId="102202" basicActionId="3025500" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="run" />
+    </AltAnimation>
+    <Stat level="65" maxHp="1333810" />
+  </Template>
+  <Template id="705" scale="1.0" size="large" shapeId="630100" gender="male" race="" resourceSize="100" resourceType="medium" parentId="63010001" basicActionId="6301000" deathShapeId="630101" dontTurn="True" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="unarmedWait" altAnimName="Wait" />
+      <AltAnim type="Walk" altAnimName="run" />
+      <AltAnim type="Run" altAnimName="run" />
+    </AltAnimation>
+    <Stat level="65" maxHp="2667620" />
+  </Template>
+  <Template id="801" class="" scale="1.0" size="medium" shapeId="53183009" gender="male" race="Baraka" resourceSize="100" resourceType="medium" isWideBroadcaster="False" parentId="53183000" despawnScriptId="0" basicActionId="5002000" collideOnMove="False" dontTurn="True" elite="False" forceDisplayMarker="True" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="Enchant" />
+    </AltAnimation>
+    <Stat level="65" maxHp="10000" />
+  </Template>
+  <Template id="1001" class="" scale="1.0" size="medium" shapeId="500081" gender="male" race="Human" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5000800" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" class="" scale="1.0" size="medium" shapeId="510100" gender="male" race="Baraka" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5101000" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1003" class="" scale="1.0" size="medium" shapeId="510090" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5100900" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1004" class="" scale="1.0" size="medium" shapeId="7000252" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="7000200" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1005" class="" scale="1.0" size="medium" shapeId="700026" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="7000200" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="3601" class="" scale="1.0" size="medium" shapeId="510250" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5102500" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="3602" class="" scale="1.0" size="medium" shapeId="510260" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5102600" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="3603" class="" scale="1.0" size="medium" shapeId="510250" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5102500" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="7001" scale="1.0" size="large" shapeId="730420" race="" resourceSize="0" resourceType="" parentId="730420000" basicActionId="7304200" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="True">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="rotate" />
+    </AltAnimation>
+    <Stat level="65" maxHp="74400000" />
+  </Template>
+  <Template id="7002" scale="1.0" size="large" shapeId="730415" race="" resourceSize="0" resourceType="" parentId="730415000" basicActionId="7304150" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="True">
+    <NamePlate nameplateHeight="-10" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="unarmedwait" altAnimName="rotate" />
+    </AltAnimation>
+    <Stat level="65" maxHp="9300000" />
+  </Template>
+  <Template id="7051" scale="1.3" size="medium" shapeId="300030" gender="male" race="ImpServant" resourceSize="100" resourceType="medium" parentId="30003000" despawnScriptId="102202" basicActionId="3000300" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="102201" unionElite="False" villager="False">
+    <AltAnimation />
+    <Stat level="65" maxHp="1224437" />
+  </Template>
+  <Template id="9996" class="" scale="1.0" size="medium" shapeId="510100" gender="male" race="Baraka" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5101000" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="9997" class="" scale="1.0" size="medium" shapeId="720520" gender="" race="" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="False" dontTurn="True" invincible="True" isObjectNpc="False" showMapIconId="218" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="9998" class="" scale="1.0" size="medium" shapeId="720520" gender="" race="" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="False" dontTurn="True" invincible="True" isObjectNpc="False" showMapIconId="218" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="9999" class="" scale="1.0" size="medium" shapeId="720520" gender="" race="" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="False" dontTurn="True" invincible="True" isObjectNpc="False" showMapIconId="218" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

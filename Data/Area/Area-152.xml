@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9092" areaName="HEC_TOD_SD_P" nameId="214" ride="False" worldMapGuardId="14" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="9092" desTex="False" nameId="9092001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9092">
+    <Fence pos="68113.2266,113551.4922,121.2539" />
+    <Fence pos="69380.4531,113564.6641,100.0881" />
+    <Fence pos="69926.2344,114508.1641,684.9089" />
+    <Fence pos="70066.1406,114723.7344,658.1165" />
+    <Fence pos="70152.7344,115035.8828,713.5032" />
+    <Fence pos="70152.7344,115573.0625,706.1206" />
+    <Fence pos="70093.0078,115881.5781,703.5742" />
+    <Fence pos="69930.6719,116106.6875,691.0422" />
+    <Fence pos="69390.0625,116334.5938,703.8201" />
+    <Fence pos="68999.3047,116332.7734,737.7268" />
+    <Fence pos="68488.4375,116112.2656,693.3899" />
+    <Fence pos="68252.8359,115619.2891,720.0166" />
+    <Fence pos="68252.8359,114950.8594,713.3772" />
+    <Fence pos="67456.6563,113949.2891,128.7632" />
+    <Fence pos="67457.9531,113567.7578,139.0110" />
+  </Section>
+</Area>

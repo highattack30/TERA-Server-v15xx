@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="7011" areaName="HNC_C_P" nameId="213" ride="True" worldMapGuardId="13" worldMapWorldId="1">
+  <FlySection priority="100" addMaxZ="4000.0" flyHeightLimit="2400.0" flyType="CanFly" subtractMinZ="256.0">
+    <Fence pos="90251.07031250,-15235.79687500,291.73315430" />
+    <Fence pos="92156.50000000,-15358.82031250,291.74853516" />
+    <Fence pos="91760.19531250,46026.71875000,2714.37207031" />
+    <Fence pos="61590.73046875,41832.11718750,7470.33691406" />
+    <Fence pos="61441.30859375,-15358.94726563,3497.77539063" />
+  </FlySection>
+  <Section huntingZoneId="-1" priority="27" desTex="False" nameId="27001" pcMoveCylinder="True" pk="true" ride="True" vender="False" addMaxZ="2048.0" subtractMinZ="2000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="146">
+    <Fence pos="51956.3594,-3007.7488,4797.1055" />
+    <Fence pos="51646.6914,-15466.9766,3675.5195" />
+    <Fence pos="50064.3047,-24611.0488,4500.1309" />
+    <Fence pos="50344.9844,-30705.1094,4263.4434" />
+    <Fence pos="54143.9375,-30710.6445,4450.8887" />
+    <Fence pos="60395.4492,-27963.2246,3676.0508" />
+    <Fence pos="61128.4883,-14284.0605,3312.4941" />
+    <Fence pos="68851.9063,-13136.5566,3082.6758" />
+    <Fence pos="71192.0000,-11902.3828,3890.5527" />
+    <Fence pos="76409.0391,-13092.8750,3445.7207" />
+    <Fence pos="75340.0859,34827.3789,585.8262" />
+    <Fence pos="64262.9023,27856.3906,3422.0977" />
+    <Fence pos="61823.8359,19956.3262,2562.3223" />
+    <Fence pos="61237.9219,9996.4873,3005.9648" />
+    <Fence pos="59574.2305,4145.9570,4455.2871" />
+    <Fence pos="52274.5898,285.5541,6001.9883" />
+    <Section huntingZoneId="-1" priority="279" desTex="False" nameId="27007" pcMoveCylinder="False" pk="safe" ride="True" vender="True" addMaxZ="2048.0" subtractMinZ="2048.0" campId="49" floor="1" restBonus="False" worldMapSectionId="0">
+      <Fence pos="65012.7773,-8626.7090,413.8242" />
+      <Fence pos="64167.0977,-7853.7993,298.7754" />
+      <Fence pos="62755.5781,-8181.6309,565.2969" />
+      <Fence pos="62755.5352,-9824.7188,1256.9453" />
+      <Fence pos="64109.5859,-10378.6602,723.0898" />
+    </Section>
+    <Section huntingZoneId="-1" priority="279" desTex="False" nameId="27002" pcMoveCylinder="True" pk="true" ride="True" vender="False" addMaxZ="2000.0" subtractMinZ="2000.0" campId="0" floor="1" worldMapSectionId="0">
+      <Fence pos="66196.2266,20275.3164,725.6240" />
+      <Fence pos="65301.1875,20364.8496,724.3037" />
+      <Fence pos="65305.4336,18665.4414,809.5693" />
+      <Fence pos="66289.3984,18637.6152,700.5518" />
+      <Fence pos="66517.6328,19261.3867,699.5444" />
+    </Section>
+    <Section huntingZoneId="-1" priority="271" desTex="False" nameId="27003" pcMoveCylinder="True" pk="true" ride="True" vender="False" addMaxZ="1024.0" subtractMinZ="3000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="0">
+      <Fence pos="70904.4531,-11636.0215,3062.3291" />
+      <Fence pos="72332.4375,3502.2358,3123.0293" />
+      <Fence pos="66565.3047,5320.2603,1503.6406" />
+      <Fence pos="61457.6953,2594.9575,2539.5713" />
+      <Fence pos="61450.9063,-4192.7510,1690.9395" />
+      <Fence pos="61744.8594,-9649.7900,2360.2305" />
+      <Fence pos="62113.0508,-13303.8369,1896.9541" />
+    </Section>
+    <Section huntingZoneId="-1" priority="272" desTex="False" nameId="27004" pcMoveCylinder="True" pk="true" ride="True" vender="False" addMaxZ="1024.0" subtractMinZ="3000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="0">
+      <Fence pos="67143.3672,4175.7349,1349.5742" />
+      <Fence pos="72044.2344,1623.5677,899.9014" />
+      <Fence pos="73480.5703,2228.6265,1290.2861" />
+      <Fence pos="74799.5547,21333.9863,974.7451" />
+      <Fence pos="75382.3438,26742.3125,1493.5527" />
+      <Fence pos="73651.7109,33187.8203,651.8828" />
+      <Fence pos="64339.0313,27614.8262,3038.3438" />
+      <Fence pos="61871.6797,19923.8262,2360.0801" />
+      <Fence pos="62113.4102,5067.1738,3045.6484" />
+    </Section>
+  </Section>
+</Area>

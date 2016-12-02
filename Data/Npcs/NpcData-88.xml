@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="113">
+  <Template id="7001" scale="1.0" size="small" shapeId="600010" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="50" maxHp="1" />
+  </Template>
+  <Template id="7002" scale="1.0" size="small" shapeId="600010" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="50" maxHp="1" />
+  </Template>
+  <Template id="7003" scale="1.0" size="small" shapeId="600010" parentId="60001000" basicActionId="6000100" deathShapeId="600011" elite="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="50" maxHp="1" />
+  </Template>
+</NpcData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="403">
+  <Template id="1101" scale="1.0" size="medium" shapeId="510870" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="51087000" basicActionId="5108700" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="48" maxHp="461179" />
+  </Template>
+  <Template id="1102" class="" scale="1.0" size="medium" shapeId="520080" gender="female" race="Castanic" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="5001600" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1103" class="" scale="1.0" size="medium" shapeId="510870" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="5108700" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1104" class="" scale="1.0" size="medium" shapeId="501030" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="5001400" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1105" class="" scale="1.0" size="medium" shapeId="501040" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="5001300" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1106" scale="1.0" size="medium" shapeId="510523" gender="female" race="HighElf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="51052300" basicActionId="5105200" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="48" maxHp="53035" />
+  </Template>
+  <Template id="1107" class="" scale="1.0" size="medium" shapeId="510870" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="5108700" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1108" scale="1.0" size="medium" shapeId="501040" gender="male" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="50104000" basicActionId="5010400" elite="False" invincible="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="48" maxHp="79553" />
+  </Template>
+  <Template id="1109" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="True" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1110" scale="1.0" size="medium" shapeId="501030" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="52501200" basicActionId="5250100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="1144318" />
+  </Template>
+  <Template id="1111" scale="1.0" size="medium" shapeId="525011" gender="female" race="Highelf" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="52501100" basicActionId="5250100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False" villager="True">
+    <Stat level="48" maxHp="53035" />
+  </Template>
+  <Template id="2000" scale="1.05" size="large" shapeId="300860" gender="male" race="DarkReaper" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30086002" basicActionId="3008600" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True" showTargetInfo="False">
+    <NamePlate nameplateHeight="60" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="549539" />
+  </Template>
+  <Template id="2001" scale="1.05" size="medium" shapeId="301110" gender="male" race="DruggedShurianSummoner" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30111000" basicActionId="3011100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="11621" />
+  </Template>
+  <Template id="2002" scale="0.5" size="small" shapeId="301120" gender="male" race="SummonedHellhound" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30112000" basicActionId="3011200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="37" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="2530" />
+  </Template>
+  <Template id="2003" scale="1.05" size="medium" shapeId="301110" gender="male" race="DruggedShurianSummoner" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30111000" basicActionId="3011100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="11621" />
+  </Template>
+  <Template id="2004" scale="0.5" size="small" shapeId="301121" gender="male" race="SummonedHellhound" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30112100" basicActionId="3011200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="2732" />
+  </Template>
+  <Template id="2005" scale="1.05" size="medium" shapeId="301100" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30110000" basicActionId="3011000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="41" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="11621" />
+  </Template>
+  <Template id="2006" scale="0.5" size="small" shapeId="301120" gender="male" race="SummonedHellhound" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30112000" basicActionId="3011200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="37" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="17762" />
+  </Template>
+  <Template id="2007" scale="0.5" size="small" shapeId="301121" gender="male" race="SummonedHellhound" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30112100" basicActionId="3011200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="34" deathNameplateHeight="0" />
+    <Stat level="48" maxHp="2732" />
+  </Template>
+  <Template id="2008" scale="1.0" size="medium" shapeId="301100" gender="male" race="DruggedShurianWarrior" resourceSize="100" resourceType="medium" isWideBroadcaster="True" parentId="30110000" basicActionId="3011000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="47" maxHp="10752" />
+  </Template>
+</NpcData>

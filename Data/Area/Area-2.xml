@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="110" areaName="BF_FreeFight_P" nameId="118001" ride="False" worldMapGuardId="60" worldMapWorldId="8888">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="118001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="912">
+    <Fence pos="5863.0728,9293.6973,1034.3029" />
+    <Fence pos="5762.0225,8024.1104,1112.9290" />
+    <Fence pos="5863.0254,5937.1855,800.2478" />
+    <Fence pos="7575.5454,5631.7773,666.9691" />
+    <Fence pos="9366.5645,5794.3433,1112.9287" />
+    <Fence pos="9775.0576,7629.0493,660.4532" />
+    <Fence pos="9621.0977,9533.0771,611.6417" />
+    <Fence pos="8061.1104,9470.0049,1112.9281" />
+    <Fence pos="5775.7144,9712.0205,561.1095" />
+  </Section>
+</Area>

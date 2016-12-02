@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9814" areaName="EX_RNW_Arcana_P" nameId="9814001" ride="True" worldMapGuardId="24" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9814001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9814">
+    <Fence pos="-8061.8525,-150264.2813,6805.1162" />
+    <Fence pos="-7632.2207,-150267.2188,6805.1177" />
+    <Fence pos="-7162.1768,-149788.5313,6805.2129" />
+    <Fence pos="-7238.7646,-147738.9375,7115.4688" />
+    <Fence pos="-6248.6895,-147508.5469,7271.5234" />
+    <Fence pos="-5608.9453,-146039.6875,7227.7051" />
+    <Fence pos="-6266.5059,-144353.5469,6495.0225" />
+    <Fence pos="-7859.2568,-143695.6250,6531.0859" />
+    <Fence pos="-9421.2080,-144330.0469,6457.5576" />
+    <Fence pos="-10102.2529,-145929.5938,6852.7598" />
+    <Fence pos="-9437.6270,-147538.0781,6863.3398" />
+    <Fence pos="-8353.1875,-147882.6563,6478.8262" />
+    <Fence pos="-8525.3428,-149782.6563,6842.7412" />
+  </Section>
+</Area>

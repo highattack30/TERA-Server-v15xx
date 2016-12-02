@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9822" areaName="EX_RNW_SecretCamp_P" nameId="9822001" ride="True" worldMapGuardId="24" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9822001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="256.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9822">
+    <Fence pos="-42125.3789,-147820.6250,-577.0601" />
+    <Fence pos="-41563.0625,-148836.2344,214.2234" />
+    <Fence pos="-40897.6211,-149270.5156,-577.0671" />
+    <Fence pos="-39471.9766,-147722.4531,-278.2314" />
+    <Fence pos="-39450.5977,-145347.2344,-577.0703" />
+    <Fence pos="-41731.5586,-145739.5313,164.1313" />
+  </Section>
+</Area>

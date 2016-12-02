@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentSetData>
+  <EquipmentSet id="1">
+    <Effect countOfEquipment="2" passiveList="230100,240100" />
+    <Effect countOfEquipment="4" passiveList="310200,310203,310300" />
+    <ItemList>
+      <Item id="46017" equipPos="1" />
+      <Item id="46028" equipPos="3" />
+      <Item id="46029" equipPos="4" />
+      <Item id="46030" equipPos="5" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="713">
+    <Effect countOfEquipment="2" passiveList="560000,560001" />
+    <Effect countOfEquipment="3" passiveList="560010" />
+    <ItemList>
+      <Item id="71371" equipPos="10" />
+      <Item id="71372" equipPos="6" />
+      <Item id="71372" equipPos="7" />
+      <Item id="71373" equipPos="8" />
+      <Item id="71373" equipPos="9" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="800">
+    <Effect countOfEquipment="2" passiveList="570024" />
+    <Effect countOfEquipment="3" passiveList="570025" />
+    <Effect countOfEquipment="4" passiveList="570026" />
+    <Effect countOfEquipment="5" passiveList="570027" />
+    <ItemList>
+      <Item id="55461,55526,55527,91765,91766,91767,91768,91769,91770,91771,91772,91773,91787,91788,91789,91790,91791,91792,91793,91794,91795,19566,19567,19568,19569,19570,19571,19572,19573,19574,82461,82526,82527,58139,58140,58075" equipPos="1" itemDelegatorName="@equipmentsetdata:8001" />
+      <Item id="91774,91778,91782,91796,91800,91804,19575,19579,19583" equipPos="3" itemDelegatorName="@equipmentsetdata:8003" />
+      <Item id="91775,91776,91779,91780,91783,91784,91797,91798,91801,91802,91805,91806,19576,19577,19580,19581,19584,19585" equipPos="4" itemDelegatorName="@equipmentsetdata:8004" />
+      <Item id="91777,91781,91785,91799,91803,91807,19578,19582,19586" equipPos="5" itemDelegatorName="@equipmentsetdata:8005" />
+      <Item id="91786,91808" equipPos="19" itemDelegatorName="@equipmentsetdata:80019" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="801">
+    <Effect countOfEquipment="2" passiveList="570028" />
+    <Effect countOfEquipment="3" passiveList="570029" />
+    <Effect countOfEquipment="4" passiveList="570030" />
+    <Effect countOfEquipment="5" passiveList="570031" />
+    <ItemList>
+      <Item id="55523,55524,55525,55520,55521,55522,55462,55463,55464,91673,91674,91675,91676,91677,91678,91679,91680,91681,91682,91683,91684,91685,91686,91687,91688,91689,91690,91691,91692,91693,91694,91695,91696,91697,91698,91699,91719,91720,91721,91722,91723,91724,91725,91726,91727,91728,91729,91730,91731,91732,91733,91734,91735,91736,91737,91738,91739,91740,91741,91742,91743,91744,91745,19587,19588,19589,19590,19591,19592,19593,19594,19595,19596,19597,19598,19599,19600,19601,19602,19603,19604,19605,19606,19607,19608,19609,19610,19611,19612,19613,82462,82463,82464,82520,82521,82522,82523,82524,82525,58133,58134,58135,58136,58137,58138,58076,58077,58078" equipPos="1" itemDelegatorName="@equipmentsetdata:8011" />
+      <Item id="55558,55559,55560,91700,91701,91705,91706,91707,91708,91712,91713,91714,91746,91747,91751,91752,91753,91754,91758,91759,91760,19614,19615,19619,19620,19621,19622,19626,19627,19628,82568,82569,82570,58610,58633,58634" equipPos="3" itemDelegatorName="@equipmentsetdata:8013" />
+      <Item id="91702,91703,91709,91710,91715,91716,91748,91749,91755,91756,91761,91762,19616,19617,19623,19624,19629,19630" equipPos="4" itemDelegatorName="@equipmentsetdata:8014" />
+      <Item id="91704,91711,91717,91750,91757,91763,19618,19625,19631" equipPos="5" itemDelegatorName="@equipmentsetdata:8015" />
+      <Item id="91718,91764" equipPos="19" itemDelegatorName="@equipmentsetdata:80119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="802">
+    <Effect countOfEquipment="2" passiveList="570036" />
+    <Effect countOfEquipment="3" passiveList="570037" />
+    <Effect countOfEquipment="4" passiveList="570038" />
+    <Effect countOfEquipment="5" passiveList="570039" />
+    <ItemList>
+      <Item id="55517,55518,55519,91627,91628,91629,91630,91631,91632,91633,91634,91635,91636,91637,91638,91639,91640,91641,91642,91643,91644,91645,91646,91647,91648,91649,91650,91651,91652,91653,92093,92094,92095,92096,92097,92098,92099,92100,92101,82517,82518,82519,82532,58130,58131,58132,58145" equipPos="1" itemDelegatorName="@equipmentsetdata:8021" />
+      <Item id="55561,91654,91655,91659,91660,91661,91662,91666,91667,91668,82571,58632" equipPos="3" itemDelegatorName="@equipmentsetdata:8023" />
+      <Item id="91656,91657,91663,91664,91669,91670" equipPos="4" itemDelegatorName="@equipmentsetdata:8024" />
+      <Item id="91658,91665,91671" equipPos="5" itemDelegatorName="@equipmentsetdata:8025" />
+      <Item id="91672" equipPos="19" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="803">
+    <Effect countOfEquipment="2" passiveList="570000" />
+    <Effect countOfEquipment="3" passiveList="570001" />
+    <Effect countOfEquipment="4" passiveList="570002" />
+    <Effect countOfEquipment="5" passiveList="570003" />
+    <ItemList>
+      <Item id="91859" equipPos="10" />
+      <Item id="91862,91863" equipPos="6" itemDelegatorName="@equipmentsetdata:8036" />
+      <Item id="91862,91863" equipPos="7" itemDelegatorName="@equipmentsetdata:8037" />
+      <Item id="91860,91861" equipPos="8" itemDelegatorName="@equipmentsetdata:8038" />
+      <Item id="91860,91861" equipPos="9" itemDelegatorName="@equipmentsetdata:8039" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="804">
+    <Effect countOfEquipment="2" passiveList="570004" />
+    <Effect countOfEquipment="3" passiveList="570005" />
+    <Effect countOfEquipment="4" passiveList="570006" />
+    <Effect countOfEquipment="5" passiveList="570007" />
+    <ItemList>
+      <Item id="91864" equipPos="10" />
+      <Item id="91867,91868" equipPos="6" itemDelegatorName="@equipmentsetdata:8046" />
+      <Item id="91867,91868" equipPos="7" itemDelegatorName="@equipmentsetdata:8047" />
+      <Item id="91865,91866" equipPos="8" itemDelegatorName="@equipmentsetdata:8048" />
+      <Item id="91865,91866" equipPos="9" itemDelegatorName="@equipmentsetdata:8049" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="805">
+    <Effect countOfEquipment="2" passiveList="570008" />
+    <Effect countOfEquipment="3" passiveList="570009" />
+    <Effect countOfEquipment="4" passiveList="570010" />
+    <Effect countOfEquipment="5" passiveList="570011" />
+    <ItemList>
+      <Item id="91869" equipPos="10" />
+      <Item id="91872,91873" equipPos="6" itemDelegatorName="@equipmentsetdata:8056" />
+      <Item id="91872,91873" equipPos="7" itemDelegatorName="@equipmentsetdata:8057" />
+      <Item id="91870,91871" equipPos="8" itemDelegatorName="@equipmentsetdata:8058" />
+      <Item id="91871,91870" equipPos="9" itemDelegatorName="@equipmentsetdata:8059" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="806">
+    <Effect countOfEquipment="2" passiveList="570012" />
+    <Effect countOfEquipment="3" passiveList="570013" />
+    <Effect countOfEquipment="4" passiveList="570014" />
+    <Effect countOfEquipment="5" passiveList="570015" />
+    <ItemList>
+      <Item id="80290" equipPos="10" />
+      <Item id="19249,19250" equipPos="6" itemDelegatorName="@equipmentsetdata:8066" />
+      <Item id="19249,19250" equipPos="7" itemDelegatorName="@equipmentsetdata:8067" />
+      <Item id="19243,19244" equipPos="8" itemDelegatorName="@equipmentsetdata:8068" />
+      <Item id="19243,19244" equipPos="9" itemDelegatorName="@equipmentsetdata:8069" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="807">
+    <Effect countOfEquipment="2" passiveList="570016" />
+    <Effect countOfEquipment="3" passiveList="570017" />
+    <Effect countOfEquipment="4" passiveList="570018" />
+    <Effect countOfEquipment="5" passiveList="570019" />
+    <ItemList>
+      <Item id="80291" equipPos="10" />
+      <Item id="19251,19252" equipPos="6" itemDelegatorName="@equipmentsetdata:8076" />
+      <Item id="19251,19252" equipPos="7" itemDelegatorName="@equipmentsetdata:8077" />
+      <Item id="19245,19246" equipPos="8" itemDelegatorName="@equipmentsetdata:8078" />
+      <Item id="19245,19246" equipPos="9" itemDelegatorName="@equipmentsetdata:8079" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="808">
+    <Effect countOfEquipment="2" passiveList="570020" />
+    <Effect countOfEquipment="3" passiveList="570021" />
+    <Effect countOfEquipment="4" passiveList="570022" />
+    <Effect countOfEquipment="5" passiveList="570023" />
+    <ItemList>
+      <Item id="80292" equipPos="10" />
+      <Item id="19253,19254" equipPos="6" itemDelegatorName="@equipmentsetdata:8086" />
+      <Item id="19253,19254" equipPos="7" itemDelegatorName="@equipmentsetdata:8087" />
+      <Item id="19247,19248" equipPos="8" itemDelegatorName="@equipmentsetdata:8088" />
+      <Item id="19247,19248" equipPos="9" itemDelegatorName="@equipmentsetdata:8089" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="809">
+    <Effect countOfEquipment="2" passiveList="570024" />
+    <Effect countOfEquipment="3" passiveList="570025" />
+    <Effect countOfEquipment="4" passiveList="570026" />
+    <Effect countOfEquipment="5" passiveList="570027" />
+    <ItemList>
+      <Item id="55470,27263,27264,27265,27266,27267,27268,27269,27270,27271,82470,58084" equipPos="1" itemDelegatorName="@equipmentsetdata:8091" />
+      <Item id="27272,27275,27278" equipPos="3" itemDelegatorName="@equipmentsetdata:8093" />
+      <Item id="27273,27276,27279,27280" equipPos="4" itemDelegatorName="@equipmentsetdata:8094" />
+      <Item id="27274,27277,27281" equipPos="5" itemDelegatorName="@equipmentsetdata:8095" />
+      <Item id="80285" equipPos="19" itemDelegatorName="@equipmentsetdata:80919" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="810">
+    <Effect countOfEquipment="2" passiveList="570032" />
+    <Effect countOfEquipment="3" passiveList="570033" />
+    <Effect countOfEquipment="4" passiveList="570034" />
+    <Effect countOfEquipment="5" passiveList="570035" />
+    <ItemList>
+      <Item id="55471,27282,27283,27284,27285,27286,27287,27288,27289,27290,82471,58085" equipPos="1" itemDelegatorName="@equipmentsetdata:8101" />
+      <Item id="27291,27294,27297,27325,27326,27327,27328,27329,28175" equipPos="3" itemDelegatorName="@equipmentsetdata:8103" />
+      <Item id="27292,27295,27298,27299" equipPos="4" itemDelegatorName="@equipmentsetdata:8104" />
+      <Item id="27293,27296,27300" equipPos="5" itemDelegatorName="@equipmentsetdata:8105" />
+      <Item id="80286" equipPos="19" itemDelegatorName="@equipmentsetdata:81019" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="811">
+    <Effect countOfEquipment="2" passiveList="570040" />
+    <Effect countOfEquipment="3" passiveList="570041" />
+    <Effect countOfEquipment="4" passiveList="570042" />
+    <Effect countOfEquipment="5" passiveList="570043" />
+    <ItemList>
+      <Item id="55472,27301,27302,27303,27304,27305,27306,27307,27308,27309,82472,58086" equipPos="1" itemDelegatorName="@equipmentsetdata:8111" />
+      <Item id="27310,27311,27314,27315,27316,27319,27320,27321,28174,58613" equipPos="3" itemDelegatorName="@equipmentsetdata:8113" />
+      <Item id="27312,27317,27322,27323" equipPos="4" itemDelegatorName="@equipmentsetdata:8114" />
+      <Item id="27313,27318,27324" equipPos="5" itemDelegatorName="@equipmentsetdata:8115" />
+      <Item id="80287" equipPos="19" itemDelegatorName="@equipmentsetdata:81119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="900">
+    <Effect countOfEquipment="2" passiveList="570101" />
+    <Effect countOfEquipment="3" passiveList="570102" />
+    <Effect countOfEquipment="4" passiveList="570103" />
+    <Effect countOfEquipment="5" passiveList="570104" />
+    <ItemList>
+      <Item id="55551,55552,55465,19632,19633,19634,19635,19636,19637,19638,19639,19640,96346,96347,96348,96349,96350,96351,96352,96353,96354,96368,96369,96370,96371,96372,96373,96374,96375,96376,82465,82550,82551,58079,58155,58156" equipPos="1" itemDelegatorName="@equipmentsetdata:9001" />
+      <Item id="19641,19645,19649,96355,96359,96363,96377,96381,96385" equipPos="3" itemDelegatorName="@equipmentsetdata:9003" />
+      <Item id="19642,19643,19646,19647,19650,19651,96356,96357,96360,96361,96364,96365,96378,96379,96382,96383,96386,96387" equipPos="4" itemDelegatorName="@equipmentsetdata:9004" />
+      <Item id="19644,19648,19652,96358,96362,96366,96380,96384,96388" equipPos="5" itemDelegatorName="@equipmentsetdata:9005" />
+      <Item id="96367,96389" equipPos="19" itemDelegatorName="@equipmentsetdata:90019" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="901">
+    <Effect countOfEquipment="2" passiveList="570105" />
+    <Effect countOfEquipment="3" passiveList="570106" />
+    <Effect countOfEquipment="4" passiveList="570107" />
+    <Effect countOfEquipment="5" passiveList="570108" />
+    <ItemList>
+      <Item id="55545,55546,55547,55548,55549,55550,55466,55467,55468,19653,19654,19655,19656,19657,19658,19659,19660,19661,19662,19663,19664,19665,19666,19667,19668,19669,19670,19671,19672,19673,19674,19675,19676,19677,19678,19679,96254,96255,96256,96257,96258,96259,96260,96261,96262,96263,96264,96265,96266,96267,96268,96269,96270,96271,96272,96273,96274,96275,96276,96277,96278,96279,96280,96300,96301,96302,96303,96304,96305,96306,96307,96308,96309,96310,96311,96312,96313,96314,96315,96316,96317,96318,96319,96320,96321,96322,96323,96324,96325,96326,82466,82467,82468,82544,82545,82546,82547,82548,82549,58080,58081,58082,58149,58150,58151" equipPos="1" itemDelegatorName="@equipmentsetdata:9011" />
+      <Item id="55554,55555,55556,19680,19681,19685,19686,19687,19688,19692,19693,19694,96281,96282,96286,96287,96288,96289,96293,96294,96295,96327,96328,96332,96333,96334,96335,96339,96340,96341,82564,82565,82566,58611,58636,58637" equipPos="3" itemDelegatorName="@equipmentsetdata:9013" />
+      <Item id="19682,19683,19689,19690,19695,19696,96283,96284,96290,96291,96296,96297,96329,96330,96336,96337,96342,96343" equipPos="4" itemDelegatorName="@equipmentsetdata:9014" />
+      <Item id="19684,19691,19697,96285,96292,96298,96331,96338,96344" equipPos="5" itemDelegatorName="@equipmentsetdata:9015" />
+      <Item id="96299,96345" equipPos="19" itemDelegatorName="@equipmentsetdata:90119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="902">
+    <Effect countOfEquipment="2" passiveList="570109" />
+    <Effect countOfEquipment="3" passiveList="570110" />
+    <Effect countOfEquipment="4" passiveList="570111" />
+    <Effect countOfEquipment="5" passiveList="570112" />
+    <ItemList>
+      <Item id="55542,55543,55544,96208,96209,96210,96211,96212,96213,96214,96215,96216,96217,96218,96219,96220,96221,96222,96223,96224,96225,96226,96227,96228,96229,96230,96231,96232,96233,96234,82541,82542,82543,58146,58147,58148" equipPos="1" itemDelegatorName="@equipmentsetdata:9021" />
+      <Item id="55557,96235,96236,96240,96241,96242,96243,96247,96248,96249,82567,58635" equipPos="3" itemDelegatorName="@equipmentsetdata:9023" />
+      <Item id="96237,96238,96244,96245,96250,96251" equipPos="4" itemDelegatorName="@equipmentsetdata:9024" />
+      <Item id="96239,96246,96252" equipPos="5" itemDelegatorName="@equipmentsetdata:9025" />
+      <Item id="96253" equipPos="19" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="903">
+    <Effect countOfEquipment="2" passiveList="570000" />
+    <Effect countOfEquipment="3" passiveList="570001" />
+    <Effect countOfEquipment="4" passiveList="570002" />
+    <Effect countOfEquipment="5" passiveList="570003" />
+    <ItemList>
+      <Item id="96390" equipPos="10" />
+      <Item id="96393,96394" equipPos="6" itemDelegatorName="@equipmentsetdata:9036" />
+      <Item id="96393,96394" equipPos="7" itemDelegatorName="@equipmentsetdata:9037" />
+      <Item id="96391,96392" equipPos="8" itemDelegatorName="@equipmentsetdata:9038" />
+      <Item id="96391,96392" equipPos="9" itemDelegatorName="@equipmentsetdata:9039" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="904">
+    <Effect countOfEquipment="2" passiveList="570004" />
+    <Effect countOfEquipment="3" passiveList="570005" />
+    <Effect countOfEquipment="4" passiveList="570006" />
+    <Effect countOfEquipment="5" passiveList="570007" />
+    <ItemList>
+      <Item id="96395" equipPos="10" />
+      <Item id="96398,96399" equipPos="6" itemDelegatorName="@equipmentsetdata:9046" />
+      <Item id="96398,96399" equipPos="7" itemDelegatorName="@equipmentsetdata:9047" />
+      <Item id="96396,96397" equipPos="8" itemDelegatorName="@equipmentsetdata:9048" />
+      <Item id="96396,96397" equipPos="9" itemDelegatorName="@equipmentsetdata:9049" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="905">
+    <Effect countOfEquipment="2" passiveList="570008" />
+    <Effect countOfEquipment="3" passiveList="570009" />
+    <Effect countOfEquipment="4" passiveList="570010" />
+    <Effect countOfEquipment="5" passiveList="570011" />
+    <ItemList>
+      <Item id="96400" equipPos="10" />
+      <Item id="96403,96404" equipPos="6" itemDelegatorName="@equipmentsetdata:9056" />
+      <Item id="96403,96404" equipPos="7" itemDelegatorName="@equipmentsetdata:9057" />
+      <Item id="96401,96402" equipPos="8" itemDelegatorName="@equipmentsetdata:9058" />
+      <Item id="96401,96402" equipPos="9" itemDelegatorName="@equipmentsetdata:9059" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="906">
+    <Effect countOfEquipment="2" passiveList="570101" />
+    <Effect countOfEquipment="3" passiveList="570102" />
+    <Effect countOfEquipment="4" passiveList="570103" />
+    <Effect countOfEquipment="5" passiveList="570104" />
+    <ItemList>
+      <Item id="55473,28329,28330,28331,28332,28333,28334,28335,28336,28337,82473,58087" equipPos="1" itemDelegatorName="@equipmentsetdata:9061" />
+      <Item id="28338,28341,28344" equipPos="3" itemDelegatorName="@equipmentsetdata:9063" />
+      <Item id="28339,28342,28345,28346" equipPos="4" itemDelegatorName="@equipmentsetdata:9064" />
+      <Item id="28340,28343,28347" equipPos="5" itemDelegatorName="@equipmentsetdata:9065" />
+      <Item id="28396" equipPos="19" itemDelegatorName="@equipmentsetdata:90619" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="907">
+    <Effect countOfEquipment="2" passiveList="570105" />
+    <Effect countOfEquipment="3" passiveList="570106" />
+    <Effect countOfEquipment="4" passiveList="570107" />
+    <Effect countOfEquipment="5" passiveList="570108" />
+    <ItemList>
+      <Item id="55469,55474,19709,19710,19711,19712,19713,19714,19715,19716,19717,28348,28349,28350,28351,28352,28353,28354,28355,28356,82474,82469,58083,58088" equipPos="1" itemDelegatorName="@equipmentsetdata:9071" />
+      <Item id="55563,55564,19718,19719,19722,19723,19724,19725,19728,19729,19730,28357,28360,28363,28391,28392,28393,28394,28395,28400,82573,82574,58612,58616" equipPos="3" itemDelegatorName="@equipmentsetdata:9073" />
+      <Item id="19720,19726,19731,19732,28358,28361,28364,28365" equipPos="4" itemDelegatorName="@equipmentsetdata:9074" />
+      <Item id="19721,19727,19733,28359,28362,28366" equipPos="5" itemDelegatorName="@equipmentsetdata:9075" />
+      <Item id="28397" equipPos="19" itemDelegatorName="@equipmentsetdata:90719" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="908">
+    <Effect countOfEquipment="2" passiveList="570109" />
+    <Effect countOfEquipment="3" passiveList="570110" />
+    <Effect countOfEquipment="4" passiveList="570111" />
+    <Effect countOfEquipment="5" passiveList="570112" />
+    <ItemList>
+      <Item id="55475,28367,28368,28369,28370,28371,28372,28373,28374,28375,82475,58089" equipPos="1" itemDelegatorName="@equipmentsetdata:9081" />
+      <Item id="55565,28376,28377,28380,28381,28382,28385,28386,28387,28399,82575,58615" equipPos="3" itemDelegatorName="@equipmentsetdata:9083" />
+      <Item id="28378,28383,28388,28389" equipPos="4" itemDelegatorName="@equipmentsetdata:9084" />
+      <Item id="28379,28384,28390" equipPos="5" itemDelegatorName="@equipmentsetdata:9085" />
+      <Item id="28398" equipPos="19" itemDelegatorName="@equipmentsetdata:90819" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="909">
+    <Effect countOfEquipment="2" passiveList="570012" />
+    <Effect countOfEquipment="3" passiveList="570013" />
+    <Effect countOfEquipment="4" passiveList="570014" />
+    <Effect countOfEquipment="5" passiveList="570015" />
+    <ItemList>
+      <Item id="19267" equipPos="10" />
+      <Item id="19261,19262" equipPos="6" itemDelegatorName="@equipmentsetdata:9096" />
+      <Item id="19261,19262" equipPos="7" itemDelegatorName="@equipmentsetdata:9097" />
+      <Item id="19255,19256" equipPos="8" itemDelegatorName="@equipmentsetdata:9098" />
+      <Item id="19255,19256" equipPos="9" itemDelegatorName="@equipmentsetdata:9099" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="910">
+    <Effect countOfEquipment="2" passiveList="570016" />
+    <Effect countOfEquipment="3" passiveList="570017" />
+    <Effect countOfEquipment="4" passiveList="570018" />
+    <Effect countOfEquipment="5" passiveList="570019" />
+    <ItemList>
+      <Item id="19268" equipPos="10" />
+      <Item id="19263,19264" equipPos="6" itemDelegatorName="@equipmentsetdata:9106" />
+      <Item id="19263,19264" equipPos="7" itemDelegatorName="@equipmentsetdata:9107" />
+      <Item id="19257,19258" equipPos="8" itemDelegatorName="@equipmentsetdata:9108" />
+      <Item id="19257,19258" equipPos="9" itemDelegatorName="@equipmentsetdata:9109" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="911">
+    <Effect countOfEquipment="2" passiveList="570020" />
+    <Effect countOfEquipment="3" passiveList="570021" />
+    <Effect countOfEquipment="4" passiveList="570022" />
+    <Effect countOfEquipment="5" passiveList="570023" />
+    <ItemList>
+      <Item id="19269" equipPos="10" />
+      <Item id="19265,19266" equipPos="6" itemDelegatorName="@equipmentsetdata:9116" />
+      <Item id="19265,19266" equipPos="7" itemDelegatorName="@equipmentsetdata:9117" />
+      <Item id="19259,19260" equipPos="8" itemDelegatorName="@equipmentsetdata:9118" />
+      <Item id="19259,19260" equipPos="9" itemDelegatorName="@equipmentsetdata:9119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="912">
+    <Effect countOfEquipment="2" passiveList="570101" />
+    <Effect countOfEquipment="3" passiveList="570102" />
+    <Effect countOfEquipment="4" passiveList="570103" />
+    <ItemList>
+      <Item id="95527,95530,95533" equipPos="3" itemDelegatorName="@equipmentsetdata:9123" />
+      <Item id="95528,95531,95534" equipPos="4" itemDelegatorName="@equipmentsetdata:9124" />
+      <Item id="95529,95532,95535" equipPos="5" itemDelegatorName="@equipmentsetdata:9125" />
+      <Item id="95544" equipPos="19" itemDelegatorName="@equipmentsetdata:91219" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="913">
+    <Effect countOfEquipment="2" passiveList="570105" />
+    <Effect countOfEquipment="3" passiveList="570106" />
+    <Effect countOfEquipment="4" passiveList="570107" />
+    <Effect countOfEquipment="5" passiveList="570108" />
+    <ItemList>
+      <Item id="116392,116393,116394,116395,116396,116397,116398,116399,116400,116401,116402,116403,116404,116405,116406,116407,116408,116409,116410,116411,116412,116413,116414,116415,116416,116417,116418" equipPos="1" itemDelegatorName="@equipmentsetdata:90110" />
+      <Item id="116419,116420,116424,116425,116426,116427,116431,116432,116433" equipPos="3" itemDelegatorName="@equipmentsetdata:90130" />
+      <Item id="116421,116422,116428,116429,116434,116435" equipPos="4" itemDelegatorName="@equipmentsetdata:90140" />
+      <Item id="116423,116430,116436" equipPos="5" itemDelegatorName="@equipmentsetdata:90150" />
+      <Item id="116437" equipPos="19" itemDelegatorName="@equipmentsetdata:901190" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1000">
+    <Effect countOfEquipment="2" passiveList="570216" />
+    <Effect countOfEquipment="3" passiveList="570217" />
+    <Effect countOfEquipment="4" passiveList="570218" />
+    <Effect countOfEquipment="5" passiveList="570219" />
+    <ItemList>
+      <Item id="96518,96519,96520,96521,96522,96523,96524,96525,96526,96527,96541,96542,96543,96544,96545,96546,96547,96548,96549,96550,82553,82554,58158" equipPos="1" itemDelegatorName="@equipmentsetdata:10001" />
+      <Item id="96528,96532,96536,96551,96555,96559" equipPos="3" itemDelegatorName="@equipmentsetdata:10003" />
+      <Item id="96529,96530,96533,96534,96537,96538,96552,96553,96556,96557,96560,96561" equipPos="4" itemDelegatorName="@equipmentsetdata:10004" />
+      <Item id="96531,96535,96539,96554,96558,96562" equipPos="5" itemDelegatorName="@equipmentsetdata:10005" />
+      <Item id="96540" equipPos="19" itemDelegatorName="@equipmentsetdata:100019" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1001">
+    <Effect countOfEquipment="2" passiveList="570220" />
+    <Effect countOfEquipment="3" passiveList="570221" />
+    <Effect countOfEquipment="4" passiveList="570222" />
+    <Effect countOfEquipment="5" passiveList="570223" />
+    <ItemList>
+      <Item id="96586,96587,96588,96589,96590,96591,96592,96593,96594,96595,96616,96617,96618,96619,96620,96621,96622,96623,96624,96625,82555,82556,58160,58161" equipPos="1" itemDelegatorName="@equipmentsetdata:10011" />
+      <Item id="96596,96597,96598,96602,96603,96604,96605,96609,96610,96611,96626,96627,96628,96632,96633,96634,96635,96639,96640,96641,82589,82590,58638,58639" equipPos="3" itemDelegatorName="@equipmentsetdata:10013" />
+      <Item id="96599,96600,96606,96607,96612,96613,96629,96630,96636,96637,96642,96643" equipPos="4" itemDelegatorName="@equipmentsetdata:10014" />
+      <Item id="96601,96608,96614,96631,96638,96644" equipPos="5" itemDelegatorName="@equipmentsetdata:10015" />
+      <Item id="96615" equipPos="19" itemDelegatorName="@equipmentsetdata:100119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1002">
+    <Effect countOfEquipment="2" passiveList="570224" />
+    <Effect countOfEquipment="3" passiveList="570225" />
+    <Effect countOfEquipment="4" passiveList="570226" />
+    <Effect countOfEquipment="5" passiveList="570227" />
+    <ItemList>
+      <Item id="96675,96676,96677,96678,96679,96680,96681,96682,96683,96684,82557,58162" equipPos="1" itemDelegatorName="@equipmentsetdata:10021" />
+      <Item id="96685,96686,96687,96691,96692,96693,96694,96698,96699,96700,82591,58640" equipPos="3" itemDelegatorName="@equipmentsetdata:10023" />
+      <Item id="96688,96689,96695,96696,96701,96702" equipPos="4" itemDelegatorName="@equipmentsetdata:10024" />
+      <Item id="96690,96697,96703" equipPos="5" itemDelegatorName="@equipmentsetdata:10025" />
+      <Item id="96704" equipPos="19" itemDelegatorName="@equipmentsetdata:100219" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1003">
+    <Effect countOfEquipment="2" passiveList="570200" />
+    <Effect countOfEquipment="3" passiveList="570201" />
+    <Effect countOfEquipment="4" passiveList="570202" />
+    <Effect countOfEquipment="5" passiveList="570203" />
+    <ItemList>
+      <Item id="96498" equipPos="10" />
+      <Item id="96501,96502" equipPos="6" itemDelegatorName="@equipmentsetdata:10036" />
+      <Item id="96501,96502" equipPos="7" itemDelegatorName="@equipmentsetdata:10037" />
+      <Item id="96499,96500" equipPos="8" itemDelegatorName="@equipmentsetdata:10038" />
+      <Item id="96499,96500" equipPos="9" itemDelegatorName="@equipmentsetdata:10039" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1004">
+    <Effect countOfEquipment="2" passiveList="570204" />
+    <Effect countOfEquipment="3" passiveList="570205" />
+    <Effect countOfEquipment="4" passiveList="570206" />
+    <Effect countOfEquipment="5" passiveList="570207" />
+    <ItemList>
+      <Item id="96503" equipPos="10" />
+      <Item id="96506,96507" equipPos="6" itemDelegatorName="@equipmentsetdata:10046" />
+      <Item id="96506,96507" equipPos="7" itemDelegatorName="@equipmentsetdata:10047" />
+      <Item id="96504,96505" equipPos="8" itemDelegatorName="@equipmentsetdata:10048" />
+      <Item id="96504,96505" equipPos="9" itemDelegatorName="@equipmentsetdata:10049" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1005">
+    <Effect countOfEquipment="2" passiveList="570208" />
+    <Effect countOfEquipment="3" passiveList="570209" />
+    <Effect countOfEquipment="4" passiveList="570210" />
+    <Effect countOfEquipment="5" passiveList="570211" />
+    <ItemList>
+      <Item id="96508" equipPos="10" />
+      <Item id="96511,96512" equipPos="6" itemDelegatorName="@equipmentsetdata:10056" />
+      <Item id="96511,96512" equipPos="7" itemDelegatorName="@equipmentsetdata:10057" />
+      <Item id="96509,96510" equipPos="8" itemDelegatorName="@equipmentsetdata:10058" />
+      <Item id="96509,96510" equipPos="9" itemDelegatorName="@equipmentsetdata:10059" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1006">
+    <Effect countOfEquipment="2" passiveList="570212" />
+    <Effect countOfEquipment="3" passiveList="570213" />
+    <Effect countOfEquipment="4" passiveList="570214" />
+    <Effect countOfEquipment="5" passiveList="570215" />
+    <ItemList>
+      <Item id="96513" equipPos="10" />
+      <Item id="96516,96517" equipPos="6" itemDelegatorName="@equipmentsetdata:10066" />
+      <Item id="96516,96517" equipPos="7" itemDelegatorName="@equipmentsetdata:10067" />
+      <Item id="96514,96515" equipPos="8" itemDelegatorName="@equipmentsetdata:10068" />
+      <Item id="96514,96515" equipPos="9" itemDelegatorName="@equipmentsetdata:10069" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1007">
+    <Effect countOfEquipment="2" passiveList="570216" />
+    <Effect countOfEquipment="3" passiveList="570217" />
+    <Effect countOfEquipment="4" passiveList="570218" />
+    <Effect countOfEquipment="5" passiveList="570219" />
+    <ItemList>
+      <Item id="96705,96706,96707,96708,96709,96710,96711,96712,96713,96714,82558,58163" equipPos="1" itemDelegatorName="@equipmentsetdata:10061" />
+      <Item id="96715,96718,96721" equipPos="3" itemDelegatorName="@equipmentsetdata:10063" />
+      <Item id="96716,96719,96722,96723" equipPos="4" itemDelegatorName="@equipmentsetdata:10064" />
+      <Item id="96717,96720,96724" equipPos="5" itemDelegatorName="@equipmentsetdata:10065" />
+      <Item id="96725" equipPos="19" itemDelegatorName="@equipmentsetdata:100619" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1008">
+    <Effect countOfEquipment="2" passiveList="570224" />
+    <Effect countOfEquipment="3" passiveList="570225" />
+    <Effect countOfEquipment="4" passiveList="570226" />
+    <Effect countOfEquipment="5" passiveList="570227" />
+    <ItemList>
+      <Item id="96726,96727,96728,96729,96730,96731,96732,96733,96734,96735,82559,58164" equipPos="1" itemDelegatorName="@equipmentsetdata:10071" />
+      <Item id="96736,96737,96738,96741,96742,96743,96744,96747,96748,96749,82592,58641" equipPos="3" itemDelegatorName="@equipmentsetdata:10073" />
+      <Item id="96739,96745,96750,96751" equipPos="4" itemDelegatorName="@equipmentsetdata:10074" />
+      <Item id="96740,96746,96752" equipPos="5" itemDelegatorName="@equipmentsetdata:10075" />
+      <Item id="96753" equipPos="19" itemDelegatorName="@equipmentsetdata:100719" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1009">
+    <Effect countOfEquipment="2" passiveList="570216" />
+    <Effect countOfEquipment="3" passiveList="570217" />
+    <Effect countOfEquipment="4" passiveList="570218" />
+    <Effect countOfEquipment="5" passiveList="570219" />
+    <ItemList>
+      <Item id="96754,96755,96756,96757,96758,96759,96760,96761,96762,96763,96774,96775,96776,96777,96778,96779,96780,96781,96782,96783,82560,82561,58512,58513" equipPos="1" itemDelegatorName="@equipmentsetdata:10081" />
+      <Item id="96764,96767,96770,96784,96787,96790" equipPos="3" itemDelegatorName="@equipmentsetdata:10083" />
+      <Item id="96765,96768,96771,96785,96788,96791" equipPos="4" itemDelegatorName="@equipmentsetdata:10084" />
+      <Item id="96766,96769,96772,96786,96789,96792" equipPos="5" itemDelegatorName="@equipmentsetdata:10085" />
+      <Item id="96773" equipPos="19" itemDelegatorName="@equipmentsetdata:100819" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1012">
+    <Effect countOfEquipment="2" passiveList="570101" />
+    <Effect countOfEquipment="3" passiveList="570102" />
+    <Effect countOfEquipment="4" passiveList="570103" />
+    <Effect countOfEquipment="5" passiveList="570104" />
+    <ItemList>
+      <Item id="116673,116674,116675,116676,116677,116678,116679,116680,116681,116682" equipPos="1" itemDelegatorName="@equipmentsetdata:90010" />
+      <Item id="116683,116687,116691" equipPos="3" itemDelegatorName="@equipmentsetdata:90030" />
+      <Item id="116684,116685,116688,116689,116692,116693" equipPos="4" itemDelegatorName="@equipmentsetdata:90040" />
+      <Item id="116686,116690,116694" equipPos="5" itemDelegatorName="@equipmentsetdata:90050" />
+      <Item id="116695" equipPos="19" itemDelegatorName="@equipmentsetdata:900190" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1100">
+    <Effect countOfEquipment="2" passiveList="570220" />
+    <Effect countOfEquipment="3" passiveList="570221" />
+    <Effect countOfEquipment="4" passiveList="570222" />
+    <Effect countOfEquipment="5" passiveList="570223" />
+    <ItemList>
+      <Item id="136187,136188,136189,136190,136191,136192,136193,136194,136195,136196,136197" equipPos="1" itemDelegatorName="@equipmentsetdata:11001" />
+      <Item id="136198,136199,136200,136201,136202,136203,136204,136205,136206,136207,136208" equipPos="3" itemDelegatorName="@equipmentsetdata:11003" />
+      <Item id="136209,136210,136211,136212,136213,136214" equipPos="4" itemDelegatorName="@equipmentsetdata:11004" />
+      <Item id="136215,136216,136217" equipPos="5" itemDelegatorName="@equipmentsetdata:11005" />
+      <Item id="136218" equipPos="19" itemDelegatorName="@equipmentsetdata:110019" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1101">
+    <Effect countOfEquipment="2" passiveList="570244" />
+    <Effect countOfEquipment="3" passiveList="570245" />
+    <Effect countOfEquipment="4" passiveList="570246" />
+    <Effect countOfEquipment="5" passiveList="570247" />
+    <ItemList>
+      <Item id="97200,97201,97202,97203,97204,97205,97206,97207,97208,97209,97210,97232,97233,97234,97235,97236,97237,97238,97239,97240,97241,97242,58166,58167,47001,47002,47003,47004,47005,47006,47007,47008,47009,47010,47011,47012" equipPos="1" itemDelegatorName="@equipmentsetdata:11011" />
+      <Item id="97211,97212,97213,97214,97215,97216,97217,97218,97219,97220,97221,97243,97244,97245,97246,97247,97248,97249,97250,97251,97252,97253,58642,58643,47031,47032,47033,47034,47035,47036,47037,47038,47039,47040,47041,47042" equipPos="3" itemDelegatorName="@equipmentsetdata:11013" />
+      <Item id="97222,97223,97224,97225,97226,97227,97254,97255,97256,97257,97258,97259,47051,47052,47053,47054" equipPos="4" itemDelegatorName="@equipmentsetdata:11014" />
+      <Item id="97228,97229,97230,97260,97261,97262,47061,47062,47063" equipPos="5" itemDelegatorName="@equipmentsetdata:11015" />
+      <Item id="97231,47071" equipPos="19" itemDelegatorName="@equipmentsetdata:110119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1102">
+    <Effect countOfEquipment="2" passiveList="570248" />
+    <Effect countOfEquipment="3" passiveList="570249" />
+    <Effect countOfEquipment="4" passiveList="570250" />
+    <Effect countOfEquipment="5" passiveList="570251" />
+    <ItemList>
+      <Item id="97263,97264,97265,97266,97267,97268,97269,97270,97271,97272,97273,97400,97401,97402,97403,97404,97405,97406,97407,97408,97409,97410,58168,58169,149681,149682,149683,149684,149685,149686,149687,149688,149689,149690,149691,149692,101337,221969,221970,221971,221972,221973,221974,221975,221976,221977,221978,221979,221980" equipPos="1" itemDelegatorName="@equipmentsetdata:11021" />
+      <Item id="97274,97275,97276,97277,97278,97279,97280,97281,97282,97283,97284,97411,97412,97413,97414,97415,97416,97417,97418,97419,97420,97421,58644,58645,149700,149701,149702,149703,149704,149705,149706,149707,149708,149709,149710,149711,221981,221982,221983,221984,221985,221986,221987,221988,221989,221990,221991,221992" equipPos="3" itemDelegatorName="@equipmentsetdata:11023" />
+      <Item id="97285,97286,97287,97288,97289,97290,97422,97423,97424,97425,97426,97427,221993,221994,221995,221996,221997,221998" equipPos="4" itemDelegatorName="@equipmentsetdata:11024" />
+      <Item id="97291,97292,97293,97428,97429,97430,221999,222000,222001" equipPos="5" itemDelegatorName="@equipmentsetdata:11025" />
+      <Item id="97294,222002" equipPos="19" itemDelegatorName="@equipmentsetdata:110219" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1103">
+    <Effect countOfEquipment="2" passiveList="570228" />
+    <Effect countOfEquipment="3" passiveList="570229" />
+    <Effect countOfEquipment="4" passiveList="570230" />
+    <Effect countOfEquipment="5" passiveList="570231" />
+    <ItemList>
+      <Item id="97180" equipPos="10" />
+      <Item id="97181,97182" equipPos="6" itemDelegatorName="@equipmentsetdata:11036" />
+      <Item id="97181,97182" equipPos="7" itemDelegatorName="@equipmentsetdata:11037" />
+      <Item id="97183,97184" equipPos="8" itemDelegatorName="@equipmentsetdata:11038" />
+      <Item id="97183,97184" equipPos="9" itemDelegatorName="@equipmentsetdata:11039" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1104">
+    <Effect countOfEquipment="2" passiveList="570232" />
+    <Effect countOfEquipment="3" passiveList="570233" />
+    <Effect countOfEquipment="4" passiveList="570234" />
+    <Effect countOfEquipment="5" passiveList="570235" />
+    <ItemList>
+      <Item id="97185" equipPos="10" />
+      <Item id="97186,97187" equipPos="6" itemDelegatorName="@equipmentsetdata:11046" />
+      <Item id="97186,97187" equipPos="7" itemDelegatorName="@equipmentsetdata:11047" />
+      <Item id="97188,97189" equipPos="8" itemDelegatorName="@equipmentsetdata:11048" />
+      <Item id="97188,97189" equipPos="9" itemDelegatorName="@equipmentsetdata:11049" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1105">
+    <Effect countOfEquipment="2" passiveList="570236" />
+    <Effect countOfEquipment="3" passiveList="570237" />
+    <Effect countOfEquipment="4" passiveList="570238" />
+    <Effect countOfEquipment="5" passiveList="570239" />
+    <ItemList>
+      <Item id="97190" equipPos="10" />
+      <Item id="97191,97192" equipPos="6" itemDelegatorName="@equipmentsetdata:11056" />
+      <Item id="97191,97192" equipPos="7" itemDelegatorName="@equipmentsetdata:11057" />
+      <Item id="97193,97194" equipPos="8" itemDelegatorName="@equipmentsetdata:11058" />
+      <Item id="97193,97194" equipPos="9" itemDelegatorName="@equipmentsetdata:11059" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1106">
+    <Effect countOfEquipment="2" passiveList="570240" />
+    <Effect countOfEquipment="3" passiveList="570241" />
+    <Effect countOfEquipment="4" passiveList="570242" />
+    <Effect countOfEquipment="5" passiveList="570243" />
+    <ItemList>
+      <Item id="97195" equipPos="10" />
+      <Item id="97196,97197" equipPos="6" itemDelegatorName="@equipmentsetdata:11066" />
+      <Item id="97196,97197" equipPos="7" itemDelegatorName="@equipmentsetdata:11067" />
+      <Item id="97198,97199" equipPos="8" itemDelegatorName="@equipmentsetdata:11068" />
+      <Item id="97198,97199" equipPos="9" itemDelegatorName="@equipmentsetdata:11069" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1107">
+    <Effect countOfEquipment="2" passiveList="570232" />
+    <Effect countOfEquipment="3" passiveList="570233" />
+    <Effect countOfEquipment="4" passiveList="570234" />
+    <Effect countOfEquipment="5" passiveList="570235" />
+    <ItemList>
+      <Item id="97500" equipPos="10" />
+      <Item id="97501" equipPos="6" itemDelegatorName="@equipmentsetdata:11070" />
+      <Item id="97501" equipPos="7" itemDelegatorName="@equipmentsetdata:11070" />
+      <Item id="97502" equipPos="8" itemDelegatorName="@equipmentsetdata:11071" />
+      <Item id="97502" equipPos="9" itemDelegatorName="@equipmentsetdata:11071" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1108">
+    <Effect countOfEquipment="2" passiveList="570236" />
+    <Effect countOfEquipment="3" passiveList="570237" />
+    <Effect countOfEquipment="4" passiveList="570238" />
+    <Effect countOfEquipment="5" passiveList="570239" />
+    <ItemList>
+      <Item id="97503" equipPos="10" />
+      <Item id="97504" equipPos="6" itemDelegatorName="@equipmentsetdata:11072" />
+      <Item id="97504" equipPos="7" itemDelegatorName="@equipmentsetdata:11072" />
+      <Item id="97505" equipPos="8" itemDelegatorName="@equipmentsetdata:11073" />
+      <Item id="97505" equipPos="9" itemDelegatorName="@equipmentsetdata:11073" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1109">
+    <Effect countOfEquipment="2" passiveList="570260" />
+    <Effect countOfEquipment="3" passiveList="570261" />
+    <Effect countOfEquipment="4" passiveList="570262" />
+    <Effect countOfEquipment="5" passiveList="570263" />
+    <ItemList>
+      <Item id="97600,97601,97602,97603,97604,97605,97606,97607,97608,97609,97610,97611" equipPos="1" itemDelegatorName="@equipmentsetdata:11075" />
+      <Item id="97612,97613,97614,97615,97616,97617,97618,97619,97620,97621,97622,97623" equipPos="3" itemDelegatorName="@equipmentsetdata:11076" />
+      <Item id="97624,97625,97626" equipPos="4" itemDelegatorName="@equipmentsetdata:11077" />
+      <Item id="97627,97628,97629" equipPos="5" itemDelegatorName="@equipmentsetdata:11078" />
+      <Item id="97630" equipPos="19" itemDelegatorName="@equipmentsetdata:110759" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1111">
+    <Effect countOfEquipment="2" passiveList="570232" />
+    <Effect countOfEquipment="3" passiveList="570233" />
+    <Effect countOfEquipment="4" passiveList="570234" />
+    <Effect countOfEquipment="5" passiveList="570235" />
+    <ItemList>
+      <Item id="51001" equipPos="10" />
+      <Item id="51002,51003" equipPos="6" itemDelegatorName="@equipmentsetdata:11116" />
+      <Item id="51002,51003" equipPos="7" itemDelegatorName="@equipmentsetdata:11117" />
+      <Item id="51004,51005" equipPos="8" itemDelegatorName="@equipmentsetdata:11118" />
+      <Item id="51004,51005" equipPos="9" itemDelegatorName="@equipmentsetdata:11119" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1112">
+    <Effect countOfEquipment="2" passiveList="570236" />
+    <Effect countOfEquipment="3" passiveList="570237" />
+    <Effect countOfEquipment="4" passiveList="570238" />
+    <Effect countOfEquipment="5" passiveList="570239" />
+    <ItemList>
+      <Item id="51006" equipPos="10" />
+      <Item id="51007,51008" equipPos="6" itemDelegatorName="@equipmentsetdata:11126" />
+      <Item id="51007,51008" equipPos="7" itemDelegatorName="@equipmentsetdata:11127" />
+      <Item id="51009,51010" equipPos="8" itemDelegatorName="@equipmentsetdata:11128" />
+      <Item id="51009,51010" equipPos="9" itemDelegatorName="@equipmentsetdata:11129" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1113">
+    <Effect countOfEquipment="2" passiveList="570248" />
+    <Effect countOfEquipment="3" passiveList="570249" />
+    <Effect countOfEquipment="4" passiveList="570250" />
+    <Effect countOfEquipment="5" passiveList="570251" />
+    <ItemList>
+      <Item id="88001,88002,88003,88004,88005,88006,88007,88008,88009,88010,88011,88012,88032,88033,88034,88035,88036,88037,88038,88039,88040,88041,88042,88043" equipPos="1" itemDelegatorName="@equipmentsetdata:11131" />
+      <Item id="88013,88014,88015,88016,88017,88018,88019,88020,88021,88022,88023,88024,88044,88045,88046,88047,88048,88049,88050,88051,88052,88053,88054,88055" equipPos="3" itemDelegatorName="@equipmentsetdata:11133" />
+      <Item id="88025,88026,88027,88056,88057,88058" equipPos="4" itemDelegatorName="@equipmentsetdata:11134" />
+      <Item id="88028,88029,88030,88059,88060,88061" equipPos="5" itemDelegatorName="@equipmentsetdata:11135" />
+      <Item id="88031" equipPos="19" itemDelegatorName="@equipmentsetdata:111319" />
+    </ItemList>
+  </EquipmentSet>
+  <EquipmentSet id="1114">
+    <Effect countOfEquipment="2" passiveList="570264" />
+    <Effect countOfEquipment="3" passiveList="570265" />
+    <Effect countOfEquipment="4" passiveList="570266" />
+    <Effect countOfEquipment="5" passiveList="570267" />
+    <ItemList>
+      <Item id="88063,88064,88065,88066,88067,88068,88069,88070,88071,88072,88073,88074" equipPos="1" itemDelegatorName="@equipmentsetdata:11141" />
+      <Item id="88075,88076,88077,88078,88079,88080,88081,88082,88083,88084,88085,88086" equipPos="3" itemDelegatorName="@equipmentsetdata:11143" />
+      <Item id="88087,88088,88089" equipPos="4" itemDelegatorName="@equipmentsetdata:11144" />
+      <Item id="88090,88091,88092" equipPos="5" itemDelegatorName="@equipmentsetdata:11145" />
+      <Item id="88093" equipPos="19" itemDelegatorName="@equipmentsetdata:111419" />
+    </ItemList>
+  </EquipmentSet>
+</EquipmentSetData>

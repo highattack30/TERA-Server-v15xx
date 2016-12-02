@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="413">
+  <Template id="1000" scale="1.0" size="medium" shapeId="301750" gender="male" race="ArgoniteGiant" resourceSize="100" resourceType="medium" parentId="30175000" basicActionId="3017500" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="3145835" />
+  </Template>
+  <Template id="1001" scale="1.4" size="medium" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" parentId="30097000" basicActionId="3009700" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="3145835" />
+  </Template>
+  <Template id="1002" scale="1.0" size="medium" shapeId="301780" gender="male" race="GuardCube" resourceSize="0" resourceType="medium" parentId="30178000" basicActionId="3017800" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="3145835" />
+  </Template>
+  <Template id="1003" scale="1.0" size="small" shapeId="300901" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090100" basicActionId="3009000" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="50" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="382102" />
+  </Template>
+  <Template id="2001" class="" scale="1.25" size="medium" shapeId="600920" race="" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2002" class="" scale="1.0" size="medium" shapeId="531120" gender="male" race="popori" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="5311200" collideOnMove="False" dontTurn="False" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="2003" class="" scale="1.25" size="medium" shapeId="600920" race="" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="3000" scale="1.0" size="medium" shapeId="720280" gender="male" race="NPC_T4_Mission_Illu" resourceSize="100" resourceType="medium" parentId="72028000" basicActionId="7202800" deathShapeId="720281" elite="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="13038" />
+  </Template>
+  <Template id="3001" scale="1.0" size="medium" shapeId="720110" gender="male" race="LifrPipe" resourceSize="100" resourceType="medium" parentId="72011000" basicActionId="7201100" deathShapeId="720111" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="120" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="33289" />
+  </Template>
+  <Template id="3002" scale="1.0" size="medium" shapeId="720110" gender="male" race="LifrPipe" resourceSize="100" resourceType="medium" parentId="72011000" basicActionId="7201100" deathShapeId="720111" elite="True" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="120" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="60" maxHp="33289" />
+  </Template>
+  <Template id="3003" scale="1.0" size="medium" shapeId="720281" gender="male" race="NPC_T4_Mission_Illu" resourceSize="100" resourceType="medium" parentId="72028000" basicActionId="7202800" deathShapeId="720281" elite="False" invincible="False" isObjectNpc="False" villager="False">
+    <AltAnimation />
+    <Stat level="60" maxHp="13038" />
+  </Template>
+</NpcData>

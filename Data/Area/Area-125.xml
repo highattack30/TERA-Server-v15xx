@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9061" areaName="HSC_B_Quest_P" nameId="9061001" ride="False" worldMapGuardId="11" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="90" desTex="False" nameId="9061001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9061">
+    <Fence pos="69966.1641,-132717.5781,-958.4763" />
+    <Fence pos="71192.6563,-131672.9219,-914.7285" />
+    <Fence pos="71447.8359,-127987.7891,-764.7487" />
+    <Fence pos="67806.9922,-127962.1484,-930.9843" />
+    <Fence pos="67584.7813,-131889.1563,-1036.9138" />
+    <Fence pos="67543.8984,-132612.8594,-1045.3353" />
+  </Section>
+</Area>

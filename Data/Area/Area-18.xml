@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="2" areaName="AL_FB_P" nameId="210" ride="True" worldMapGuardId="10" worldMapWorldId="1">
+  <FlySection priority="100" addMaxZ="6000.0" flyHeightLimit="5000.0" flyType="CanFly" subtractMinZ="5000.0">
+    <Fence pos="-15377.51757813,-46056.43359375,6556.67773438" />
+    <Fence pos="-15364.97070313,30716.66992188,6095.13085938" />
+    <Fence pos="-30716.72265625,30713.88085938,4264.48291016" />
+    <Fence pos="-30719.83789063,-46079.93750000,10754.35742188" />
+    <FlySection priority="1000" addMaxZ="3000.0" flyHeightLimit="2000.0" flyType="CanFly" subtractMinZ="5000.0">
+      <Fence pos="-15363.32714844,-38018.88671875,3720.73095703" />
+      <Fence pos="-15360.24023438,-18288.02734375,4365.76904297" />
+      <Fence pos="-24929.83007813,-16217.97460938,5841.36083984" />
+      <Fence pos="-27060.66210938,-35627.02734375,5876.14013672" />
+    </FlySection>
+  </FlySection>
+  <Section huntingZoneId="-1" priority="720" desTex="False" nameId="72002" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="1024.0" subtractMinZ="2048.0" campId="0" floor="1" restBonus="False" worldMapSectionId="102">
+    <Fence pos="-15365.9736,27076.4121,7002.3193" />
+    <Fence pos="-30717.7539,23700.9063,8576.8174" />
+    <Fence pos="-30713.5625,-4874.2031,2440.5723" />
+    <Fence pos="-15361.3730,4061.1157,6598.7197" />
+  </Section>
+  <Section huntingZoneId="-1" priority="720" desTex="False" ignoreObstacleShortTel="False" nameId="72003" pcMoveCylinder="True" pk="false" ride="True" vender="False" addMaxZ="3000.0" subtractMinZ="5000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="103">
+    <Fence pos="-15361.92480469,-40205.61328125,4691.29101563" />
+    <Fence pos="-15360.24023438,-18288.02734375,4365.76904297" />
+    <Fence pos="-24929.83007813,-16217.97460938,5841.36083984" />
+    <Fence pos="-29592.86718750,-20102.92187500,6609.62695313" />
+    <Fence pos="-27060.66210938,-35627.02734375,5876.14013672" />
+  </Section>
+</Area>

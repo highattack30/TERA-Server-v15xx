@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="22">
+  <Template id="1" scale="1.35" size="medium" shapeId="300171" gender="male" race="doll" parentId="30017100" basicActionId="3001700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="18" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="10975" />
+  </Template>
+  <Template id="2" scale="0.9" size="small" shapeId="300170" gender="male" race="doll" parentId="30017000" basicActionId="3001700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="1601" />
+  </Template>
+  <Template id="3" scale="0.9" size="small" shapeId="300250" gender="male" race="RedCap" parentId="30025000" basicActionId="3002500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="905" />
+  </Template>
+  <Template id="4" scale="1.55" size="medium" shapeId="300340" gender="male" race="YoungCentaurs" parentId="30034000" basicActionId="3003400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="34" maxHp="6569" />
+  </Template>
+  <Template id="5" scale="0.9" size="small" shapeId="300250" gender="male" race="RedCap" parentId="30025000" basicActionId="3002500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="34" maxHp="876" />
+  </Template>
+  <Template id="6" scale="1.0" size="small" shapeId="300241" gender="female" race="Pixie" parentId="30024100" basicActionId="3002400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="34" maxHp="2392" />
+  </Template>
+  <Template id="7" scale="1.45" size="medium" shapeId="301040" gender="female" race="witch" parentId="30104000" basicActionId="3010400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="9528" />
+  </Template>
+  <Template id="8" scale="1.35" size="medium" shapeId="300171" gender="male" race="doll" parentId="30017100" basicActionId="3001700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="34" maxHp="6853" />
+  </Template>
+  <Template id="9" scale="1.45" size="medium" shapeId="300640" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064000" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="6317" />
+  </Template>
+  <Template id="10" scale="1.45" size="medium" shapeId="301040" gender="female" race="witch" parentId="30104000" basicActionId="3010400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="8695" />
+  </Template>
+  <Template id="11" scale="1.45" size="medium" shapeId="301041" gender="female" race="witch" parentId="30104100" basicActionId="3010400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="9287" />
+  </Template>
+  <Template id="12" scale="0.9" size="small" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019600" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="949" />
+  </Template>
+  <Template id="13" scale="1.55" size="medium" shapeId="300320" gender="female" race="VampirLady" resourceSize="100" resourceType="medium" parentId="30032000" basicActionId="3003200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="7654" />
+  </Template>
+  <Template id="14" scale="1.45" size="medium" shapeId="301041" gender="female" race="witch" parentId="30104100" basicActionId="3010400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="10252" />
+  </Template>
+  <Template id="15" scale="0.6" size="small" shapeId="301252" gender="male" race="BisqueDoll" resourceSize="100" resourceType="medium" parentId="30125200" basicActionId="3012500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="1158" />
+  </Template>
+  <Template id="16" scale="0.95" size="medium" shapeId="301070" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107000" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="55" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="12268" />
+  </Template>
+  <Template id="17" scale="0.9" size="small" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019600" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="949" />
+  </Template>
+  <Template id="18" scale="1.55" size="medium" shapeId="300320" gender="female" race="VampirLady" resourceSize="100" resourceType="medium" parentId="30032000" basicActionId="3003200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="12" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="9041" />
+  </Template>
+  <Template id="19" scale="1.45" size="medium" shapeId="300640" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064000" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="4881" />
+  </Template>
+  <Template id="20" scale="1.45" size="medium" shapeId="300641" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064100" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="4640" />
+  </Template>
+  <Template id="21" scale="1.45" size="medium" shapeId="300641" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064100" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="7121" />
+  </Template>
+  <Template id="22" scale="0.85" size="medium" shapeId="300731" gender="male" race="AbandonedAutomatedGuardian" resourceSize="100" resourceType="medium" parentId="30073100" basicActionId="3007300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="33" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="8961" />
+  </Template>
+  <Template id="23" scale="1.15" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095000" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="9339" />
+  </Template>
+  <Template id="24" scale="0.7" size="small" shapeId="300960" gender="male" race="BlackMarauder" resourceSize="100" resourceType="medium" parentId="30096000" basicActionId="3009600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="19" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="1021" />
+  </Template>
+  <Template id="25" scale="1.15" size="medium" shapeId="300950" gender="male" race="DarkMarauder" resourceSize="100" resourceType="medium" parentId="30095000" basicActionId="3009500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="24" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="13590" />
+  </Template>
+  <Template id="26" scale="0.95" size="medium" shapeId="301071" gender="male" race="ClownOfKillian" resourceSize="100" resourceType="medium" parentId="30107100" basicActionId="3010700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="54" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="18289" />
+  </Template>
+  <Template id="27" scale="0.8" size="small" shapeId="301170" gender="male" race="TorturedSouls" resourceSize="100" resourceType="medium" parentId="30117000" basicActionId="3011700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="13" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="1654" />
+  </Template>
+  <Template id="28" scale="1.4" size="medium" shapeId="300161" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016100" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="13101" />
+  </Template>
+  <Template id="29" scale="0.75" size="medium" shapeId="300883" gender="male" race="CraftyArachne" resourceSize="100" resourceType="medium" parentId="30189000" basicActionId="3008800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="88" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="6881" />
+  </Template>
+  <Template id="30" scale="1.3" size="medium" shapeId="300161" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016100" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="7" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="7121" />
+  </Template>
+  <Template id="31" scale="1.45" size="medium" shapeId="300640" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064000" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="14917" />
+  </Template>
+  <Template id="32" scale="0.9" size="small" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019600" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+    <Stat level="35" maxHp="1092" />
+  </Template>
+  <Template id="33" scale="1.45" size="medium" shapeId="301041" gender="female" race="witch" parentId="30104100" basicActionId="3010400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="14917" />
+  </Template>
+  <Template id="34" scale="0.9" size="small" shapeId="300196" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019600" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="36" maxHp="1174" />
+  </Template>
+  <Template id="35" scale="0.95" size="medium" shapeId="300883" gender="male" race="CraftyArachne" resourceSize="100" resourceType="medium" parentId="30189000" basicActionId="3008800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="104" deathNameplateHeight="0" />
+    <Stat level="37" maxHp="9905" />
+  </Template>
+  <Template id="36" scale="1.5" size="medium" shapeId="300161" gender="male" race="DevaShaman" resourceSize="100" resourceType="medium" parentId="30016100" basicActionId="3001600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="6" deathNameplateHeight="0" />
+    <Stat level="37" maxHp="9905" />
+  </Template>
+  <Template id="99" scale="1.2" size="medium" shapeId="300210" gender="male" race="KilliansServant" resourceSize="100" resourceType="medium" parentId="30021000" basicActionId="3002100" elite="False" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="24" deathNameplateHeight="0" />
+    <Stat level="37" maxHp="10766" />
+  </Template>
+  <Template id="1501" class="" scale="0.625" size="medium" shapeId="600920" gender="male" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="5007" class="" scale="0.3" size="medium" shapeId="600460" race="object" resourceSize="200" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="6004600" collideOnMove="True" dontTurn="True" elite="False" invincible="True" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="True" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+</NpcData>

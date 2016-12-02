@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="45">
+  <Template id="1001" scale="1.1" size="small" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090000" basicActionId="3009000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="45" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="14258" />
+  </Template>
+  <Template id="1002" scale="1.0" size="medium" shapeId="300711" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071100" basicActionId="3007100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="30" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="81286" />
+  </Template>
+  <Template id="1003" scale="0.9" size="medium" shapeId="300512" gender="male" race="HoundMaligoth" resourceSize="100" resourceType="medium" parentId="30051000" basicActionId="3005100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="2001" scale="1.6" size="medium" shapeId="300367" gender="male" race="BloodCreature" resourceSize="100" resourceType="medium" parentId="30036000" basicActionId="3003600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="2002" scale="1.4" size="medium" shapeId="300186" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018400" basicActionId="3001800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="2003" scale="1.3" size="medium" shapeId="300185" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018000" basicActionId="3001800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="55" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="3001" scale="1.25" size="medium" shapeId="301373" gender="male" race="Archer_Darker" resourceSize="100" resourceType="medium" parentId="30137200" basicActionId="3013700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="3002" scale="1.2" size="medium" shapeId="301415" gender="male" race="Warrior_Darker" resourceSize="100" resourceType="medium" parentId="30141200" basicActionId="3014100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="3003" scale="1.1" size="medium" shapeId="300904" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090400" basicActionId="3009000" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="46" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="86367" />
+  </Template>
+  <Template id="3004" scale="1.5" size="medium" shapeId="300091" gender="male" race="Pollutedwolf" resourceSize="100" resourceType="medium" parentId="30009100" basicActionId="3000900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="46" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="4001" scale="0.8" size="large" shapeId="300685" gender="male" race="YuantiWarleader" resourceSize="100" resourceType="large" parentId="30068300" basicActionId="3006800" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="98" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="2805494" />
+  </Template>
+  <Template id="4002" scale="1.7" size="medium" shapeId="300193" gender="male" race="HookaFootman" resourceSize="100" resourceType="small" parentId="30019300" basicActionId="3001900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="59" maxHp="86367" />
+  </Template>
+  <Template id="4003" scale="1.3" size="medium" shapeId="300181" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018100" basicActionId="3001800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="4004" scale="0.8" size="medium" shapeId="301312" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131200" basicActionId="3013100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="101608" />
+  </Template>
+  <Template id="4005" scale="1.3" size="large" shapeId="301940" gender="male" race="GiantBird" resourceSize="100" resourceType="large" parentId="30194000" basicActionId="3019400" elite="True" invincible="False" isFreeNamed="True" isObjectNpc="False" showAggroTarget="True" showShorttermTarget="True" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="100" deathNameplateHeight="0" />
+    <AltAnimation>
+      <AltAnim type="Run" altAnimName="activeMove_Loop" />
+    </AltAnimation>
+    <Stat level="60" maxHp="4559181" />
+  </Template>
+  <Template id="5007" scale="1.0" size="medium" shapeId="300711" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="small" parentId="30071100" basicActionId="3007100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="15" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="5008" scale="1.0" size="medium" shapeId="300185" gender="male" race="HookaChieftain_Argonite_Half" resourceSize="100" resourceType="medium" parentId="30018500" basicActionId="3001800" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="38" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="5009" scale="0.9" size="medium" shapeId="301312" gender="male" race="WendigoWarrior" resourceSize="100" resourceType="medium" parentId="30131200" basicActionId="3013100" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" unionElite="False" villager="False">
+    <NamePlate nameplateHeight="33" />
+    <AltAnimation />
+    <Stat level="35" maxHp="136504" />
+  </Template>
+  <Template id="6001" scale="2.0" size="medium" shapeId="300181" gender="male" race="HookaCaptain" resourceSize="100" resourceType="medium" parentId="30018100" basicActionId="3001800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="65" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="116849" />
+  </Template>
+  <Template id="6002" scale="1.4" size="medium" shapeId="300982" gender="male" race="Argon" resourceSize="0" resourceType="" isWideBroadcaster="True" parentId="30098000" basicActionId="3009800" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="40" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="116849" />
+  </Template>
+  <Template id="7001" scale="1.0" size="medium" shapeId="700170" gender="male" race="NPC_FlashArgonTenTacle" resourceSize="100" resourceType="medium" parentId="70017000" basicActionId="7001700" deathShapeId="700171" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="-35" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7002" scale="1.0" size="medium" shapeId="700120" gender="male" race="NPC_ArgonFieldlnhaler" resourceSize="100" resourceType="medium" parentId="70012000" basicActionId="7001200" deathShapeId="700121" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="-20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7003" scale="1.0" size="medium" shapeId="700120" gender="male" race="NPC_ArgonFieldlnhaler" resourceSize="100" resourceType="medium" parentId="70012000" basicActionId="7001200" deathShapeId="700121" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="-20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7004" scale="1.0" size="medium" shapeId="700140" gender="male" race="NPC_DestructArgonWall" resourceSize="100" resourceType="medium" parentId="70014000" basicActionId="7001400" deathShapeId="700141" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="-20" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7005" scale="1.0" size="medium" shapeId="600840" race="" resourceSize="0" resourceType="" parentId="60084000" basicActionId="6008400" deathShapeId="600841" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7006" class="" scale="0.4" size="medium" shapeId="720200" race="object" resourceSize="100" resourceType="medium" isWideBroadcaster="False" despawnScriptId="0" basicActionId="7202000" collideOnMove="False" deathShapeId="720201" dontTurn="True" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="False" showAggroTarget="False" showShorttermTarget="False" spawnScriptId="0" villager="False" villagerVolumeActiveRange="0.0" villagerVolumeHalfHeight="0.0" villagerVolumeInteractionDist="0.0" villagerVolumeOffset="">
+    <NamePlate nameplateHeight="180" deathNameplateHeight="0" />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+  <Template id="7100" scale="1.0" size="medium" shapeId="600840" race="" resourceSize="0" resourceType="" parentId="60084000" basicActionId="6008400" deathShapeId="600841" elite="False" invincible="False" isFreeNamed="False" isObjectNpc="True" showAggroTarget="False" showShorttermTarget="False" villager="False">
+    <AltAnimation />
+    <Stat level="59" maxHp="25402" />
+  </Template>
+</NpcData>

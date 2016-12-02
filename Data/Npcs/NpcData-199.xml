@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="423">
+  <Template id="1001" class="" scale="0.625" size="medium" shapeId="600920" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1002" class="" scale="1.0" size="medium" shapeId="300690" race="Monster" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="3006900" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="105" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="1003" class="" scale="1.0" size="medium" shapeId="600400" race="object" resourceSize="100" resourceType="medium" despawnScriptId="0" basicActionId="200010" collideOnMove="True" dontTurn="True" invincible="True" isObjectNpc="False" spawnScriptId="0" villager="True">
+    <NamePlate nameplateHeight="1" deathNameplateHeight="0" />
+    <Stat level="40" maxHp="10000" />
+  </Template>
+  <Template id="6001" scale="1.25" size="medium" shapeId="300060" gender="male" race="ManEater" resourceSize="100" resourceType="medium" parentId="30006000" basicActionId="3000600" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="11" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="10710" />
+  </Template>
+  <Template id="6002" scale="0.7" size="small" shapeId="300381" gender="male" race="animal" parentId="30038100" basicActionId="3003800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="15" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="925" />
+  </Template>
+  <Template id="6003" scale="1.45" size="medium" shapeId="300642" gender="male" race="DarkWitchMaster" resourceSize="100" resourceType="medium" parentId="30064200" basicActionId="3006400" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="33" maxHp="11613" />
+  </Template>
+  <Template id="6004" scale="1.25" size="medium" shapeId="300372" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037200" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="32" maxHp="7219" />
+  </Template>
+</NpcData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="44">
+  <Template id="1001" scale="1.2" size="medium" shapeId="301330" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133000" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="1002" scale="1.0" size="medium" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090000" basicActionId="3009000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="1003" scale="1.0" size="medium" shapeId="300900" gender="male" race="Argon" resourceSize="100" resourceType="small" parentId="30090000" basicActionId="3009000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="1004" scale="1.0" size="small" shapeId="301820" gender="male" race="BlackPig" parentId="30182000" basicActionId="3018200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91" />
+  </Template>
+  <Template id="1005" scale="1.0" size="large" shapeId="300800" gender="male" race="Argon" resourceSize="100" resourceType="large" parentId="30080001" basicActionId="3008000" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="61" maxHp="3274285" />
+  </Template>
+  <Template id="1006" scale="1.0" size="large" shapeId="300800" gender="male" race="Argon" resourceSize="100" resourceType="large" parentId="30080001" basicActionId="3008000" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="62" maxHp="3526682" />
+  </Template>
+  <Template id="2001" scale="1.4" size="medium" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" parentId="30097000" basicActionId="3009700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="2002" scale="1.4" size="medium" shapeId="300970" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" parentId="30097000" basicActionId="3009700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="98414" />
+  </Template>
+  <Template id="2003" scale="1.4" size="medium" shapeId="300971" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" parentId="30097100" basicActionId="3009700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="2004" scale="1.4" size="medium" shapeId="300971" gender="male" race="KalanHeavyWarrior" resourceSize="100" resourceType="medium" parentId="30097100" basicActionId="3009700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="98414" />
+  </Template>
+  <Template id="2005" scale="1.0" size="small" shapeId="301820" gender="male" race="BlackPig" parentId="30182000" basicActionId="3018200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91" />
+  </Template>
+  <Template id="2006" scale="1.0" size="large" shapeId="300801" gender="male" race="Argon" resourceSize="100" resourceType="large" parentId="30080100" basicActionId="3008000" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="61" maxHp="3274285" />
+  </Template>
+  <Template id="2007" scale="1.0" size="large" shapeId="300802" gender="male" race="Argon" resourceSize="100" resourceType="large" parentId="30080200" basicActionId="3008000" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <Stat level="62" maxHp="3526682" />
+  </Template>
+  <Template id="3001" scale="1.2" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="3002" scale="1.2" size="medium" shapeId="301331" gender="male" race="ArgoniteShamalanBattleOracle" resourceSize="100" resourceType="medium" parentId="30133100" basicActionId="3013300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="98414" />
+  </Template>
+  <Template id="3003" scale="1.0" size="medium" shapeId="301750" gender="male" race="ArgoniteGiant" resourceSize="100" resourceType="medium" parentId="30175000" basicActionId="3017500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="3004" scale="1.0" size="medium" shapeId="301750" gender="male" race="ArgoniteGiant" resourceSize="100" resourceType="medium" parentId="30175000" basicActionId="3017500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="98414" />
+  </Template>
+  <Template id="3005" scale="1.0" size="medium" shapeId="301770" gender="male" race="ArgoniteFemaleMagician" resourceType="medium" parentId="30177000" basicActionId="3017700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91545" />
+  </Template>
+  <Template id="3006" scale="1.0" size="small" shapeId="301810" gender="male" race="WormFlower_ANI" parentId="30181000" basicActionId="3018100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="60" maxHp="91" />
+  </Template>
+  <Template id="3007" scale="1.0" size="medium" shapeId="301770" gender="male" race="ArgoniteFemaleMagician" resourceType="medium" parentId="30177000" basicActionId="3017700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="98414" />
+  </Template>
+  <Template id="5001" scale="0.9" size="medium" shapeId="300981" gender="male" race="Argon" parentId="30098100" basicActionId="3009800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="62" maxHp="121654" />
+  </Template>
+  <Template id="5002" scale="1.0" size="medium" shapeId="301780" gender="male" race="GuardCube" resourceType="medium" parentId="30178000" basicActionId="3017800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="61" maxHp="113177" />
+  </Template>
+  <Template id="5003" scale="0.9" size="medium" shapeId="300980" gender="male" race="Argon" parentId="30098000" basicActionId="3009800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <Stat level="62" maxHp="121654" />
+  </Template>
+</NpcData>

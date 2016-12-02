@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="114" areaName="BF_03_P" nameId="114001" ride="True" worldMapGuardId="60" worldMapWorldId="8888">
+  <Section huntingZoneId="-1" priority="5" desTex="False" nameId="114001" pcMoveCylinder="True" pk="safe" ride="True" vender="False" addMaxZ="500.0" subtractMinZ="1000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="904">
+    <Fence pos="19373.8379,66427.9609,7569.6494" />
+    <Fence pos="20204.8633,72007.6484,4549.2129" />
+    <Fence pos="19248.2070,79723.0000,4772.3037" />
+    <Fence pos="17170.8730,83952.5547,4821.6992" />
+    <Fence pos="15351.4219,92141.0000,10945.6172" />
+    <Fence pos="10450.7383,102840.4375,9536.5566" />
+    <Fence pos="8082.5850,105968.2031,10373.3398" />
+    <Fence pos="4342.0928,103351.5547,10739.9590" />
+    <Fence pos="18.5607,92134.8125,10165.7188" />
+    <Fence pos="-3868.8508,81548.0000,4984.3271" />
+    <Fence pos="-3976.4861,73980.5234,4429.6831" />
+    <Fence pos="-3663.6890,70587.5391,4827.9341" />
+    <Fence pos="10.0381,61463.8945,8075.3135" />
+    <Fence pos="4134.8003,60869.8594,2847.9238" />
+  </Section>
+</Area>

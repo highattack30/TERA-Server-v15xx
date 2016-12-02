@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9037" areaName="ATW_Death_P" nameId="201" ride="True" worldMapGuardId="2" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="13" desTex="False" ignoreObstacleShortTel="False" nameId="9037001" pcMoveCylinder="True" pk="safe" ride="True" vender="False" addMaxZ="1000.0" subtractMinZ="2000.0" campId="0" floor="1" maze="False" restBonus="False" worldMapSectionId="9037">
+    <Fence pos="63481.54296875,-69606.17968750,-3962.53173828" />
+    <Fence pos="63965.45312500,-63821.35546875,-4136.31054688" />
+    <Fence pos="57952.33593750,-67640.55468750,-5095.27099609" />
+    <Fence pos="58746.00390625,-70831.10937500,-5753.47363281" />
+  </Section>
+</Area>

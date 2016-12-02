@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NpcData huntingZoneId="41">
+  <Template id="101" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065001" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="35" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="27617" />
+  </Template>
+  <Template id="102" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065000" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="36" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="27617" />
+  </Template>
+  <Template id="301" scale="1.62" size="medium" shapeId="300370" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="27617" />
+  </Template>
+  <Template id="302" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="43837" />
+  </Template>
+  <Template id="303" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="23" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="43837" />
+  </Template>
+  <Template id="1001" scale="1.26" size="medium" shapeId="300070" gender="male" race="Mantiscore" resourceSize="100" resourceType="medium" parentId="30007000" basicActionId="3000700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="21" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="1002" scale="1.74" size="medium" shapeId="300100" gender="male" race="Qamara" resourceSize="100" resourceType="medium" parentId="30010002" basicActionId="3001000" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="52" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="1003" scale="1.62" size="medium" shapeId="300020" gender="male" race="ShadowCougar" resourceSize="100" resourceType="medium" parentId="30002002" basicActionId="3000200" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="2001" scale="1.15" size="large" shapeId="300820" gender="male" race="GiantTula" resourceSize="100" resourceType="medium" parentId="30082002" basicActionId="3008200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="255034" />
+  </Template>
+  <Template id="2002" scale="1.62" size="medium" shapeId="300371" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037001" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="25" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="33523" />
+  </Template>
+  <Template id="2003" scale="0.6" size="small" shapeId="300710" gender="male" race="OrcanMinimi" resourceSize="100" resourceType="medium" parentId="30071001" basicActionId="3007100" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="3771" />
+  </Template>
+  <Template id="2004" scale="0.24" size="medium" shapeId="300650" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065001" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="2005" scale="0.24" size="medium" shapeId="300650" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065000" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="2006" scale="1.62" size="medium" shapeId="300370" gender="male" race="GulaChef" resourceSize="200" resourceType="medium" parentId="30037003" basicActionId="3003700" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="17" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="33523" />
+  </Template>
+  <Template id="2008" scale="1.74" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129002" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="2009" scale="1.74" size="medium" shapeId="301290" gender="male" race="PygmytulaMiss" resourceSize="100" resourceType="medium" parentId="30129000" basicActionId="3012900" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="3001" scale="1.15" size="large" shapeId="300822" gender="male" race="GiantTula" resourceSize="100" resourceType="medium" parentId="30082002" basicActionId="3008200" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="80" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="255034" />
+  </Template>
+  <Template id="3002" scale="1.74" size="medium" shapeId="301280" gender="male" race="Pygmytula" resourceSize="100" resourceType="medium" parentId="30128000" basicActionId="3012800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="73" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="3003" scale="1.74" size="medium" shapeId="301280" gender="male" race="Pygmytula" resourceSize="100" resourceType="medium" parentId="30128002" basicActionId="3012800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="74" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="3004" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065001" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="3005" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065200" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="19821" />
+  </Template>
+  <Template id="3006" scale="0.24" size="medium" shapeId="300652" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065200" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="36" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="33523" />
+  </Template>
+  <Template id="4001" scale="0.95" size="large" shapeId="300810" gender="male" race="Basilisk" resourceSize="100" resourceType="medium" parentId="30081001" basicActionId="3008100" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="99" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="255034" />
+  </Template>
+  <Template id="4002" scale="1.15" size="large" shapeId="300690" gender="male" race="FrostGiantJarl" resourceSize="100" resourceType="large" parentId="30069002" basicActionId="3006900" elite="True" isFreeNamed="False" showAggroTarget="True" showShorttermTarget="True">
+    <NamePlate nameplateHeight="120" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="255034" />
+  </Template>
+  <Template id="4004" scale="0.24" size="medium" shapeId="300651" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065100" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="4005" scale="0.24" size="medium" shapeId="300651" gender="male" race="OrcanPirate" resourceSize="100" resourceType="medium" parentId="30065100" basicActionId="3006500" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="24015" />
+  </Template>
+  <Template id="4009" scale="0.7" size="small" shapeId="300380" gender="male" race="animal" parentId="30038000" basicActionId="3003800" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="9" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="4324" />
+  </Template>
+  <Template id="4010" scale="0.7" size="small" shapeId="301030" gender="male" race="PirateSynuuth" resourceSize="100" resourceType="medium" parentId="30103002" basicActionId="3010300" elite="False" isFreeNamed="False" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="14" deathNameplateHeight="0" />
+    <Stat level="46" maxHp="4827" />
+  </Template>
+  <Template id="9001" scale="0.21" size="medium" shapeId="300655" gender="male" race="Orcan" resourceSize="100" resourceType="medium" parentId="30065000" basicActionId="3006500" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="140583" />
+  </Template>
+  <Template id="9002" scale="1.0" size="small" shapeId="301631" gender="male" race="Gorilla" parentId="30163000" basicActionId="3016300" elite="True" isFreeNamed="True" showAggroTarget="False" showShorttermTarget="False">
+    <NamePlate nameplateHeight="16" deathNameplateHeight="0" />
+    <Stat level="47" maxHp="14395" />
+  </Template>
+</NpcData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9038" areaName="AEN_C_Quest_P" nameId="206" ride="False" worldMapGuardId="6" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9038001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="3000.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9038">
+    <Fence pos="61762.8281,-24542.2441,1816.0771" />
+    <Fence pos="61809.7617,-27721.5664,667.2764" />
+    <Fence pos="64476.2930,-30153.0371,2404.5273" />
+    <Fence pos="69192.9766,-29769.3203,2495.5010" />
+    <Fence pos="68355.9766,-27402.9102,1083.9365" />
+    <Fence pos="69037.6563,-25227.2383,1289.9814" />
+    <Fence pos="67222.0234,-22514.9824,2112.7764" />
+    <Fence pos="64462.4023,-21944.8047,1911.7051" />
+  </Section>
+</Area>

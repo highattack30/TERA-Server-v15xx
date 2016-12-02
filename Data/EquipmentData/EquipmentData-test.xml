@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentData>
+<Equipment equipmentId="10194450" balance="0" countOfSlot="4" def="0" impact="46576" maxAtk="11124" minAtk="11124" passivityLinkG="210907" />
+ <Equipment equipmentId="10152400" balance="0" countOfSlot="4" def="0" impact="3045" maxAtk="1460" minAtk="1460" passivityLinkG="210905" />
+  <Equipment equipmentId="10153400" balance="0" countOfSlot="4" def="0" impact="3349" maxAtk="1561" minAtk="1561" passivityLinkG="210905" />
+ <Equipment equipmentId="10153100" balance="0" countOfSlot="2" def="0" impact="1791" maxAtk="1289" minAtk="1289" passivityLinkG="210605" />
+  <Equipment equipmentId="10157450" balance="0" countOfSlot="4" def="0" impact="5148" maxAtk="1829" minAtk="1829" passivityLinkG="210905" />
+<Equipment equipmentId="22184400" balance="18799" countOfSlot="4" def="4384" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192380" />
+<Equipment equipmentId="22287450" balance="14599" countOfSlot="0" def="3995" impact="0" maxAtk="0" minAtk="0" part="HAND" passivityLinkG="220202" />
+  <Equipment equipmentId="22288400" balance="14672" countOfSlot="0" def="4105" impact="0" maxAtk="0" minAtk="0" part="HAND" passivityLinkG="220202" />
+ <Equipment equipmentId="22176450" balance="14110" countOfSlot="4" def="2895" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192375" />
+ <Equipment equipmentId="22177400" balance="14782" countOfSlot="4" def="2974" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192376" />
+<Equipment equipmentId="22287450" balance="14599" countOfSlot="0" def="3995" impact="0" maxAtk="0" minAtk="0" part="HAND" passivityLinkG="220202" />
+ <Equipment equipmentId="22291400" balance="15117" countOfSlot="0" def="4847" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22291450" balance="15192" countOfSlot="0" def="4985" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22292400" balance="15268" countOfSlot="0" def="5123" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22292450" balance="15344" countOfSlot="0" def="5269" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22293400" balance="15421" countOfSlot="0" def="5415" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22293450" balance="15498" countOfSlot="0" def="5569" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22294400" balance="15575" countOfSlot="0" def="5724" impact="0" maxAtk="0" minAtk="0" part="HAND" />
+  <Equipment equipmentId="22294450" balance="15652" countOfSlot="0" def="5887" impact="0" maxAtk="0" minAtk="0" part="HAND" passivityLinkG="220202" />
+ <Equipment equipmentId="22386450" balance="14455" countOfSlot="0" def="3779" impact="0" maxAtk="0" minAtk="0" part="FEET" passivityLinkG="220303" />
+ <Equipment equipmentId="22390450" balance="15042" countOfSlot="0" def="4717" impact="0" maxAtk="0" minAtk="0" part="FEET" />
+
+<Equipment equipmentId="22191400" balance="20156" countOfSlot="4" def="6463" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192380"/>
+<Equipment equipmentId="10202100" balance="0" countOfSlot="2" def="0" impact="14" maxAtk="39" minAtk="39" passivityLinkG="210600"/>
+<Equipment equipmentId="10302100" balance="0" countOfSlot="2" def="0" impact="15" maxAtk="50" minAtk="50" passivityLinkG="210100"/>
+<Equipment equipmentId="22302100" balance="4" countOfSlot="0" def="9" impact="0" maxAtk="0" minAtk="0" part="FEET"/>
+<Equipment equipmentId="22302150" balance="4" countOfSlot="0" def="10" impact="0" maxAtk="0" minAtk="0" part="FEET"/>
+<Equipment equipmentId="22202100" balance="4" countOfSlot="0" def="9" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="22202150" balance="4" countOfSlot="0" def="10" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="22102100" balance="6" countOfSlot="2" def="12" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22102150" balance="6" countOfSlot="2" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22102200" balance="7" countOfSlot="3" def="14" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192101"/>
+<Equipment equipmentId="22102250" balance="7" countOfSlot="3" def="15" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192101"/>
+<Equipment equipmentId="22102300" balance="9" countOfSlot="3" def="16" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192201"/>
+<Equipment equipmentId="22102350" balance="9" countOfSlot="3" def="17" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192201"/>
+<Equipment equipmentId="22101250" balance="7" countOfSlot="3" def="14" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192100"/>
+<Equipment equipmentId="22101300" balance="8" countOfSlot="3" def="15" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192200"/>
+<Equipment equipmentId="22101350" balance="9" countOfSlot="3" def="16" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192200"/>
+<Equipment equipmentId="22101400" balance="10" countOfSlot="4" def="16" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192300"/>
+<Equipment equipmentId="22101450" balance="11" countOfSlot="4" def="17" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192300"/>
+<Equipment equipmentId="22101500" balance="5" countOfSlot="3" def="11" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192000"/>
+<Equipment equipmentId="22101550" balance="6" countOfSlot="3" def="12" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192000"/>
+<Equipment equipmentId="22102100" balance="6" countOfSlot="2" def="12" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22102150" balance="6" countOfSlot="2" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22102200" balance="7" countOfSlot="3" def="14" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192101"/>
+<Equipment equipmentId="22102250" balance="7" countOfSlot="3" def="15" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192101"/>
+<Equipment equipmentId="22102300" balance="9" countOfSlot="3" def="16" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192201"/>
+<Equipment equipmentId="22102350" balance="9" countOfSlot="3" def="17" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192201"/>
+<Equipment equipmentId="22102400" balance="11" countOfSlot="4" def="18" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192301"/>
+<Equipment equipmentId="22102450" balance="11" countOfSlot="4" def="19" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192301"/>
+<Equipment equipmentId="22102500" balance="6" countOfSlot="3" def="12" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22102550" balance="6" countOfSlot="3" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192001"/>
+<Equipment equipmentId="22103100" balance="6" countOfSlot="2" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192002"/>
+<Equipment equipmentId="22103150" balance="6" countOfSlot="2" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192002"/>
+<Equipment equipmentId="22103200" balance="8" countOfSlot="3" def="15" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192102"/>
+<Equipment equipmentId="22103250" balance="9" countOfSlot="3" def="15" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192102"/>
+<Equipment equipmentId="22103300" balance="10" countOfSlot="3" def="17" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192202"/>
+<Equipment equipmentId="22103350" balance="10" countOfSlot="3" def="17" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192202"/>
+<Equipment equipmentId="22103400" balance="12" countOfSlot="4" def="19" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192302"/>
+<Equipment equipmentId="22103450" balance="13" countOfSlot="4" def="19" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192302"/>
+<Equipment equipmentId="22103500" balance="6" countOfSlot="3" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192002"/>
+<Equipment equipmentId="22103550" balance="6" countOfSlot="3" def="13" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192002"/>
+<Equipment equipmentId="22104100" balance="7" countOfSlot="2" def="14" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192003"/>
+<Equipment equipmentId="22104150" balance="7" countOfSlot="2" def="14" impact="0" maxAtk="0" minAtk="0" part="BODY" passivityLinkG="192003"/>
+<Equipment equipmentId="23288450" balance="12534" countOfSlot="0" def="2412" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23289400" balance="12596" countOfSlot="0" def="2479" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23289450" balance="12659" countOfSlot="0" def="2549" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23290400" balance="12722" countOfSlot="0" def="2621" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23290450" balance="12786" countOfSlot="0" def="2695" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23291400" balance="12849" countOfSlot="0" def="2770" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23291450" balance="12914" countOfSlot="0" def="2849" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23292400" balance="12978" countOfSlot="0" def="2928" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23292450" balance="13042" countOfSlot="0" def="3011" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23293400" balance="13107" countOfSlot="0" def="3094" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23293450" balance="13173" countOfSlot="0" def="3182" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="23294400" balance="13238" countOfSlot="0" def="3271" impact="0" maxAtk="0" minAtk="0" part="HAND"/>
+<Equipment equipmentId="10179550" balance="0" countOfSlot="3" def="0" impact="21453" maxAtk="4793" minAtk="4793" passivityLinkG="211007"/>
+<Equipment equipmentId="10180100" balance="0" countOfSlot="2" def="0" impact="21560" maxAtk="4910" minAtk="4910" passivityLinkG="210607"/>
+<Equipment equipmentId="10180200" balance="0" countOfSlot="3" def="0" impact="26950" maxAtk="5020" minAtk="5020" passivityLinkG="210707"/>
+<Equipment equipmentId="10180300" balance="0" countOfSlot="3" def="0" impact="32340" maxAtk="5374" minAtk="5374" passivityLinkG="210807"/>
+<Equipment equipmentId="10180400" balance="0" countOfSlot="4" def="0" impact="40318" maxAtk="5482" minAtk="5482" passivityLinkG="210907"/>
+<Equipment equipmentId="10180450" balance="0" countOfSlot="4" def="0" impact="40518" maxAtk="5618" minAtk="5618" passivityLinkG="210907"/>
+<Equipment equipmentId="10180500" balance="0" countOfSlot="3" def="0" impact="21560" maxAtk="4910" minAtk="4910" passivityLinkG="211007"/>
+<Equipment equipmentId="10181400" balance="0" countOfSlot="4" def="0" impact="40721" maxAtk="5756" minAtk="5756" passivityLinkG="210907"/>
+<Equipment equipmentId="10181450" balance="0" countOfSlot="4" def="0" impact="40923" maxAtk="5899" minAtk="5899" passivityLinkG="210907"/>
+<Equipment equipmentId="10182400" balance="0" countOfSlot="4" def="0" impact="41128" maxAtk="6042" minAtk="6042" passivityLinkG="210907"/>
+<Equipment equipmentId="10182450" balance="0" countOfSlot="4" def="0" impact="41334" maxAtk="6193" minAtk="6193" passivityLinkG="210907"/>
+<Equipment equipmentId="10183400" balance="0" countOfSlot="4" def="0" impact="41540" maxAtk="6345" minAtk="6345" passivityLinkG="210907"/>
+<Equipment equipmentId="10183450" balance="0" countOfSlot="4" def="0" impact="41748" maxAtk="6503" minAtk="6503" passivityLinkG="210907"/>
+<Equipment equipmentId="10184400" balance="0" countOfSlot="4" def="0" impact="41956" maxAtk="6661" minAtk="6661" passivityLinkG="210907"/>
+<Equipment equipmentId="10184401" balance="0" countOfSlot="4" def="0" impact="42375" maxAtk="6727" minAtk="6727" passivityLinkG="210907"/>
+<Equipment equipmentId="10184402" balance="0" countOfSlot="4" def="0" impact="42795" maxAtk="6794" minAtk="6794" passivityLinkG="210907"/>
+<Equipment equipmentId="10184450" balance="0" countOfSlot="4" def="0" impact="42165" maxAtk="6829" minAtk="6829" passivityLinkG="210907"/>
+<Equipment equipmentId="10185400" balance="0" countOfSlot="4" def="0" impact="42375" maxAtk="6995" minAtk="6995" passivityLinkG="210907"/>
+<Equipment equipmentId="10185401" balance="0" countOfSlot="4" def="0" impact="42798" maxAtk="7064" minAtk="7064" passivityLinkG="210907"/>
+<Equipment equipmentId="10185402" balance="0" countOfSlot="4" def="0" impact="43222" maxAtk="7134" minAtk="7134" passivityLinkG="210907"/>
+<Equipment equipmentId="10185450" balance="0" countOfSlot="4" def="0" impact="42586" maxAtk="7170" minAtk="7170" passivityLinkG="210907"/>
+<Equipment equipmentId="10186400" balance="0" countOfSlot="4" def="0" impact="42799" maxAtk="7345" minAtk="7345" passivityLinkG="210907"/>
+<Equipment equipmentId="10186450" balance="0" countOfSlot="4" def="0" impact="43013" maxAtk="7529" minAtk="7529" passivityLinkG="210907"/>
+<Equipment equipmentId="10187400" balance="0" countOfSlot="4" def="0" impact="43228" maxAtk="7713" minAtk="7713" passivityLinkG="210907"/>
+<Equipment equipmentId="10187450" balance="0" countOfSlot="4" def="0" impact="43443" maxAtk="7906" minAtk="7906" passivityLinkG="210907"/>
+<Equipment equipmentId="10188400" balance="0" countOfSlot="4" def="0" impact="43659" maxAtk="8099" minAtk="8099" passivityLinkG="210907"/>
+<Equipment equipmentId="10188450" balance="0" countOfSlot="4" def="0" impact="43878" maxAtk="8300" minAtk="8300" passivityLinkG="210907"/>
+<Equipment equipmentId="10188470" balance="0" countOfSlot="4" def="0" impact="43966" maxAtk="8383" minAtk="8383" passivityLinkG="210907"/>
+<Equipment equipmentId="10189400" balance="0" countOfSlot="4" def="0" impact="44096" maxAtk="8501" minAtk="8501" passivityLinkG="210907"/>
+<Equipment equipmentId="10189450" balance="0" countOfSlot="4" def="0" impact="44317" maxAtk="8713" minAtk="8713" passivityLinkG="210907"/>
+<Equipment equipmentId="10190400" balance="0" countOfSlot="4" def="0" impact="44537" maxAtk="8927" minAtk="8927" passivityLinkG="210907"/>
+<Equipment equipmentId="10190450" balance="0" countOfSlot="4" def="0" impact="44761" maxAtk="9150" minAtk="9150" passivityLinkG="210907"/>
+<Equipment equipmentId="10191400" balance="0" countOfSlot="4" def="0" impact="44983" maxAtk="9373" minAtk="9373" passivityLinkG="210907"/>
+<Equipment equipmentId="10191450" balance="0" countOfSlot="4" def="0" impact="45208" maxAtk="9608" minAtk="9608" passivityLinkG="210907"/>
+<Equipment equipmentId="10192400" balance="0" countOfSlot="4" def="0" impact="45432" maxAtk="9842" minAtk="9842" passivityLinkG="210907"/>
+<Equipment equipmentId="10192450" balance="0" countOfSlot="4" def="0" impact="45660" maxAtk="10089" minAtk="10089" passivityLinkG="210907"/>
+<Equipment equipmentId="10193400" balance="0" countOfSlot="4" def="0" impact="45887" maxAtk="10335" minAtk="10335" passivityLinkG="210907"/>
+<Equipment equipmentId="10193450" balance="0" countOfSlot="4" def="0" impact="46116" maxAtk="10594" minAtk="10594" passivityLinkG="210907"/>
+<Equipment equipmentId="10194400" balance="0" countOfSlot="4" def="0" impact="46345" maxAtk="10853" minAtk="10853" passivityLinkG="210907"/>
+<Equipment equipmentId="10194450" balance="0" countOfSlot="4" def="0" impact="46576" maxAtk="11124" minAtk="11124" passivityLinkG="210907"/>
+<Equipment equipmentId="10195400" balance="0" countOfSlot="4" def="0" impact="46809" maxAtk="11395" minAtk="11395" passivityLinkG="210907"/>
+<Equipment equipmentId="10195450" balance="0" countOfSlot="4" def="0" impact="47042" maxAtk="11680" minAtk="11680" passivityLinkG="210907"/>
+<Equipment equipmentId="10196400" balance="0" countOfSlot="4" def="0" impact="47276" maxAtk="11965" minAtk="11965" passivityLinkG="210907"/>
+<Equipment equipmentId="10196450" balance="0" countOfSlot="4" def="0" impact="47512" maxAtk="12264" minAtk="12264" passivityLinkG="210907"/>
+<Equipment equipmentId="10197400" balance="0" countOfSlot="4" def="0" impact="47749" maxAtk="12562" minAtk="12562" passivityLinkG="210907"/>
+<Equipment equipmentId="10197450" balance="0" countOfSlot="4" def="0" impact="47987" maxAtk="12876" minAtk="12876" passivityLinkG="210907"/>
+<Equipment equipmentId="10198400" balance="0" countOfSlot="4" def="0" impact="48227" maxAtk="13190" minAtk="13190" passivityLinkG="210907"/>
+<Equipment equipmentId="10198450" balance="0" countOfSlot="4" def="0" impact="48466" maxAtk="13520" minAtk="13520" passivityLinkG="210907"/>
+<Equipment equipmentId="10199400" balance="0" countOfSlot="4" def="0" impact="48708" maxAtk="13851" minAtk="13851" passivityLinkG="210907"/>
+<Equipment equipmentId="10199450" balance="0" countOfSlot="4" def="0" impact="48951" maxAtk="14198" minAtk="14198" passivityLinkG="210907"/>
+<Equipment equipmentId="10291400" balance="0" countOfSlot="4" def="0" impact="47350" maxAtk="8595" minAtk="8595" passivityLinkG="210907"/>
+<Equipment equipmentId="10291450" balance="0" countOfSlot="4" def="0" impact="47588" maxAtk="8810" minAtk="8810" passivityLinkG="210907"/>
+<Equipment equipmentId="10292400" balance="0" countOfSlot="4" def="0" impact="47823" maxAtk="9025" minAtk="9025" passivityLinkG="210907"/>
+<Equipment equipmentId="10292450" balance="0" countOfSlot="4" def="0" impact="48063" maxAtk="9252" minAtk="9252" passivityLinkG="210907"/>
+<Equipment equipmentId="10293400" balance="0" countOfSlot="4" def="0" impact="48302" maxAtk="9477" minAtk="9477" passivityLinkG="210907"/>
+<Equipment equipmentId="10293450" balance="0" countOfSlot="4" def="0" impact="48543" maxAtk="9714" minAtk="9714" passivityLinkG="210907"/>
+<Equipment equipmentId="10294400" balance="0" countOfSlot="4" def="0" impact="48785" maxAtk="9952" minAtk="9952" passivityLinkG="210907"/>
+<Equipment equipmentId="10295400" balance="0" countOfSlot="4" def="0" impact="49273" maxAtk="10450" minAtk="10450" passivityLinkG="210907"/>
+<Equipment equipmentId="10295450" balance="0" countOfSlot="4" def="0" impact="49518" maxAtk="10710" minAtk="10710" passivityLinkG="210907"/>
+<Equipment equipmentId="10296400" balance="0" countOfSlot="4" def="0" impact="49764" maxAtk="10971" minAtk="10971" passivityLinkG="210907"/>
+<Equipment equipmentId="10296450" balance="0" countOfSlot="4" def="0" impact="50013" maxAtk="11246" minAtk="11246" passivityLinkG="210907"/>
+<Equipment equipmentId="10297400" balance="0" countOfSlot="4" def="0" impact="50262" maxAtk="11520" minAtk="11520" passivityLinkG="210907"/>
+<Equipment equipmentId="10297450" balance="0" countOfSlot="4" def="0" impact="50512" maxAtk="11807" minAtk="11807" passivityLinkG="210907"/>
+<Equipment equipmentId="10298400" balance="0" countOfSlot="4" def="0" impact="50765" maxAtk="12094" minAtk="12094" passivityLinkG="210907"/>
+<Equipment equipmentId="10298450" balance="0" countOfSlot="4" def="0" impact="51017" maxAtk="12398" minAtk="12398" passivityLinkG="210907"/>
+<Equipment equipmentId="10299400" balance="0" countOfSlot="4" def="0" impact="51272" maxAtk="12701" minAtk="12701" passivityLinkG="210907"/>
+<Equipment equipmentId="10299450" balance="0" countOfSlot="4" def="0" impact="51528" maxAtk="13019" minAtk="13019" passivityLinkG="210907"/>
+<Equipment equipmentId="10392450" balance="0" countOfSlot="4" def="0" impact="51908" maxAtk="12305" minAtk="12305" passivityLinkG="210407"/>
+<Equipment equipmentId="10393400" balance="0" countOfSlot="4" def="0" impact="52166" maxAtk="12606" minAtk="12606" passivityLinkG="210407"/>
+<Equipment equipmentId="10393450" balance="0" countOfSlot="4" def="0" impact="52427" maxAtk="12922" minAtk="12922" passivityLinkG="210407"/>
+<Equipment equipmentId="10394400" balance="0" countOfSlot="4" def="0" impact="52687" maxAtk="13238" minAtk="13238" passivityLinkG="210407"/>
+<Equipment equipmentId="10394450" balance="0" countOfSlot="4" def="0" impact="52950" maxAtk="13568" minAtk="13568" passivityLinkG="210407"/>
+<Equipment equipmentId="10395400" balance="0" countOfSlot="4" def="0" impact="53214" maxAtk="13899" minAtk="13899" passivityLinkG="210407"/>
+<Equipment equipmentId="10395450" balance="0" countOfSlot="4" def="0" impact="53479" maxAtk="14246" minAtk="14246" passivityLinkG="210407"/>
+<Equipment equipmentId="10396400" balance="0" countOfSlot="4" def="0" impact="53746" maxAtk="14593" minAtk="14593" passivityLinkG="210407"/>
+<Equipment equipmentId="10396450" balance="0" countOfSlot="4" def="0" impact="54014" maxAtk="14958" minAtk="14958" passivityLinkG="210407"/>
+<Equipment equipmentId="10397400" balance="0" countOfSlot="4" def="0" impact="54283" maxAtk="15323" minAtk="15323" passivityLinkG="210407"/>
+<Equipment equipmentId="10397450" balance="0" countOfSlot="4" def="0" impact="54553" maxAtk="15705" minAtk="15705" passivityLinkG="210407"/>
+<Equipment equipmentId="10398400" balance="0" countOfSlot="4" def="0" impact="54826" maxAtk="16088" minAtk="16088" passivityLinkG="210407"/>
+<Equipment equipmentId="10398450" balance="0" countOfSlot="4" def="0" impact="55099" maxAtk="16491" minAtk="16491" passivityLinkG="210407"/>
+<Equipment equipmentId="10399400" balance="0" countOfSlot="4" def="0" impact="55373" maxAtk="16894" minAtk="16894" passivityLinkG="210407"/>
+<Equipment equipmentId="10490450" balance="0" countOfSlot="4" def="0" impact="54184" maxAtk="11755" minAtk="11755" passivityLinkG="210407"/>
+<Equipment equipmentId="10491400" balance="0" countOfSlot="4" def="0" impact="54453" maxAtk="12041" minAtk="12041" passivityLinkG="210407"/>
+<Equipment equipmentId="10491450" balance="0" countOfSlot="4" def="0" impact="54726" maxAtk="12342" minAtk="12342" passivityLinkG="210407"/>
+<Equipment equipmentId="10492400" balance="0" countOfSlot="4" def="0" impact="54997" maxAtk="12644" minAtk="12644" passivityLinkG="210407"/>
+<Equipment equipmentId="10492450" balance="0" countOfSlot="4" def="0" impact="55272" maxAtk="12961" minAtk="12961" passivityLinkG="210407"/>
+<Equipment equipmentId="10493400" balance="0" countOfSlot="4" def="0" impact="55547" maxAtk="13277" minAtk="13277" passivityLinkG="210407"/>
+<Equipment equipmentId="10493450" balance="0" countOfSlot="4" def="0" impact="55825" maxAtk="13608" minAtk="13608" passivityLinkG="210407"/>
+<Equipment equipmentId="10494400" balance="0" countOfSlot="4" def="0" impact="56102" maxAtk="13941" minAtk="13941" passivityLinkG="210407"/>
+<Equipment equipmentId="10494450" balance="0" countOfSlot="4" def="0" impact="56382" maxAtk="14290" minAtk="14290" passivityLinkG="210407"/>
+<Equipment equipmentId="10495400" balance="0" countOfSlot="4" def="0" impact="56664" maxAtk="14638" minAtk="14638" passivityLinkG="210407"/>
+<Equipment equipmentId="10495450" balance="0" countOfSlot="4" def="0" impact="56945" maxAtk="15004" minAtk="15004" passivityLinkG="210407"/>
+</EquipmentData>
+
+
+
+

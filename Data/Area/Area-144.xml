@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9081" areaName="EX_HEC_B_SD_P" nameId="9081001" ride="False" worldMapGuardId="1" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9081001" pcMoveCylinder="True" pk="false" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9081">
+    <Fence pos="-30848.9453,76785.6953,5162.5137" />
+    <Fence pos="-61425.0547,76775.9922,6260.0361" />
+    <Fence pos="-61412.0234,61444.8320,1032.8027" />
+    <Fence pos="-30750.0801,61487.5117,-472.6611" />
+  </Section>
+</Area>

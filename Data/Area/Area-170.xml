@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9714" areaName="Cut_Velic_P" nameId="201" ride="False" worldMapGuardId="1" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="0" desTex="False" ignoreObstacleShortTel="False" nameId="9714001" pcMoveCylinder="False" pk="safe" ride="False" vender="False" addMaxZ="256.0" subtractMinZ="100.0" campId="0" floor="1" maze="False" restBonus="True" worldMapSectionId="9714">
+    <Fence pos="-11143.7412,-7173.0381,-9854.1426" />
+    <Fence pos="-11232.4688,-7293.8076,-9854.1445" />
+    <Fence pos="-11292.6504,-7433.4102,-9854.1445" />
+    <Fence pos="-11320.4668,-7567.2017,-9854.1455" />
+    <Fence pos="-11322.7930,-7666.4072,-9854.1436" />
+    <Fence pos="-11293.6436,-7820.3530,-9854.1426" />
+    <Fence pos="-11228.6543,-7975.4468,-9854.1328" />
+    <Fence pos="-11127.9854,-8105.1201,-9854.1250" />
+    <Fence pos="-11014.3652,-8199.1865,-9854.1338" />
+    <Fence pos="-10869.0479,-8271.9600,-9854.1387" />
+    <Fence pos="-10682.5977,-8307.2080,-9854.1309" />
+    <Fence pos="-10504.7988,-8293.0449,-9854.1406" />
+    <Fence pos="-10302.6611,-8215.5703,-9854.1396" />
+    <Fence pos="-10169.0059,-8111.9888,-9854.1367" />
+    <Fence pos="-10053.2266,-7961.6519,-9854.1387" />
+    <Fence pos="-9982.3965,-7767.7178,-9854.1377" />
+    <Fence pos="-9969.2490,-7567.4302,-9854.2031" />
+    <Fence pos="-10026.9541,-7354.0039,-9854.1396" />
+    <Fence pos="-10144.7979,-7175.9712,-9854.1289" />
+    <Fence pos="-10327.4561,-7033.4004,-9854.1270" />
+    <Fence pos="-10537.4551,-6961.7075,-9854.1318" />
+    <Fence pos="-10813.0762,-6974.7661,-9854.1318" />
+    <Fence pos="-11027.9619,-7072.3267,-9854.1182" />
+  </Section>
+</Area>

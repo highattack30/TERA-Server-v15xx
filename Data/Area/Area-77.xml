@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9001" areaName="VK_SD_P" nameId="201" ride="False" worldMapGuardId="1" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="1" desTex="False" nameId="9001001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="500.0" subtractMinZ="500.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9001">
+    <Fence pos="69489.3125,-39089.3633,167.4589" />
+    <Fence pos="69718.1641,-38715.3789,170.5206" />
+    <Fence pos="69736.3438,-37961.9336,165.6832" />
+    <Fence pos="69551.9141,-37579.3320,165.1328" />
+    <Fence pos="68847.1328,-37574.6016,168.3407" />
+    <Fence pos="68639.6719,-37928.1641,196.0948" />
+    <Fence pos="68680.7188,-38742.2617,151.8685" />
+    <Fence pos="68820.2891,-39059.1602,399.9817" />
+    <Fence pos="69046.1719,-39207.5000,-74.4059" />
+    <Fence pos="69326.6563,-39207.5313,-77.6367" />
+  </Section>
+</Area>

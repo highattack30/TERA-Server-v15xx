@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area continentId="9007" areaName="HEC_MIA_P" nameId="214" ride="False" worldMapGuardId="14" worldMapWorldId="9999">
+  <Section huntingZoneId="-1" priority="9007" desTex="False" nameId="9007001" pcMoveCylinder="True" pk="safe" ride="False" vender="False" addMaxZ="1024.0" subtractMinZ="1024.0" campId="0" floor="1" restBonus="False" worldMapSectionId="9007">
+    <Fence pos="-22755.1309,62259.6719,2959.5967" />
+    <Fence pos="-23543.3125,62327.7813,2967.4424" />
+    <Fence pos="-24705.9414,60286.7109,-334.8623" />
+    <Fence pos="-27047.1270,57856.0391,-265.9258" />
+    <Fence pos="-24916.8926,54573.2773,887.9907" />
+    <Fence pos="-22015.0469,54956.0234,2006.0229" />
+    <Fence pos="-19907.4961,57057.5352,2006.0347" />
+    <Fence pos="-17609.1934,57820.2773,806.0439" />
+  </Section>
+</Area>
