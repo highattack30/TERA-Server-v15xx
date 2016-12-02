@@ -858,7 +858,6 @@ bool WINAPI op_request_gamestat_ping(connection *c, void* argv[])
 {
 	c->_recvBuffer.data.Clear();
 	c->_recvBuffer.data.Resize(5);
-	c->_recvBuffer.data.Clear();
 	c->_recvBuffer.data.WriteInt16(4);
 	c->_recvBuffer.data.WriteInt16(S_RESPONSE_GAMESTAT_PONG);
 	return connexion_send(c, &c->_recvBuffer.data);
